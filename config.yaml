@@ -1,0 +1,334 @@
+baseURL: "https://echen.io"
+languageCode: "en-us"
+title: "Eric Chen"
+theme: hugo-profile
+
+Paginate: 3
+# disqusShortname: gurusabarish
+# googleAnalytics: G-DWJJVE27WD
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: https://echen.io
+      weight: 1
+
+    #Dropdown menu
+    - identifier: dropdown
+      title: Example dropdown menu
+      name: Dropdown
+      weight: 2
+    - identifier: dropdown1
+      title: example dropdown 1
+      name: example 1
+      url: /#
+      parent: dropdown
+      weight: 1
+    - identifier: dropdown2
+      title: example dropdown 2
+      name: example 2
+      url: /#
+      parent: dropdown
+      weight: 2
+
+params:
+  title: "Eric Chen"
+  description: Text about my cool site
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/favicon.png"
+
+  theme:
+    disableThemeToggle: false
+    # defaultTheme: "light" # dark
+
+  # font:
+  #   fontSize: 1.5rem # default: 1rem
+  #   fontWeight: 500 # default: 400
+  #   lineHeight: 1 # default: 1.5
+  #   textAlign: right # default: left
+
+  # color preference
+  color:
+  #   textColor:
+  #   secondaryTextColor:
+  #   backgroundColor:
+  #   secondaryBackgroundColor:
+    primaryColor: '#5e8ac7'
+  #   secondaryColor:
+
+  #   darkmode:
+  #     textColor:
+  #     secondaryTextColor:
+  #     backgroundColor:
+  #     secondaryBackgroundColor:
+  #     primaryColor:
+  #     secondaryColor:
+
+  # If you want to customize the menu, you can change it here
+  # navbar:
+  #   align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+  #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+  #   brandName: "Profile" # Brand name for the brand | default is the title variable
+
+  #   menus:
+  #     disableAbout: true
+  #     disableExperience: true
+  #     disableEducation: true
+  #     disableProjects: true
+  #     disableAchievements: true
+  #     disableContact: true
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Eric Chen."
+    subtitle: "I build things for the web"
+    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    image: /images/eric.jpg
+    button:
+      enable: true
+      name: "Resume"
+      url: "#"
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/cloudui
+        - icon: fab fa-twitter
+          url: https://twitter.com/below_ocean
+        - icon: fab fa-linkedin
+          url: https://linkedin.com/in/ericchen03
+      customIcons:
+        # - icon: /fav.png
+        #   url: "https://example.com"
+
+  # About
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/eric.jpg"
+    content: |-
+      A grand and warm welcome to you, my friend. Allow me to introduce myself. 
+      I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a 
+      Rubik's cube in less than 10 seconds. If we had more time, I would share my love for basketball, weightlifting, reading, Frank Sinatra, writing & blogging, and the violin. If I could describe 
+      myself in one word, I would say I am a learner, one who desires to uniquely perceive the world. I strive to live a life with few regrets in the comforting embrace of interminable relationships.
+
+      This is what I would tell you if I was meeting you as a friend. But purely professionally, I am a cloud-native computing enthusiast. I love tinkering with the breadth of services
+      offered by AWS and GCP. I love making websites, writing funny bots on Twitter, and exploring modern technology. I am taking steps to enter the novel machine learning world, but I 
+      still primarily remain a student. In university, I am hoping to peer into the world of engineering as well, testing myself whether I can be engrossed in the likes of robotics
+      and hardware design. Alas, it still remains a mystery, but I aim to clear the fog over the next few years. 
+
+      Now, you look like an interesting lad as well, probably more interesting than me. I want to learn about you! Find me in my socials at the bottom of the page, and let's chat!
+
+
+
+    skills:
+      enable: true
+      title: "Here are some technologies I have been working with recently"
+      items:
+        - "K8s & Docker"
+        - "GCP"
+        - "Python"
+        - "Hugo"
+        - "Arduino"
+        - "Jupyter & Vertex.ai"
+
+  # Experience
+  experience:
+    enable: true
+    items:
+      - job: "Machine Learning Engineer"
+        company: "Mailchimp"
+        companyUrl: "https://mailchimp.com"
+        date: "Jun 2022 - present"
+        featuredLink:
+          enable: true
+          name: "View the project"
+          url: "https://example.com"
+        content: |-
+          I am working within the Data Science Division - MLOps Team within Mailchimp. I am currenlty experimenting with methods to optimize the deployment of data science models to production. 
+          
+          Some of the cool technologies I'm working with and learning:
+          - Kubernetes and Docker
+          - Jenkins and Airflow
+          - Python Library Template Engines
+          - Google Cloud Platform
+        
+      
+      # Trailblazer
+      - job: "Head Coach and Administrator"
+        company: "Trailblazer Debate"
+        companyUrl: "https://example.com"
+        date: "Sep 2021 - Present"
+        featuredLink:
+          enable: true
+          url: "https://example.com"
+        info:
+          enable: true
+          content: Organize classes seasonally.
+        content: |
+          We teach public forum debate to middle school students around the country. 
+          I have coached students on how to plan debate strategies, organize evidence, think critically, and speak with authority. 
+          I handled Trailblazer's sign-up, administrative organization, advertising, and financial system. 
+          Our team has successfully hosted 6 debate camp sessions so far!
+
+      # UMD ML 
+      - job: "Machine Learning Research Intern"
+        company: "UMD"
+        companyUrl: "https://example.com"
+        date: "Jun 2020 - Aug 2020"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          url: "https://example.com"
+        content: |
+          I conducted a research project at what would be my future alma mater in my junior year of high school. Having exprimented with Twitter's Developer API before my internship, 
+          I was inspired to do machine learning research on public sentiment on the social media platform. I worked under Dr. Heidi Komkov of the Nonlinear Dynamics Laboratory.
+          - Designed an Artificial Neural Network with Pandas, Scikit-Learn, and TensorFlow to predict the exposure of tweets using sentiment analysis. 
+          - Created a custom data pipeline using Python and the Twitter Application Programming Interface. 
+          - Collaborated with mentors to determine and optimize hyperparameters for making predictive estimations of exposure.
+          - Presented research to laboratory and peers.
+
+      # NIH 
+      - job: "Data Science Research Intern"
+        company: "National Institute of Health"
+        companyUrl: "https://nih.gov"
+        date: "Aug 2019 - Nov 2020"
+        featuredLink:
+          enable: true
+          url: "https://aacrjournals.org/cancerres/article/80/16_Supplement/2763/642171/Abstract-2763-Identification-of-mouse-embryo-genes"
+        content: |
+          I and four other collaborators studied the effects of gene expression during embryogenis on cancer metastasis. We queried the E14.5 mouse embryo database using CBioPortal, one of the
+          leading online hosts of cancer research data.
+          - Queried and identified a dozen critical cancer-related genes in the central nervous system of the E14.5 mouse embryo
+          - Performed statistical analysis and analyzed Kaplan-Meier Curves for each gene using cBioPortal genomic datasets
+          
+          Our abstract was accepted by the AACR, and we were invited to present at their annual conference in 2020. Unfortunately, due to the COIVD pandemic, we were not able to present.
+
+  # Education
+  education:
+    enable: true
+    index: true
+    items:
+      - title: "B.S. in Computer Engineering"
+        school:
+          name: "University of Maryland - College Park"
+          url: "https://umd.edu"
+        date: "2021 - 2024"
+        GPA: "3.95"
+        content: |-
+          Minor in Robotics and Autonomous Systems.
+
+          Honors Programs:
+          - University Honors
+          - QUEST - Collaborative Business and Engineering Teams Program
+
+          Extracurricular Activities:
+          - Terps Racing SAE Formula - Composites Team
+          - SEDS Liquid Rocket Team - Data Acquisition Team Lead
+          - Terps in Space Researcher
+          - Northrop Grumman Environmental Sustainability Challenge Champion
+
+          Relevant Coursework: Computer Systems, Differential Equations, Electric Circuits, Algorithms, Signal Analysis, Discrete Mathematics, Engineering Design, Organization of Programming Languages
+        featuredLink:
+          enable: true
+          name: "My academic record"
+          url: "https://example.com"
+      - title: "Science, Mathematics, and Computer Science Magnet Program"
+        date: 2017 - 2021
+        school:
+          name: "Montgomery Blair High School"
+          url: "https://mbhs.edu"
+        # GPA: "4.2 out of 5.0"
+        content: |-
+          Activities: Science Bowl Team (B Captain), Math Team, National Circuit Debate Team (Public Forum), Astronomy Team (Captain), Rubik's Cube Team (Regional Champion)
+        featuredLink:
+          enable: true
+          url: "https://example.com"
+
+  # Achievements
+  achievements:
+    enable: true
+    items:
+      - title: 1st Place - Northrop Grumman Environmental Sustainability Challenge
+        content: Designed and built an IoT storm water management system to prevent runoff and flooding on residential properties
+        url: http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-environmental-sustainability.html
+      - title: Science Bowl Regional Champion, National 9th Place
+        content: Nationwide academic competition that tests students’ knowledge in all areas of science and mathematics.
+      - title: 4x American Invitational Math Examination Qualifier
+        content: Second level of AMC Series Math Competitions. 
+        url: "https://github.com/gurusabarish/hugo-profile"
+      - title: Microsoft Imagine Runner
+        content: We are developed a product which can help others.
+      - title: Google Summer of Code
+        content: Contributed to a open source project.
+        url: https://example.com
+
+  # projects
+  projects:
+    enable: true
+    items:
+      - title: Echen's Blog
+        content: Want to learn about personal development, AWS, and the college experience? Take a look at my personal blog that I created with Jekyll.
+        image: /images/projects/echenblog.png
+        featured:
+          name: Site
+          link: https://echen.io
+        badges:
+          - "Jekyll"
+          - "HTML/CSS/JS"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/cloudui/echen
+
+      - title: Image Converter
+        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://django-converter.herokuapp.com
+        # badges:
+        #   - "Django"
+        #   - "Bootstrap"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
+
+      - title: Hugo Profile V2
+        content: A clean and simple Hugo template for personal portfolio and blog.
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Demo V2
+          link: https://hugo-profile-2.netlify.app
+        # badges:
+        #   - "Hugo"
+        #   - "Bootstrap"
+        #   - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/HugoProfileV2
+
+  #Contact
+  contact:
+    enable: true
+    content: Send me an email if you need anything or have any questions. My inbox is always open. 
+    email: gurusabarisha@gmail.com
+    btnName: Email me
+
+  footer:
+    recentPosts: false
+    socialNetworks:
+      github: https://github.com/cloudui
+      linkedin: https://linkedin.com/in/ericchen03
+      twitter: https://twitter.com/below_ocean
+      instagram: https://instagram.com/violeric
+      # reddit: https://echen.io
+      # facebook: https://facebook.com
