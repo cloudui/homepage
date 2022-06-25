@@ -5,7 +5,7 @@ draft: false
 author: "Eric Chen"
 tags:
   - Emoji
-image: /images/extracurriculars/trcar.jpeg
+image: /images/projects/pulsar1.png
 toc: false
 
 badges: 
@@ -14,8 +14,8 @@ badges:
   - "AWS"
 
 links:
-  - icon: "fa-brands fa-linux"
-    url: http://racing.umd.edu
+  - icon: "fab fa-github"
+    url: https://github.com/cloudui/pulsaracademy
 ---
 
 
