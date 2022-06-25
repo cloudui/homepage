@@ -284,37 +284,17 @@ params:
           link: https://echen.io
         badges:
           - "Jekyll"
-          - "HTML/CSS/JS"
+          - "HTML"
+          - "CSS" 
+          - "JS"
         links:
           - icon: fab fa-github
             url: https://github.com/cloudui/echen
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+# extracurriculars
+  extracurriculars:
+    enable: true
+    
 
   #Contact
   contact:

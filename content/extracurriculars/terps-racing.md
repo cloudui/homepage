@@ -7,9 +7,18 @@ tags:
   - Emoji support
   - Sample
   - example
-image: /images/projects/trcar.jpg
+image: /images/extracurriculars/trcar.jpeg
 toc: false
+
+badges: 
+  - "Composites"
+
+links:
+  - icon: "fas fa-info-circle"
+    url: http://racing.umd.edu
 ---
 
 
-Heyo 
+Built the carbon fiber monocoque of the team's formula car
+- Learned design and engineering process of developing rigid automotive structures
+- Implemented carbon fiber layups, vacuum sealing, wet and dry sanding, 3D printing, Bondo, epoxy + resin, molding/mold release, waxing
