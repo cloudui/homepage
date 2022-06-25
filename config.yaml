@@ -284,7 +284,9 @@ params:
           link: https://echen.io
         badges:
           - "Jekyll"
-          - "HTML/CSS/JS"
+          - "HTML"
+          - "CSS" 
+          - "JS"
         links:
           - icon: fab fa-github
             url: https://github.com/cloudui/echen
@@ -315,6 +317,11 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
+
+# extracurriculars
+  extracurriculars:
+    enable: true
+    
 
   #Contact
   contact:
