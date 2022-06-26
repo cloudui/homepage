@@ -14,29 +14,53 @@ markup:
 
 Menus:
   main:
+    - identifier: your mom
+      name: Lists
+      title: Lists
+      url: /lists
+      weight: 2
+
     - identifier: blog
       name: Blog
       title: Blog posts
       url: https://echen.io
-      weight: 1
+      weight: 3
 
     #Dropdown menu
     - identifier: dropdown
       title: Example dropdown menu
-      name: Dropdown
-      weight: 2
+      name: Navigate
+      weight: 1
     - identifier: dropdown1
-      title: example dropdown 1
-      name: example 1
-      url: /#
+      title: About
+      name: About
+      url: /#about
       parent: dropdown
       weight: 1
     - identifier: dropdown2
-      title: example dropdown 2
-      name: example 2
-      url: /#
+      title: Experience
+      name: Experience
+      url: /#experience
       parent: dropdown
       weight: 2
+    - identifier: dropdown3
+      title: Extracurriculars
+      name: Extracurriculars
+      url: /#extracurriculars
+      parent: dropdown
+      weight: 3
+    - identifier: dropdown4
+      title: Projects
+      name: Projects
+      url: /#projects
+      parent: dropdown
+      weight: 4
+    - identifier: dropdown5
+      title: Achievements
+      name: Achievements
+      url: /#achievements
+      parent: dropdown
+      weight: 5
 
 params:
   title: "echen.io"
@@ -77,13 +101,13 @@ params:
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # brandName: "Profile" # Brand name for the brand | default is the title variable
 
-    # menus:
-    #   disableAbout: true
-    #   disableExperience: true
-    #   disableEducation: true
-    #   disableProjects: true
-    #   disableAchievements: true
-    #   disableContact: true
+    menus:
+      disableAbout: true
+      disableExperience: true
+      disableEducation: true
+      disableProjects: true
+      disableAchievements: true
+      disableContact: true
 
   # Hero
   hero:
@@ -114,28 +138,18 @@ params:
     enable: true
     title: "About Me"
     image: "/images/texaseric.jpeg"
-    content: 
-      casual: 
+    content: |-
         A grand and warm welcome to you, my friend. Allow me to introduce myself. 
         I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a 
         Rubik's cube in less than 10 seconds. If we had more time, I would share my love for basketball, weightlifting, reading, Frank Sinatra, writing & blogging, and the violin. If I could describe 
         myself in one word, I would say I am a learner, one who desires to uniquely perceive the world. I strive to live a life with few regrets in the comforting embrace of interminable relationships.
 
         Now, you look like an interesting lad as well, probably more interesting than me. I want to learn about you! Find me in my socials at the bottom of the page, and let's chat!
-      professional:
-        I am a cloud-native computing enthusiast. I love tinkering with the breadth of services offered by AWS and GCP. So much so that I obtained an AWS Solutions Architect Certification and am looking to take the GCP ACE exam this summer.
-        I spend a lot of time thinking about automation, networking, and pipelines. I'm always looking for more cool tools to experiment with. 
-        
-        I love making websites, writing funny bots on Twitter, and exploring the latest tech gadgets. I am taking steps to enter the novel machine learning world, but I 
-        still am in the early learning stages. I am also hoping to explore blockchains and quantatative trading. In university, I am aiming to peer into the world of robotics and hardware design.
-
-        I am always looking to gather more resources. If you consider yourself an expert in anything, please reach out and send me your most recommended texts or videos. I would love to take a look!
-
 
 
     # skills:
     #   enable: true
-    #   title: "Here are some technologies I have been working with recently"
+    #   title: "Here are some technologies I have been working with recently:"
     #   items:
     #     - "K8s & Docker"
     #     - "GCP"
@@ -203,7 +217,7 @@ params:
 
       # NIH 
       - job: "Data Science Research Intern"
-        company: "National Institute of Health"
+        company: "National Institutes of Health"
         companyUrl: "https://nih.gov"
         date: "Aug 2019 - Nov 2020"
         featuredLink:
@@ -279,7 +293,7 @@ params:
     enable: true
     items:
       - title: Echen's Blog
-        content: Want to learn about personal development, AWS, and the college experience? Take a look at my personal blog that I created with Jekyll.
+        content: Want to learn about personal development, booming tech, and the college experience? Take a look at my personal blog that I created with Jekyll.
         image: /images/projects/echenblog.png
         featured:
           name: Site
