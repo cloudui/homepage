@@ -8,34 +8,19 @@
                 <div class="image d-flex px-5">
                     <img src="{{ .Site.Params.about.image }}" class="img-thumbnail mx-auto rounded-circle" alt="">
                 </div>
-                <br><br>
-                <div class="text-center">
-                <button id="about-toggle">
-                    <i class="fas fa-toggle-off fa-2xl"></i>
-                </button>
-                </div>
             </div>
             {{ end }}
             <div class="col-sm-12 col-md-12 col-lg-8 content">
-                <div class="visible" id="casual">
-                    {{ .Site.Params.about.content.casual | markdownify }}
-                </div>
-                
-                <div class="hidden" id="professional">
-                    {{ .Site.Params.about.content.professional | markdownify }}
+                {{ .Site.Params.about.content | markdownify }}
 
-                    {{ if .Site.Params.about.skills.enable }}
-                    {{ .Site.Params.about.skills.title }}
-                    <ul>
-                        {{ range .Site.Params.about.skills.items }}
-                        <li>{{ . | markdownify }}</li>
-                        {{ end }}
-                    </ul>
+                {{ if .Site.Params.about.skills.enable }}
+                {{ .Site.Params.about.skills.title }}
+                <ul>
+                    {{ range .Site.Params.about.skills.items }}
+                    <li>{{ . | markdownify }}</li>
                     {{ end }}
-                </div>
-
-                
-
+                </ul>
+                {{ end }}
                 
             </div>
 
@@ -46,52 +31,6 @@
         </div>
     </div>
 
-    <script>
-        var toggled = false;
-
-        const toggle = document.getElementById("about-toggle");
-        
-        toggle.addEventListener('click', function() {
-            
-            if(!toggled) {
-                toggled = true;
-                let casual = document.getElementById("casual");
-                let professional = document.getElementById("professional");
-
-                casual.classList.remove("visible");
-                casual.classList.add("hidden");
-
-                professional.classList.add("visible");
-                professional.classList.remove("hidden");
-
-            } else {
-                toggled = false;
-                let casual = document.getElementById("casual");
-                let professional = document.getElementById("professional");
-                
-                casual.classList.add("visible");
-                casual.classList.remove("hidden");
-
-                professional.classList.remove("visible");
-                professional.classList.add("hidden");
-            }
-        });
-        </script>
-
-        <style>
-            .hidden {
-                display: none;
-                visibility: hidden;
-                opacity: 0;
-                transition: display 0s, opacity 0.5s linear;
-            }
-
-            .visible {
-                display: block;
-                visibility: visible;
-                opacity: 1;
-            }
-        </style>
 </section>
 
 
