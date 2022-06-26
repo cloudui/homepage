@@ -3,6 +3,9 @@ languageCode: "en-us"
 title: "Eric Chen"
 theme: hugo-profile
 
+urls:
+  blog: https://echen.io
+
 Paginate: 3
 # disqusShortname: gurusabarish
 # googleAnalytics: G-DWJJVE27WD
@@ -114,8 +117,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Eric Chen."
-    subtitle: "I'm a student of computer engineering."
-    content: "I'm interested in people, philosophy, and technology. In my free time, I write for the web. I love to learn, and I love to share."
+    subtitle: "I'm a computer engineering student."
+    content: "I'm interested in people, philosophy, and technology. In my free time, I write for the web."
     image: /images/keneric.jpg
     button:
       enable: true
