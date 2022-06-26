@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  {{- partial "head.html" . -}}
+  {{- block "head" . }} {{- end }}
+
+  <link rel="stylesheet" href="/css/custom.css" />
+
+  <title>
+    {{- block "title" . }} {{- end }}
+  </title>
+</head>
+
+<body class="light" onload="loading()">
+  <!-- javascripts -->
+  <!-- <script src="/js/jquery-3.6.0.min.js"></script> -->
+  <script src="{{ .Site.Params.staticPath }}/bootstrap-5/js/bootstrap.bundle.js"></script>
+  <script src="{{ .Site.Params.staticPath }}/js/portfolio.js"></script>
+
+  {{- partial "sections/header.html" . -}}
+  <div id="content">
+    {{- block "main" . }}{{- end }}
+  </div>
+  {{- partial "sections/footer/index.html" . -}}
+  {{- partial "scripts.html" . -}}
+</body>
+
+</html>

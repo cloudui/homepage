@@ -11,8 +11,6 @@ img {
     margin-right: auto;
 }
 
-#themetoggle {
-    bottom: 100px !important;
+.portfolio {
+    display: none;
 }
-
-img[data-src][data-loaded=true]{animation:fade-in linear .5s}
