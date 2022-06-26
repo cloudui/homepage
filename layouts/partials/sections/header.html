@@ -35,9 +35,12 @@
                 {{ else }}
                 {{ .Site.Params.navbar.brandName | default .Site.Params.title }}
                 {{ end }}
-            </a>
-            <button onclick="ptoggle()" id="portfolio-toggler">Toggle</button>
 
+                <span class="animate__animated animate__slideInLeft">
+                <small class="text-secondary ms-1 portfolio">Portfolio <i class="fas fa-user-tie"></i></small>
+                </span>
+            </a>
+        
             <!-- navbar toggler -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
                 aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,9 +51,17 @@
 
             <!-- navbar content -->
             <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
+                
                 <ul class="navbar-nav {{ .Site.Params.navbar.align | default "ms-auto"}} text-center">
-                    {{ if and (.Site.Params.about.enable | default false) (not (.Site.Params.navbar.menus.disableAbout | default false)) }}
                     <li class="nav-item navbar-text">
+                        <a class="nav-link toggle" onclick="ptoggle()" id="portfolio-toggler">
+                            Portfolio <i class="fas fa-lock" id="lock"></i>
+                            <i class="fas fa-unlock" id="unlock"></i>
+                        </a>
+                    </li>
+
+                    {{ if and (.Site.Params.about.enable | default false) (not (.Site.Params.navbar.menus.disableAbout | default false)) }}
+                    
                         <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#about" aria-label="about">About</a>
                     </li>
                     {{ end }}
@@ -94,6 +105,7 @@
                     {{ range .Site.Menus.main }}
                     {{ if .HasChildren }}
                     <!-- Dropdown menu -->
+                    <div class="portfolio">
                     <li class="nav-item navbar-text dropdown">
                         <a class="nav-link dropdown-toggle" href="{{ .URL }}" id="navbarDropdown" role="button"
                             data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="{{ .Title }}">
@@ -108,6 +120,7 @@
                             {{ end }}
                         </div>
                     </li>
+                    </div>
                     {{else}}
                     <!-- Single menu item -->
                     <li class="nav-item navbar-text">

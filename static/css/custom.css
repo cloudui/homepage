@@ -1,5 +1,5 @@
 
-img {
+img .md {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
@@ -13,4 +13,24 @@ img {
 
 .portfolio {
     display: none;
+}
+
+body.formal .portfolio {
+    display: inline;
+}
+
+body:not(.formal) .portfolio {
+    display: none;
+}
+
+body.formal #lock {
+    display: none;
+}
+
+body:not(.formal) #unlock {
+    display: none;
+}
+
+.toggle:hover {
+    cursor: pointer;
 }

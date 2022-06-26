@@ -1,26 +1,27 @@
 
+if (localStorage.getItem("pfolio") === "formal") {
+    document.body.classList.add('formal');
+} else {
+    document.body.classList.remove('formal');
+}
 
-let toggled = false;
 
 function ptoggle() {
     let animate = document.getElementById('animate-section');
-    let pfolio = document.getElementsByClassName('portfolio');
+    let pfolio = document.body;
 
-    if (!toggled) {
-        toggled = true;
+    if (!pfolio.className.includes('formal')) {
+        localStorage.setItem("pfolio", "formal");
         
-        for (let i = 0; i < pfolio.length; i++) {
-            pfolio[i].style.display = "block"
-        }
-        animate.classList.remove('animate__flash')
+        pfolio.classList.add('formal');
+
+        animate.classList.remove('animate__flash');
         animate.classList.add('animate__bounce');
 
     } else {
-        toggled = false;        
-
-        for (let i = 0; i < pfolio.length; i++) {
-            pfolio[i].style.display = "none"
-        }
+        localStorage.setItem("pfolio", "casual");      
+        
+        pfolio.classList.remove('formal');
 
         animate.classList.remove('animate__bounce');
         animate.classList.add('animate__flash');
