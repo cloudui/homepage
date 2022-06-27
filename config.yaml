@@ -90,12 +90,12 @@ params:
     primaryColor: '#5e8ac7'
   #   secondaryColor:
 
-  #   darkmode:
+    darkmode:
   #     textColor:
   #     secondaryTextColor:
   #     backgroundColor:
   #     secondaryBackgroundColor:
-  #     primaryColor:
+      primaryColor: '#5e8ac7'
   #     secondaryColor:
 
   # If you want to customize the menu, you can change it here

@@ -19,21 +19,24 @@
 {{- partial "sections/hero/index.html" . -}}
 {{- partial "sections/about.html" . -}}
 
-    <div class="container text-center">
-    <a class="btn btn-danger" data-bs-toggle="collapse" href="#portfolio">
-        McButton Extreme
-        <!-- <i class="fas fa-lock" aria-hidden="true"></i> -->
-    </a>
-    
-</div>
+<div class="collapsing-group">
+    <div id="portfolio" class="container text-center">
+        <h1 class="pt-4">Portfolio</h1> 
+        <a class="btn animate__animated" style="color:var(--text-color)" id="pfolio-expand" onclick="ptoggle()">
+            <i class="fas fa-angle-down fa-lg" aria-hidden="true" id="expand"></i>
+            <i class="fas fa-angle-up fa-lg" aria-hidden="true" id="collapse"></i>
+        </a>
+        
+    </div>
 
 
-<div class="collapse" id="portfolio">
-{{- partial "sections/experience.html" . -}}
-{{- partial "sections/education.html" . -}}
-{{- partial "sections/extracurriculars.html" . -}}
-{{- partial "sections/projects.html" . -}}
-{{- partial "sections/achievements.html" . -}}
+<div class="portfolio animate__animated" id="pfolio-section">
+    {{- partial "sections/experience.html" . -}}
+    {{- partial "sections/education.html" . -}}
+    {{- partial "sections/extracurriculars.html" . -}}
+    {{- partial "sections/projects.html" . -}}
+    {{- partial "sections/achievements.html" . -}}
+    </div>
 </div>
 
 {{- partial "sections/contact.html" . -}}
