@@ -53,12 +53,12 @@
             <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
                 
                 <ul class="navbar-nav {{ .Site.Params.navbar.align | default "ms-auto"}} text-center">
-                    <li class="nav-item navbar-text">
+                    <!-- <li class="nav-item navbar-text">
                         <a href="#portfolio" class="nav-link toggle" onclick="ptoggle()">
                             Portfolio <i class="fas fa-lock" id="lock"></i>
                             <i class="fas fa-unlock" id="unlock"></i>
                         </a>
-                    </li>
+                    </li> -->
 
                     {{ if and (.Site.Params.about.enable | default false) (not (.Site.Params.navbar.menus.disableAbout | default false)) }}
                     

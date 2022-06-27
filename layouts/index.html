@@ -20,14 +20,15 @@
 {{- partial "sections/about.html" . -}}
 
     <div class="container text-center">
-    <a class="btn social-icon" data-bs-toggle="collapse" href="#portfolio">
-        <i class="fas fa-lock" aria-hidden="true"></i>
+    <a class="btn btn-danger" data-bs-toggle="collapse" href="#portfolio">
+        McButton Extreme
+        <!-- <i class="fas fa-lock" aria-hidden="true"></i> -->
     </a>
     
 </div>
 
 
-<div class="portfolio" id="portfolio">
+<div class="collapse" id="portfolio">
 {{- partial "sections/experience.html" . -}}
 {{- partial "sections/education.html" . -}}
 {{- partial "sections/extracurriculars.html" . -}}
