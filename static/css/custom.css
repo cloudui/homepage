@@ -11,7 +11,7 @@ img .md {
     margin-right: auto;
 }
 
-.portfolio {
+/* .portfolio {
     display: none;
 }
 
@@ -21,7 +21,7 @@ body.formal .portfolio {
 
 body:not(.formal) .portfolio {
     display: none;
-}
+} */
 
 body.formal #lock {
     display: none;

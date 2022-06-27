@@ -19,13 +19,20 @@
 {{- partial "sections/hero/index.html" . -}}
 {{- partial "sections/about.html" . -}}
 
-<div class="portfolio">
+    <div class="container text-center">
+    <a class="btn social-icon" data-bs-toggle="collapse" href="#portfolio">
+        <i class="fas fa-lock" aria-hidden="true"></i>
+    </a>
+    
+</div>
+
+
+<div class="portfolio" id="portfolio">
 {{- partial "sections/experience.html" . -}}
 {{- partial "sections/education.html" . -}}
 {{- partial "sections/extracurriculars.html" . -}}
 {{- partial "sections/projects.html" . -}}
 {{- partial "sections/achievements.html" . -}}
-
 </div>
 
 {{- partial "sections/contact.html" . -}}
