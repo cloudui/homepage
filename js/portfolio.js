@@ -5,7 +5,6 @@ if (localStorage.getItem("pfolio") === "formal") {
     document.body.classList.remove('formal');
 }
 
-
 function ptoggle() {
     let animate = document.getElementById('animate-section');
     let pfolio = document.body;
@@ -17,6 +16,8 @@ function ptoggle() {
 
         animate.classList.remove('animate__flash');
         animate.classList.add('animate__bounce');
+
+        document.getElementById("portfolio").scrollIntoView();
 
     } else {
         localStorage.setItem("pfolio", "casual");      
