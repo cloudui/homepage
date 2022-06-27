@@ -1,5 +1,4 @@
-
-img .md {
+img.md {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
@@ -11,9 +10,18 @@ img .md {
     margin-right: auto;
 }
 
-.portfolio {
-    display: none;
+.collapsing {
+    /* transition: animate__animated animate__fadeOut !important; */
+    transition: none !important;
 }
+
+/* PORTFOLIO CONTROL */
+.icon-background-menu {
+    box-shadow: 1;
+    color: var(--primary-color);
+    border-color: var(--text-color);
+}
+
 
 body.formal .portfolio {
     display: inline;
@@ -34,6 +42,45 @@ body:not(.formal) #unlock {
 .toggle:hover {
     cursor: pointer;
 }
+
+
+/* Expand menu CSS */
+body.formal #expand {
+    display: none;   
+}
+
+body:not(.formal) #collapse {
+    display: none;
+}
+
+
+/* FA ICON CUSTOMIZATION */
+/* #pfolio-expand {
+    color: var(--primary-color) !important;
+    line-height: 0%;
+    border-radius: 50%;
+    margin-top: 50px;
+    padding: 0.7rem;
+    border: 1px solid var(--primary-color);
+    transition: none;
+} */
+
+/* #pfolio-expand {
+
+    background: var(--background-color);
+    color: var(--primary-color);
+    padding: 0;
+    width: 5.7em;
+    height: 5.7em;
+    border-radius: 50%;
+    border: 1px solid var(--primary-color);
+}
+
+#pfolio-expand i {
+    line-height: 2.7em;
+    position: relative;
+    bottom: 2px
+} */
 
 /* EXTRACURRICULARS CSS */
 
