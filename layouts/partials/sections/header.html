@@ -108,6 +108,8 @@
                     <!-- custom menus from the user -->
                     {{ range .Site.Menus.main }}
                     {{ if .HasChildren }}
+
+                    {{ if $.IsHome }}
                     <!-- Dropdown menu -->
                     <div class="portfolio">
                     <li class="nav-item navbar-text dropdown">
@@ -125,6 +127,7 @@
                         </div>
                     </li>
                     </div>
+                    {{ end }}
                     {{else}}
                     <!-- Single menu item -->
                     <li class="nav-item navbar-text">
