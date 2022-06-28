@@ -49,8 +49,28 @@ body.formal #expand {
     display: none;   
 }
 
+#expand {
+    display: inline-block;
+    transition: transform 0.3s ease-out;
+}
+
+#expand:hover {
+    transform: translate(0, 5px);
+}
+
+/* Collapse menu CSS */
+
 body:not(.formal) #collapse {
     display: none;
+}
+
+#collapse {
+    display: inline-block;
+    transition: transform 0.3s ease-out;
+}
+
+#collapse:hover {
+    transform: translate(0, -5px);
 }
 
 

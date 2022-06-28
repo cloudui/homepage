@@ -53,7 +53,7 @@ function ptoggle() {
         pfolio.classList.remove('animate__fadeOut');
         
 
-        document.getElementById("portfolio").scrollIntoView();
+        // document.getElementById("portfolio").scrollIntoView();
 
     } else {
         toggle.classList.remove('animate__flash');
