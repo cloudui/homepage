@@ -59,7 +59,7 @@
                     <li class="nav-item navbar-text">
 
 
-                        <a href="#portfolio" class="nav-link toggle" onclick="delaytoggle()">
+                        <a {{if .IsHome}}href="#portfolio"{{else}}href="/#portfolio"{{end}} class="nav-link toggle" onclick="delaytoggle()">
                             Portfolio
                         </a>
                     </li>
