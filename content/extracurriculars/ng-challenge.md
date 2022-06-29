@@ -4,17 +4,16 @@ date: 2022-06-25T16:40:48-04:00
 draft: false
 author: "Eric Chen"
 tags:
-  - Emoji support
-  - Sample
-  - example
+  - UMD
+  - competition
+  - engineering
+  - environment
 image: /images/extracurriculars/ng-challenge.png
-toc: false
 
 badges: 
   - "Electronics"
   - "Engineering"
   - "Product Design" 
-
 links:
   - icon: "fas fa-info-circle"
     url: http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-environmental-sustainability.html
@@ -26,7 +25,7 @@ Designed an IoT storm water management system to prevent runoff and flooding on 
 - Evaluated market analytics, centers of influence, and environmental impact of our product
 - Presented prototype and business model to judge panel and placed 1st among participating teams
 
-## Don't let an opportunity slip away
+## Don't let good opportunities slip away
 
 The story of how I became involved with this competition is a funny one. It was a month and a half into my second semester of university. Due to the heavy workload from my new clubs, I was coming home around 9:00-10:00 pm four times a week. My priorities were in a jumble, and my mind was a constantly swimming with items on my todo list. Then, I realized that I was sooaring on Cloud 9 in the first semester. Despite my struggles, I was proud of my mental fortitude, and trivial complications were not going to sway me. 
 
