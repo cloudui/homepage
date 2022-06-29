@@ -166,3 +166,11 @@ body:not(.formal) #collapse {
 #extracurriculars .float-end .btn:focus {
     box-shadow: none !important;
 }
+
+.nav > li > a {
+    font-size: 16px !important;
+}
+
+.nav .nav > li > a {
+    font-size: 14px !important;
+}
