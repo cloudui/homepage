@@ -45,6 +45,7 @@
             {{ if .Params.showInHome | default true }}
             <div class="col-lg-4 col-md-6 my-3">
                 <div class="card my-3 h-100" title="{{ .Title }}">
+                    <a class="h-100" href="{{ .RelPermalink }}">
                     <div class="card-head">
                         <img class="card-img-top" src="{{ .Params.image }}" alt="{{ .Title }}">
                     </div>
@@ -59,6 +60,7 @@
                             {{ .Summary | truncate 150 | safeHTML }}
                         </div>
                     </div>
+                    </a>
                     <div class="card-footer py-3">
                         {{ range .Params.links }}
                         <span class="m-1 mx-2">
@@ -70,7 +72,7 @@
                         <span class="float-end">
                             <a class="" href="{{ .RelPermalink }}">
                                 <!-- Learn more -->
-                                <i class="fas fa-external-link"></i>
+                                <i class="fas fa-book-open"></i>
                             </a>
                         </span>
                     </div>
