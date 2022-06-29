@@ -17,6 +17,8 @@ badges:
 links:
   - icon: "fas fa-info-circle"
     url: http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-environmental-sustainability.html
+  - icon: "fa fa-file-powerpoint"
+    url: http://sheets.google.com
 ---
 
 Designed an IoT storm water management system to prevent runoff and flooding on residential properties
@@ -25,7 +27,7 @@ Designed an IoT storm water management system to prevent runoff and flooding on 
 - Evaluated market analytics, centers of influence, and environmental impact of our product
 - Presented prototype and business model to judge panel and placed 1st among participating teams
 
-## Don't let good opportunities slip away
+# Don't let good opportunities slip away
 
 The story of how I became involved with this competition is a funny one. It was a month and a half into my second semester of university. Due to the heavy workload from my new clubs, I was coming home around 9:00-10:00 pm four times a week. My priorities were in a jumble, and my mind was a constantly swimming with items on my todo list. Then, I realized that I was sooaring on Cloud 9 in the first semester. Despite my struggles, I was proud of my mental fortitude, and trivial complications were not going to sway me. 
 

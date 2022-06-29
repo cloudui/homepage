@@ -16,6 +16,8 @@ badges:
 links:
   - icon: "fab fa-github"
     url: https://github.com/cloudui/pulsaracademy
+  - icon: "far fa-clipboard"
+    url: https://github.com/pulsaracademy
 ---
 
 
@@ -33,7 +35,10 @@ I spent around a month making the website ready for use. I did my development us
 - Payment integration with API requests
 - Authentication to access certain pages
 
-By the end, we had a functioning website with all of the bells and whistles. 
-However, this was only one part of the story. Honestly, it might have been the easiest part. How were we going to get people to register? Nobody knew who we were. My high school friends were not in our target demographic. At last, the question of advertising and recruiting surfaced.
+A month in, we had a functioning website with all of the bells and whistles. All of our content could be hosted and protected on our site. We were able to host the site reliably on AWS with a RDS backend. Our payment integration was successful. However, this was only one part of the story. Honestly, it might have been the easiest part. How were we going to get people to register? Nobody knew who we were. My high school friends were not in our target demographic. At last, the question of advertising and recruiting surfaced. 
+
+What did we do? It wasn't glamorous, but it was something. We made fliers, printed them out, and distributed them around our respective neighborhoods. We did referral discounts. We reached out through our parents' contacts via WeChat, as we knew they had a large reach. We posted online. I had the idea of spending money on Facebook ads. Fifteen dollars gone with no progress. Ultimately, we were able to get a handful of students for each of our classes. Everything went smoothly then. We had a similar recruitment process a few times after, with similar levels of success.
+
+Honestly, teaching was the most fun part. I spent hours upon hours writing notes for each class. It was nice to get a refresher on all things Java and Python, and the kids seemed to enjoy the lectures a lot. It was pretty difficult to get students to be motivated to do homework, and I would definitely take a different approach in the future, if I were ever to do this kind of thing again. I'm honestly pretty proud of how the Java notes turned out. You can check it out in the notes section. 
 
  
