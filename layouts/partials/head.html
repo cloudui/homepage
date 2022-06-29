@@ -21,7 +21,7 @@
 <!-- stylesheets -->
 <link rel="stylesheet" href="{{ .Site.Params.staticPath }}/bootstrap-5/css/bootstrap.min.css" media="all">
 
-{{ if .Params.toc }}
+{{ if .Params.toc | default true}}
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.css">
 {{ end }}
 <link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/header.css" media="all">
