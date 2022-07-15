@@ -174,3 +174,13 @@ body:not(.formal) #collapse {
 .nav .nav > li > a {
     font-size: 14px !important;
 }
+
+.nav-link.active {
+    color: var(--primary-color) !important;
+    border-left-color: var(--primary-color) !important;
+} 
+
+.nav-link:hover {
+    color: var(--primary-color) !important;
+    border-left-color: var(--primary-color) !important;
+} 
