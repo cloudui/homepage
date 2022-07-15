@@ -1,9 +1,13 @@
 ---
 title: "Lists"
-date: 2022-06-26T02:04:46-04:00
+date: 2022-07-15T02:04:46-04:00
 draft: false
 author: Eric Chen
 toc: true
+
+links:
+  - icon: fab fa-goodreads
+    url:  https://www.goodreads.com/user/show/152821310-eric-chen
 ---
 
 I like to keep track of things that I do. Whether it be books I've read, habits I'm forming, or monthly budgets, it's important to keep book of your own progress. I'll share some noteworthy lists I have:
@@ -15,39 +19,31 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - *The Millionare Next Door* - Thomas Stanley & William Danko // 6-7-2022
 
 ### Currently Reading 
-- *The 4-Hour Work Week* - Timothy Ferriss
-- *Subliminal* - Leonard Molodinow
+- *Never Split the Difference* - Chris Voss 
+- *The 4-Hour Work Week* - Timothy Ferriss // paused
+- *Subliminal* - Leonard Molodinow // paused
+
 
 <hr>
 
-## Learning Items
+## Learning Items <i class="fa fa-graduation-cap fa-sm"></i>
 
+- Breakdancing 😳 (with [The Lab D.C.](https://www.breakinlab.com/))
 - GCP ACE Exam Preparation
-- Kubernetes Deep Dive
+- Kubernetes Deep Dive 
 - *Hands-on Machine Learning with Scikit-Learn and Tensorflow* - Aurélien Géron
+- Everything in my books 
 
 <hr>
 
 ## Favorite Quotes <i class="fa fa-quote-left fa-xs"></i>
 
-- "A person's success in life can be measured by the number of uncomfortable conversations he or she is willing to have." - Tim Ferriss
+- *"A person's success in life can be measured by the number of uncomfortable conversations he or she is willing to have."* - Tim Ferriss
+- *"You know, it's funny; when you look at someone through rose-colored glasses, all the red flags just look like flags."* - Wanda, from BoJack Horseman
+- *Do what you can, with what you have, where you are."* - Teddy Roosevelt
+- *"Every action you take is a vote for the type of person you want to be."* - James Clear
+- *"All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory."* - Dale Carnegie
 
-> "A person's success in life can be measured by the number of uncomfortable conversations he or she is willing to have."
-> 
-> -- <cite>Tim Ferriss</cite>
 
 
-# H1 H1 H1
- has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b
 
-## H2
- has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b
-# h2 H2 H2 
- has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b
-
- ## H3 
-  has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b
-## h3
-
- has been a while, huh. Many of you probably though I had perished from the planet, but alas, I have returned. I know I have made many promises about future blog posts, and those promises have not b
-# Conclusion
