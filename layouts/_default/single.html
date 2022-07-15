@@ -48,7 +48,7 @@
           {{ if .Params.toc | default true}}
           <script src="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.js"></script>
           <aside class="toc">
-              <h5>
+              <h5 data-toc-skip>
                 Table Of Contents
               </h5>
               <div class="toc-body">
@@ -61,7 +61,7 @@
 
           {{ if .Params.tags }}
           <aside class="tags">
-            <h5>Tags</h5>
+            <h5 data-toc-skip>Tags</h5>
             <ul class="tags-ul list-unstyled list-inline">
               {{range .Params.tags}}
               <li class="list-inline-item"><a href="{{`tags` | absURL}}/{{.| urlize}}" target="_blank">{{.}}</a></li>
@@ -72,7 +72,7 @@
 
           {{ if .Params.includelinks | default true }}
           <aside class="social">
-            <h5>Links</h5>
+            <h5 data-toc-skip>Links</h5>
             <div class="social-content">
               <ul class="list-inline">
                 {{ range .Params.links }}
