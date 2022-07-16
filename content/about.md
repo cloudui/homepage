@@ -35,6 +35,9 @@ I like a lot of other things too, perhaps even more than computer science or eng
 - Teaching 
 - Earth Science
 - Business & Finance
+- Politics & Culture
+- History 
+- Economics & Hierarchies
 
 Life is too short for me to be committed to one perspective. The only way I'll figure out what I want is to gamble a bit with my life. 
 > Take a chance! All life is a chance. The man who goes farthest is generally the one who is willing to do and dare.

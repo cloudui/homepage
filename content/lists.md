@@ -30,9 +30,10 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 - Breakdancing 😳 (with [The Lab D.C.](https://www.breakinlab.com/))
 - GCP ACE Exam Preparation
-- Kubernetes Deep Dive 
+  - Kubernetes Deep Dive 
 - *Hands-on Machine Learning with Scikit-Learn and Tensorflow* - Aurélien Géron
-- Everything in my books 
+- Japanese, a continuation
+- Everything in my books
 
 <hr>
 
