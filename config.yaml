@@ -30,7 +30,7 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: https://echen.io
+      url: https://blog.echen.io
       weight: 3
 
     #Dropdown menu
