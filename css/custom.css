@@ -3,7 +3,7 @@ img.md {
     height: auto;
     border-radius: 10px;
     /* margin-top: 0.5rem; */
-    margin-bottom: 1.5rem;
+    /* margin-bottom: 1.5rem; */
 
     display: block;
     margin-left: auto;
@@ -173,4 +173,23 @@ body:not(.formal) #collapse {
 
 .nav .nav > li > a {
     font-size: 14px !important;
+}
+
+.nav-link.active {
+    color: var(--primary-color) !important;
+    border-left-color: var(--primary-color) !important;
+} 
+
+.nav-link:hover {
+    color: var(--primary-color) !important;
+    border-left-color: var(--primary-color) !important;
+} 
+
+/* Captions */
+figcaption {
+    text-align: center;
+    color: var(--text-secondary-color);
+    font-size: small;
+    margin-bottom: 1.5em;
+
 }
