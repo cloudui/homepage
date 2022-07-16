@@ -71,7 +71,7 @@ Menus:
 
 params:
   title: "echen.io"
-  description: My Personal Portflio
+  description: Eric Chen's personal homepage
   # staticPath: ""  # The path to serve the static files from
   favicon: "/favicon.png"
 
