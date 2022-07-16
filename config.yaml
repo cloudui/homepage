@@ -326,7 +326,7 @@ params:
   contact:
     enable: true
     content: Send me an email if you have any questions. My inbox is always open. 
-    email: gurusabarisha@gmail.com
+    email: ericchen314@gmail.com
     btnName: Email me
 
   footer:
