@@ -46,7 +46,7 @@ body:not(.formal) #unlock {
 
 /* Expand menu CSS */
 body.formal #expand {
-    display: none;   
+    display: none;
 }
 
 #expand {
@@ -167,23 +167,23 @@ body:not(.formal) #collapse {
     box-shadow: none !important;
 }
 
-.nav > li > a {
+.nav>li>a {
     font-size: 16px !important;
 }
 
-.nav .nav > li > a {
+.nav .nav>li>a {
     font-size: 14px !important;
 }
 
 .nav-link.active {
     color: var(--primary-color) !important;
     border-left-color: var(--primary-color) !important;
-} 
+}
 
 .nav-link:hover {
     color: var(--primary-color) !important;
     border-left-color: var(--primary-color) !important;
-} 
+}
 
 /* Captions */
 figcaption {
@@ -191,5 +191,14 @@ figcaption {
     color: var(--text-secondary-color);
     font-size: small;
     margin-bottom: 1.5em;
+
+}
+
+.page-content > ul {
+    list-style-position: outside !important;
+}
+
+.page-content > li {
+    display: list-item !important;
 
 }
