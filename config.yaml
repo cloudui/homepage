@@ -1,10 +1,10 @@
-baseURL: "http://dev.echen.io"
+baseURL: "http://echen.io"
 languageCode: "en-us"
 title: "echen.io"
 theme: hugo-profile
 
 urls:
-  blog: https://echen.io
+  blog: https://blog.echen.io
 
 Paginate: 3
 # disqusShortname: gurusabarish
