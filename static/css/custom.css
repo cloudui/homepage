@@ -196,9 +196,14 @@ figcaption {
 
 .page-content > ul {
     list-style-position: outside !important;
+    margin-bottom: 1em !important;
 }
 
 .page-content > li {
     display: list-item !important;
 
+}
+
+.page-content ul li li {
+    list-style: outside !important;
 }
