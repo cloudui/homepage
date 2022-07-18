@@ -2,6 +2,9 @@
 title: "SEDS - Liquid Rocket Team"
 date: 2022-06-25T16:40:48-04:00
 draft: false
+
+description: A new division of SEDS@UMD where we design and build 100-1500lbf caliber liquid rocket engines. I lead the data acquisition team, where we are in charge of all things testing. 
+
 author: "Eric Chen"
 tags:
   - engineering
@@ -12,6 +15,8 @@ toc: false
 
 badges: 
   - "LabVIEW"
+  - "Engineering"
+  - "Rockets"
 
 links:
   - icon: "fas fa-info-circle"

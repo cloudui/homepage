@@ -2,6 +2,8 @@
 title: "ENES100: An Engineering Interlude"
 date: 2022-07-15T13:41:48-04:00
 draft: false
+
+description: As part of an interdisciplinary engineering challenge, our team built an autonomous vehicle that traversed a obstacle-ridden arena and collected data from a simulated crash site.
 author: "Eric Chen"
 tags:
   - robotics

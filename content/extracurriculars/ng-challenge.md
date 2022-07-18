@@ -1,6 +1,8 @@
 ---
 title: "Northrop Grumman Environmental Sustainability"
 date: 2022-07-15T16:40:48-04:00
+description: A environmental challenge I competed in during Spring 2022. My team built an iOT smart water management system, placing first overall.
+
 draft: false
 author: "Eric Chen"
 tags:

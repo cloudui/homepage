@@ -2,6 +2,8 @@
 title: "Terps Racing"
 date: 2022-06-25T13:41:48-04:00
 draft: false
+
+description: As part of the composites subteam of our Formula IC division, I helped build the carbon fiber monocoque and major body components of our 2022 and 2023 formula cars. 
 author: "Eric Chen"
 tags:
   - Emoji support

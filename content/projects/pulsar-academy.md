@@ -2,6 +2,9 @@
 title: "Pulsar Academy"
 date: 2022-07-15T13:41:48-04:00
 draft: false
+
+description: My friend Maxwell and I started a business to teach the fundamentals of programming to beginners. We built an online platform using Django that served content to dozens of students. 
+
 author: "Eric Chen"
 tags:
   - coding
