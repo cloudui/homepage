@@ -9,12 +9,18 @@ draft: false
 <img src="/images/eric.jpeg" class="md" width="400" alt="Me"/>
 <br>
 
-Now that you know a bit of background about me, I'll share some career interests with you too. If you want to learn more about the type of person I am, take a look at [my blog](https://echen.io).
+Welcome! I'm Eric, and I'm a sophomore studying Computer Engineering at the University of Maryland. I have a small presence online via [my Twitter](https://twitter.com/below_ocean) and [my blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
+- Technology and the Internet
+- Cognitive Science and Pyschology
+- Areas of Science: Physics, Astronomy, and Geology
+- Culture and Politics
+
+If you want to learn about what kind of person I am, those are the best places to look!
 
 
 # Career Interests
 
-My entire CS path so far has been cloud centric. It all started when I wanted to share Twitter Bot I made that would respond to my friends' tweets. I had to figure out how to deploy it. After consulation with some experts (my dad), I was advised to put my code on a Lambda function on some <i class="fa fa-cloud"></i>. Ever since, I have gone down rabbit holes about the latest and greatest cloud offerings, obtaining a certification in AWS and studying up on technologies such as Kubernetes and Docker. I'm also hoping to become GCP ACE certified by the end of this summer.
+As a computer engineering student, my entire professional career has revolved around computer science and engineering. My entire CS path so far has been cloud centric. It all started when I wanted to share Twitter Bot I made that would respond to my friends' tweets. I had to figure out how to deploy it. After consulation with some experts (my dad), I was advised to put my code on a Lambda function on some <i class="fa fa-cloud"></i>. Ever since, I have gone down rabbit holes about the latest and greatest cloud offerings, obtaining a certification in AWS and studying up on technologies such as Kubernetes and Docker. I'm also hoping to become GCP ACE certified by the end of this summer.
 
 Most of my coding experience is from web development and a bit of machine learning. My first big project was [Pulsar Academy](/projects/pulsaracademy), where I made a website to host coding classes I was going to teach. I was able to experience the full-stack development experience, pulling late night grinds to create user registration, payment integration, and content hosting. Every time I work on a website, I have an undying motivation to fulfill my creative desires, hoping to present something concrete that I can share to the world. 
 
