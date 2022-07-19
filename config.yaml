@@ -312,7 +312,7 @@ params:
         image: /images/projects/echenblog.png
         featured:
           name: Site
-          link: https://echen.io
+          link: https://blog.echen.io
         badges:
           - "Jekyll"
           - "HTML"
