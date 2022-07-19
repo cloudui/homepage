@@ -14,12 +14,14 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 ## Books <i class="fa fa-book-open fa-sm"></i>
 
+- *Never Split the Difference* - Chris Voss // 7-19-2022
 - *How to Win Friends and Influence People* - Dale Carnegie // 6-24-2022
 - *Atomic Habits* - James Clear // 6-14-2022
 - *The Millionare Next Door* - Thomas Stanley & William Danko // 6-7-2022
 
+
 ### Currently Reading 
-- *Never Split the Difference* - Chris Voss 
+- *The Psychology of Money* - Morgan Housel 
 - *The 4-Hour Work Week* - Timothy Ferriss // paused
 - *Subliminal* - Leonard Molodinow // paused
 
