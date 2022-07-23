@@ -21,7 +21,7 @@ badges:
 banner:
   include: true
   type: "danger"
-  text: "The website has been temporarily shut down due to cost provisions." 
+  text: "The pulsar academy website has been temporarily shut down due to cost." 
 
 links:
   - icon: "fab fa-github"
