@@ -207,3 +207,7 @@ figcaption {
 .page-content ul li li {
     list-style: outside !important;
 }
+
+.page-content ol {
+    margin-bottom: 1em !important;
+}
