@@ -22,7 +22,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 
 ### Currently Reading 
-- *Can't Stop Me* - David Goggins
+- *Can't Hurt Me* - David Goggins
 - Vol. 1 of *Sherlock Holmes* - Sir Arthur Conan Doyle
 - *The 4-Hour Work Week* - Timothy Ferriss // paused
 - *Subliminal* - Leonard Molodinow // paused
