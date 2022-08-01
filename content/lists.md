@@ -14,6 +14,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 ## Books <i class="fa fa-book-open fa-sm"></i>
 
+- *The Psychology of Money* - Morgan Housel // 7-29-2022
 - *Never Split the Difference* - Chris Voss // 7-19-2022
 - *How to Win Friends and Influence People* - Dale Carnegie // 6-24-2022
 - *Atomic Habits* - James Clear // 6-14-2022
@@ -21,7 +22,8 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 
 ### Currently Reading 
-- *The Psychology of Money* - Morgan Housel 
+- *Can't Stop Me* - David Goggins
+- Vol. 1 of *Sherlock Holmes* - Sir Arthur Conan Doyle
 - *The 4-Hour Work Week* - Timothy Ferriss // paused
 - *Subliminal* - Leonard Molodinow // paused
 
@@ -35,7 +37,6 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
   - Kubernetes Deep Dive 
 - *Hands-on Machine Learning with Scikit-Learn and Tensorflow* - Aurélien Géron
 - Japanese, a continuation
-- Everything in my books
 
 <hr>
 
