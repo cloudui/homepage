@@ -9,7 +9,7 @@ draft: false
 <img src="/images/eric.jpeg" class="md" width="400" alt="Me"/>
 <br>
 
-Welcome! I'm Eric, and I'm a sophomore studying Computer Engineering at the University of Maryland. I have a small presence online via [my Twitter](https://twitter.com/below_ocean) and [my blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
+**Welcome!** I'm Eric, and I'm a sophomore studying Computer Engineering at the University of Maryland. I have a small presence online via [my Twitter](https://twitter.com/below_ocean) and [my blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
 - Technology and the Internet
 - Cognitive Science and Pyschology
 - Areas of Science: Physics, Astronomy, and Geology
