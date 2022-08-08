@@ -308,7 +308,7 @@ params:
     enable: true
     items:
       - title: Echen's Blog
-        content: Want to learn about personal development, booming tech, and the college experience? Take a look at my personal blog that I created with Jekyll.
+        content: Want to learn about personal development, booming tech, and the college experience? Take a look at my personal blog that I created with Hugo.
         image: /images/projects/echenblog.png
         featured:
           name: Site
