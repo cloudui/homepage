@@ -1,6 +1,6 @@
 ---
 title: "Lists"
-date: 2022-08-01
+date: 2022-08-07
 draft: false
 author: Eric Chen
 toc: true
