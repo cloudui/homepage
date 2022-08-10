@@ -271,10 +271,10 @@ params:
           - Northrop Grumman Environmental Sustainability Challenge Champion
 
           Relevant Coursework: Computer Systems, Differential Equations, Electric Circuits, Algorithms, Signal Analysis, Discrete Mathematics, Engineering Design, Organization of Programming Languages
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+          # url: "https://example.com"
       - title: "Science, Mathematics, and Computer Science Magnet Program"
         date: 2017 - 2021
         school:
@@ -283,24 +283,27 @@ params:
         # GPA: "4.2 out of 5.0"
         content: |-
           Activities: Science Bowl Team (B Captain), Math Team, National Circuit Debate Team (Public Forum), Astronomy Team (Captain), Rubik's Cube Team (Regional Champion)
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
 
   # Achievements
   achievements:
     enable: true
     items:
-      - title: 1st Place - Northrop Grumman Environmental Sustainability Challenge
+      - title: Derek Blume Memorial Scholarship 2022-2023
+        content: Awarded by the Electrical & Computer Engineering Department within the A. James Clark School of Engineering
+        url: https://ece.umd.edu/news/story/memorial-scholarship-created-to-honor-derek-hans-blume-03
+      - title: 1st Place - Northrop Grumman Environmental Sustainability Challenge 2022
         content: Designed and built an IoT storm water management system to prevent runoff and flooding on residential properties
         url: http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-environmental-sustainability.html
-      - title: Science Bowl Regional Champion, National 9th Place
+      - title: Science Bowl Regional Champion, National 9th Place 2021
         content: Nationwide academic competition that tests students’ knowledge in all areas of science and mathematics.
       - title: 4x American Invitational Math Examination Qualifier
         content: Second level of AMC Series Math Competitions. Qualified 2017, 2018, 2020, 2021.
-      - title: Chesapeake Ocean Sciences Bowl Champion
+      - title: Chesapeake Ocean Sciences Bowl Champion 2020
         content: Buzzer-based academic competition with a focus on oceanography and earth science.
-      - title: NSDA Chesapeake Debate Tournament Champion
+      - title: NSDA Chesapeake Debate Tournament Champion 2020
         content: Won regional NSDA circuit debate tournament in the public forum division. Reached double elimination at national championship.
 
   # projects
