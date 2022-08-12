@@ -1,7 +1,7 @@
 baseURL: "http://echen.io"
 languageCode: "en-us"
 title: "echen.io"
-theme: hugo-profile
+theme: hugo-profile-v2
 
 urls:
   blog: https://blog.echen.io
@@ -264,13 +264,19 @@ params:
           - University Honors
           - QUEST - Collaborative Business and Engineering Teams Program
 
+          Accolades: 
+          - Derek Blume Scholarship Awardee 2022-2023
+          - Northrop Grumman Environmental Sustainability Challenge Champion 2022
+          - Dean's List (2x)
+
           Extracurricular Activities:
           - Terps Racing SAE Formula - Composites Team
           - SEDS Liquid Rocket Team - Data Acquisition Team Lead
           - Terps in Space Researcher
-          - Northrop Grumman Environmental Sustainability Challenge Champion
+          - Vietnamese Student Association - Traditional Dancer
 
-          Relevant Coursework: Computer Systems, Differential Equations, Electric Circuits, Algorithms, Signal Analysis, Discrete Mathematics, Engineering Design, Organization of Programming Languages
+          Relevant Coursework: Computer Systems, Differential Equations, Electric Circuits, Algorithms, Discrete Signal Analysis, Discrete Mathematics, Engineering Design, Organization of Programming Languages, 
+          Digital Logic Design
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
