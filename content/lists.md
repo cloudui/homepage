@@ -1,6 +1,6 @@
 ---
 title: "Lists"
-date: 2022-08-07
+date: 2022-08-15
 draft: false
 author: Eric Chen
 toc: true
@@ -10,10 +10,11 @@ links:
     url:  https://www.goodreads.com/user/show/152821310-eric-chen
 ---
 
-I like to keep track of things that I do. Whether it be books I've read, habits I'm forming, or monthly budgets, it's important to keep book of your own progress. I'll share some noteworthy lists I have:
+I like to keep track of things that I do. Whether it be books I've read, habits I'm forming, or monthly budgets, it's important for me to keep book of my progress. 
 
 ## Books <i class="fa fa-book-open fa-sm"></i>
 
+- *Can't Hurt Me* - David Goggins // 8-15-2022
 - *The Psychology of Money* - Morgan Housel // 7-29-2022
 - *Never Split the Difference* - Chris Voss // 7-19-2022
 - *How to Win Friends and Influence People* - Dale Carnegie // 6-24-2022
@@ -22,7 +23,6 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 
 ### Currently Reading 
-- *Can't Hurt Me* - David Goggins
 - Vol. 1 of *Sherlock Holmes* - Sir Arthur Conan Doyle
 - *The 4-Hour Work Week* - Timothy Ferriss // paused
 - *Subliminal* - Leonard Molodinow // paused
@@ -47,7 +47,3 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - *Do what you can, with what you have, where you are."* - Teddy Roosevelt
 - *"Every action you take is a vote for the type of person you want to be."* - James Clear
 - *"All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory."* - Dale Carnegie
-
-
-
-
