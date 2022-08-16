@@ -23,6 +23,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 
 ### Currently Reading 
+- *The Neuroscience of Intelligence* - Richard Haier
 - Vol. 1 of *Sherlock Holmes* - Sir Arthur Conan Doyle
 - *The 4-Hour Work Week* - Timothy Ferriss // paused
 - *Subliminal* - Leonard Molodinow // paused
