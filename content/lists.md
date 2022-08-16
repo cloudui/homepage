@@ -8,6 +8,11 @@ toc: true
 links:
   - icon: fab fa-goodreads
     url:  https://www.goodreads.com/user/show/152821310-eric-chen
+  - icon: fa fa-cloud
+    url: https://acloudguru.com/course/google-certified-associate-cloud-engineer
+  - icon: fab fa-docker
+    url: https://acloudguru.com/course/kubernetes-deep-dive
+
 ---
 
 I like to keep track of things that I do. Whether it be books I've read, habits I'm forming, or monthly budgets, it's important for me to keep book of my progress. 
@@ -34,7 +39,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 ## Learning Items <i class="fa fa-graduation-cap fa-sm"></i>
 
 - Breakdancing 😳 (with [The Lab D.C.](https://www.breakinlab.com/))
-- GCP ACE Exam Preparation
+- GCP ACE Exam Preparation Course // 8-13-2022
   - Kubernetes Deep Dive // 8-7-2022
 - *Hands-on Machine Learning with Scikit-Learn and Tensorflow* - Aurélien Géron
 - Japanese, a continuation
