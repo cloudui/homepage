@@ -177,13 +177,17 @@ params:
       - job: "Machine Learning Engineer"
         company: "Mailchimp"
         companyUrl: "https://mailchimp.com"
-        date: "Jun 2022 - present"
+        date: "Jun 2022 - Sep 2022"
         # featuredLink:
         #   enable: true
         #   name: "View the project"
         #   url: "https://example.com"
         content: |-
           I am working within the Data Science Division - MLOps Team at Mailchimp/Intuit. I am currenlty experimenting with methods to optimize the deployment of data science models to production. 
+          
+          I audited three of the datascience pipelines and proposed a myriad of problems and solutions relating to documentation, testing, versioning, notebook development, and production readiness.
+          I primarily worked on automating Python and SQL documentation generation and version control. I 
+          integrated the solutions into our new repository templates.  
           
           Some of the cool technologies I'm working with and learning:
           - Kubernetes and Docker
@@ -265,7 +269,8 @@ params:
           - QUEST - Collaborative Business and Engineering Teams Program
 
           Accolades: 
-          - Derek Blume Scholarship Awardee 2022-2023
+          - James W. Dally Endowed Scholarship 2022-2023
+          - Derek H. Blume Memorial Scholarship 2022-2023
           - Northrop Grumman Environmental Sustainability Challenge Champion 2022
           - Dean's List (2x)
 
@@ -273,7 +278,6 @@ params:
           - Terps Racing SAE Formula - Composites Team
           - SEDS Liquid Rocket Team - Data Acquisition Team Lead
           - Terps in Space Researcher
-          - Vietnamese Student Association - Traditional Dancer
 
           Relevant Coursework: Computer Systems, Differential Equations, Electric Circuits, Algorithms, Discrete Signal Analysis, Discrete Mathematics, Engineering Design, Organization of Programming Languages, 
           Digital Logic Design
@@ -297,20 +301,27 @@ params:
   achievements:
     enable: true
     items:
+      - title: James W. Dally Endowed Scholarship 2022-2023
+        content: Awarded by the A. James Clark School of Engineering.
+        url: https://eng.umd.edu/james-w-dally-endowed-scholarship
       - title: Derek Blume Memorial Scholarship 2022-2023
-        content: Awarded by the Electrical & Computer Engineering Department within the A. James Clark School of Engineering
+        content: Awarded by the Electrical & Computer Engineering Department within the A. James Clark School of Engineering.
         url: https://ece.umd.edu/news/story/memorial-scholarship-created-to-honor-derek-hans-blume-03
       - title: 1st Place - Northrop Grumman Environmental Sustainability Challenge 2022
         content: Designed and built an IoT storm water management system to prevent runoff and flooding on residential properties
         url: http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-environmental-sustainability.html
       - title: Science Bowl Regional Champion, National 9th Place 2021
         content: Nationwide academic competition that tests students’ knowledge in all areas of science and mathematics.
+        url: https://science.osti.gov/wdts/nsb
       - title: 4x American Invitational Math Examination Qualifier
         content: Second level of AMC Series Math Competitions. Qualified 2017, 2018, 2020, 2021.
+        url: https://www.maa.org/math-competitions/invitational-competitions#:~:text=USA(J)MO-,American%20Invitational%20Mathematics%20Exam,number%20between%200%20to%20999.
       - title: Chesapeake Ocean Sciences Bowl Champion 2020
         content: Buzzer-based academic competition with a focus on oceanography and earth science.
+        url: https://oceanleadership.org/national-ocean-sciences-bowl/
       - title: NSDA Chesapeake Debate Tournament Champion 2020
         content: Won regional NSDA circuit debate tournament in the public forum division. Reached double elimination at national championship.
+        url: https://www.speechanddebate.org/nationals/
 
   # projects
   projects:
