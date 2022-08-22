@@ -33,7 +33,7 @@ Some other things I'm want to investigate:
 - CPU + GPU architecture and design
 
 ## Peeking Over the Walled Garden[^1]
-You might have noticed the underlying presupposition of my career choices. I'm making a pretty big gamble that I will pursue careers related to my major. That only makes sense, right? There are a lot of great things in the CE industry and lots of great choices. But even today, But there's a whole other world out there, and I shouldn't simply box myself into one domain of expertise. 
+You might have noticed the underlying presupposition of my career choices. I'm making a pretty big gamble that I will pursue careers related to my major. That only makes sense, right? There are a lot of great things brewing in the CE industry. But even today, there's a whole other world out there, and I shouldn't simply box myself into one domain of interest. 
 
 I like a lot of other things too, perhaps even more than computer science or engineering. I'm making a devotion to at least consider over the next few years:
 - Psychology and Cognitive Science
@@ -43,7 +43,7 @@ I like a lot of other things too, perhaps even more than computer science or eng
 - Business & Finance
 - Politics & Culture
 - History 
-- Economics & Hierarchies
+- Economics
 
 Life is too short for me to be committed to one perspective. The only way I'll figure out what I want is to gamble a bit with my life. 
 > Take a chance! All life is a chance. The man who goes farthest is generally the one who is willing to do and dare.
