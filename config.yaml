@@ -227,7 +227,7 @@ params:
           enable: false
         content: |
           I conducted a research project at what would be my future alma mater in my junior year of high school. Having exprimented with Twitter's Developer API before my internship, 
-          I was inspired to do machine learning research on public sentiment on the social media platform. I worked under Dr. Heidi Komkov of the Nonlinear Dynamics Laboratory.
+          I was inspired to do machine learning research on public sentiment on the social media platform. I worked under Dr. Daniel Lathrop and Dr. Heidi Komkov of the Nonlinear Dynamics Laboratory.
           - Designed an Artificial Neural Network with Pandas, Scikit-Learn, and TensorFlow to predict the exposure of tweets using sentiment analysis. 
           - Created a custom data pipeline using Python and the Twitter Application Programming Interface. 
           - Collaborated with mentors to determine and optimize hyperparameters for making predictive estimations of exposure.
