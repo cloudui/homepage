@@ -132,7 +132,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/resume.pdf"
+      url: "https://storage.googleapis.com/ecstaticfiles/resume.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
