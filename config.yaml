@@ -149,12 +149,12 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/texaseric.jpeg"
+    image: "/images/bdance.jpeg"
     content: |-
         A grand and warm welcome to you, my friend. Allow me to introduce myself. 
         I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a 
         Rubik's cube in less than 10 seconds. If we had more time, I would share my love for basketball, breakdancing, reading, Frank Sinatra, blogging, and the violin. If I could describe 
-        myself in one word, I would say that I am a learner, one who desires to uniquely perceive the world. 
+        myself in one word, I would say that I am a learner, one who desires to understand the world. 
 
         I was put on this planet with purpose and resolve, and I aim to exploit it. The allure to settle down is strong, but the allure to 
         improve and achieve is even stronger. Most people will follow the main stream, but I will take the distributary (geology jokes). 
