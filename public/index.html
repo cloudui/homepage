@@ -2,10 +2,10 @@
 <html>
 
 <head>
-	<meta name="generator" content="Hugo 0.101.0" /><meta charset="UTF-8">
+	<meta name="generator" content="Hugo 0.102.3" /><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link rel="icon" href=/fav.png type="image/gif">
+<link rel="icon" href=/favicon.png type="image/gif">
 
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -19,32 +19,26 @@
 
 
 
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'G-DWJJVE27WD', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
-<meta property="og:title" content="Hugo Profile" />
-<meta property="og:description" content="Text about my cool site" />
+<meta property="og:title" content="echen.io" />
+<meta property="og:description" content="Eric Chen&#39;s personal homepage" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://hugo-profile.netlify.app/" /><meta property="og:site_name" content="Hugo Profile" />
+<meta property="og:url" content="http://echen.io/" /><meta property="og:site_name" content="echen.io" />
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Hugo Profile"/>
-<meta name="twitter:description" content="Text about my cool site"/>
+<meta name="twitter:title" content="echen.io"/>
+<meta name="twitter:description" content="Eric Chen&#39;s personal homepage"/>
 
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.css">
+
 <link rel="stylesheet" href="/css/header.css" media="all">
 <link rel="stylesheet" href="/css/footer.css" media="all">
+
 
 
 <link rel="stylesheet" href="/css/theme.css" media="all">
@@ -58,7 +52,7 @@ if (!doNotTrack) {
         --text-secondary-color: #6c757d;
         --background-color: #eaedf0;
         --secondary-background-color: #64ffda1a;
-        --primary-color: #007bff;
+        --primary-color: #5e8ac7;
         --secondary-color: #f8f9fa;
 
          
@@ -66,7 +60,7 @@ if (!doNotTrack) {
         --text-secondary-color-dark: #b0b3b8;
         --background-color-dark: #18191a;
         --secondary-background-color-dark: #212529;
-        --primary-color-dark: #ffffff;
+        --primary-color-dark: #5e8ac7;
         --secondary-color-dark: #212529;
     }
     body {
@@ -77,23 +71,32 @@ if (!doNotTrack) {
     }
 </style>
 
-<meta name="description" content=Text&#32;about&#32;my&#32;cool&#32;site>
+<meta name="description" content=Eric&#32;Chen&#39;s&#32;personal&#32;homepage>
 <link rel="stylesheet" href="/css/index.css" media="all">
 <link rel="stylesheet" href="/css/projects.css" media="all">
 
 
-<script defer src="/fontawesome-5/all-5.15.4.js"></script>
+
+
+<script src="https://kit.fontawesome.com/5bf9a901de.js" crossorigin="anonymous"></script>
+
+
+  <link rel="stylesheet" href="/css/custom.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  
 
   <title>
-Hugo Profile
+echen.io
 
   </title>
 </head>
 
-<body class="light" onload="loading()">
+<body data-bs-spy="scroll" data-bs-target="#toc" class="light" onload="loading()">
   
-  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="/bootstrap-5/js/bootstrap.bundle.js"></script>
+
+  <script src="/js/portfolio.js"></script>
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -113,12 +116,13 @@ Hugo Profile
             
             <a class="navbar-brand primary-font text-wrap" href="/">
                 
-                <img src="/fav.png" width="30" height="30"
+                <img src="/favicon.png" width="30" height="30"
                     class="d-inline-block align-top">
-                Hugo Profile
+                echen.io
                 
-            </a>
 
+            </a>
+        
             
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
                 aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -129,46 +133,26 @@ Hugo Profile
 
             
             <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
+                
                 <ul class="navbar-nav ms-auto text-center">
-                    
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/#about" aria-label="about">About</a>
+
+
+                        <a href="#portfolio" class="nav-link toggle" onclick="delaytoggle()">
+                            Portfolio
+                        </a>
                     </li>
+
                     
 
                     
-                    <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/#experience"
-                            aria-label="experience">Experience</a>
-                    </li>
+
                     
 
                     
-                    <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/#education"
-                            aria-label="education">Education</a>
-                    </li>
-                    
 
                     
-                    <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/#projects"
-                            aria-label="projects">Projects</a>
-                    </li>
-                    
 
-                    
-                    <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/#achievements"
-                            aria-label="achievements">Achievements</a>
-                    </li>
-                    
-
-                    
-                    <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/#contact"
-                            aria-label="contact">Contact</a>
-                    </li>
                     
 
                     
@@ -176,33 +160,30 @@ Hugo Profile
                     
                     
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/blogs" title="Blog posts">
+                        <a class="nav-link" href="/about" title="About">
+                            
+                            About
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/lists" title="Lists">
+                            
+                            Lists
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="https://blog.echen.io" title="Blog posts">
                             
                             Blog
                         </a>
-                    </li>
-                    
-                    
-                    
-                    
-                    <li class="nav-item navbar-text dropdown">
-                        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Example dropdown menu">
-                            Dropdown
-                        </a>
-                        <div class="dropdown-menu shadow-lg rounded" aria-labelledby="navbarDropdown">
-                            
-                            <a class="dropdown-item text-center nav-link" href="/"
-                                title="example dropdown 1">
-                                example 1
-                            </a>
-                            
-                            <a class="dropdown-item text-center nav-link" href="/"
-                                title="example dropdown 2">
-                                example 2
-                            </a>
-                            
-                        </div>
                     </li>
                     
                     
@@ -212,20 +193,8 @@ Hugo Profile
                 
                 <div class="text-center">
                     <button id="theme-toggle">
-                        <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                        </svg>
-                        <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <circle cx="12" cy="12" r="5"></circle>
-                            <line x1="12" y1="1" x2="12" y2="3"></line>
-                            <line x1="12" y1="21" x2="12" y2="23"></line>
-                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                            <line x1="1" y1="12" x2="3" y2="12"></line>
-                            <line x1="21" y1="12" x2="23" y2="12"></line>
-                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                        </svg>
+                        <i class="fas fa-adjust fa-rotate-180 fa-xs" id="sun"></i>
+                        <i class="fas fa-adjust fa-rotate-180 fa-xs" id="moon"></i>
                     </button>
                 </div>
             
@@ -234,27 +203,32 @@ Hugo Profile
         </div>
     </nav>
 </header>
+
 <div id="content">
 <section id="hero" class="py-5 align-middle">
     <div class="container px-3 px-sm-5 px-md-5 px-lg-5 pt-lg-3">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-8 content" id="primary-font">
-                <span class="subtitle">
-                    Hi, my name is
-                </span>
-                <h2>
-                    Isabella.
-                </h2>
-                <h3>
-                    I build things for the web
-                </h3>
+                <div class="animate__animated" id="animate-section">
+                    <span class="subtitle">
+                        Hi, my name is
+                    </span>
+                    
+                    <h2>
+                        Eric Chen.
+                    </h2>
+                    
+                    <h3>
+                        I&#39;m a computer engineering student.
+                    </h3>
+                </div>
                 <p class="hero-content">
-                    A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly.
+                    I&rsquo;m interested in people, philosophy, and technology. In my free time, I write for the web.
                 </p>
                 <div class="row">
                     <div class="col-auto h-100">
                         
-                        <a href="#" class="btn">
+                        <a href="https://storage.googleapis.com/ecstaticfiles/resume.pdf" class="btn">
                             Resume
                         </a>
                         
@@ -262,24 +236,24 @@ Hugo Profile
                     <div class="col-auto px-0 h-100"><span id="loading-icons" style="display: none;">
     
     <span class="px-1">
-        <a href="https://example.com" target="_blank" class="btn social-icon">
+        <a href="https://github.com/cloudui" target="_blank" class="btn social-icon">
             <i class="fab fa-github"></i>
         </a>
     </span>
     
     <span class="px-1">
-        <a href="https://example.com" target="_blank" class="btn social-icon">
+        <a href="https://twitter.com/below_ocean" target="_blank" class="btn social-icon">
             <i class="fab fa-twitter"></i>
         </a>
     </span>
     
-
-    
     <span class="px-1">
-        <a href="https://example.com" target="_blank" class="btn social-icon">
-            <img src="/fav.png">
+        <a href="https://linkedin.com/in/ericchen03" target="_blank" class="btn social-icon">
+            <i class="fab fa-linkedin"></i>
         </a>
     </span>
+    
+
     
 </span></div>
                 </div>
@@ -287,7 +261,7 @@ Hugo Profile
             <div class="col-sm-12 col-md-12 col-lg-4">
                 <div class="row justify-content-center">
                     <div class="col-sm-12 col-md-9 pt-5 image px-5 px-md-5 px-lg-0 text-center">
-                        <img src="/images/hero.svg" 
+                        <img src="/images/keneric.jpg" 
                             class="img-thumbnail mx-auto" 
                             alt=""
                         >
@@ -567,37 +541,48 @@ Hugo Profile
             
             <div class="col-sm-12 col-md-8 col-lg-4 mb-5 mb-sm-0 mb-md-5 mb-lg-0 d-none d-sm-none d-md-block">
                 <div class="image d-flex px-5">
-                    <img src="/images/me.png" class="img-thumbnail mx-auto rounded-circle" alt="">
+                    <img src="/images/bdance.jpeg" class="img-thumbnail mx-auto rounded-circle" alt="">
                 </div>
             </div>
             
             <div class="col-sm-12 col-md-12 col-lg-8 content">
-                I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at <a href="https://example.com">example org.</a> in San Francisco, CA.
-I am currently working on a project that will be used to help people find the best way to get around the city.
+                <p>A grand and warm welcome to you, my friend. Allow me to introduce myself.
+I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a
+Rubik&rsquo;s cube in less than 10 seconds. If we had more time, I would share my love for basketball, breakdancing, reading, Frank Sinatra, blogging, and the violin. If I could describe
+myself in one word, I would say that I am a learner, one who desires to understand the world.</p>
+<p>I was put on this planet with purpose and resolve, and I aim to exploit it. The allure to settle down is strong, but the allure to
+improve and achieve is even stronger. Most people will follow the main stream, but I will take the distributary (geology jokes).
+If life has a meaning, I want to find it.</p>
+<p>I want to learn about you, too! Find me in my socials below!</p>
+
 
                 
-                Here are a few technologies I&#39;ve been working with recently:
-                <ul>
-                    
-                    <li>HTML</li>
-                    
-                    <li>CSS</li>
-                    
-                    <li>JavaScript</li>
-                    
-                    <li>React</li>
-                    
-                    <li>Node</li>
-                    
-                    <li>Express</li>
-                    
-                </ul>
                 
+            </div>
+
+            <div class="text-center">
+                <br>
+                <a class="btn btn-lg" href="/about">Learn More</a>
             </div>
         </div>
     </div>
+
 </section>
 
+
+<div class="collapsing-group">
+    <div id="portfolio" class="container text-center">
+        <h1 class="pt-4">Portfolio</h1> 
+        <a class="btn animate__animated" style="color:var(--text-color)" id="pfolio-expand" onclick="ptoggle()">
+            <i class="fas fa-angle-down fa-lg" aria-hidden="true" id="expand"></i>
+            <i class="fas fa-angle-up fa-lg" aria-hidden="true" id="collapse"></i>
+        </a>
+        
+    </div>
+
+
+
+    <div class="portfolio animate__animated" id="pfolio-section">
 <section id="experience" class="py-5">
     <div class="container">
         <h3 class="text-center">Experience</h3>
@@ -614,11 +599,11 @@ I am currently working on a project that will be used to help people find the be
                                 type="button"
                                 role="tab" 
                                 data-bs-toggle="pill"
-                                id='Facebook-Jan-2022---present-tab'
-                                data-bs-target='#pills-Facebook-Jan-2022---present'
-                                aria-controls='Facebook-Jan-2022---present' 
+                                id='Mailchimp-Jun-2022---Sep-2022-tab'
+                                data-bs-target='#pills-Mailchimp-Jun-2022---Sep-2022'
+                                aria-controls='Mailchimp-Jun-2022---Sep-2022' 
                             >
-                                Facebook
+                                Mailchimp
                             </div>
                         </li>
                         
@@ -631,11 +616,11 @@ I am currently working on a project that will be used to help people find the be
                                 type="button"
                                 role="tab" 
                                 data-bs-toggle="pill"
-                                id='Amazon-Sep-2020---Dec-2021-tab'
-                                data-bs-target='#pills-Amazon-Sep-2020---Dec-2021' 
-                                aria-controls='Amazon-Sep-2020---Dec-2021'
+                                id='QUEST-Mar-2022---Present-tab'
+                                data-bs-target='#pills-QUEST-Mar-2022---Present' 
+                                aria-controls='QUEST-Mar-2022---Present'
                             >
-                                Amazon
+                                QUEST
                             </div>
                         </li>
                         
@@ -648,11 +633,11 @@ I am currently working on a project that will be used to help people find the be
                                 type="button"
                                 role="tab" 
                                 data-bs-toggle="pill"
-                                id='Apple-Jan-2020---Aug-2020-tab'
-                                data-bs-target='#pills-Apple-Jan-2020---Aug-2020' 
-                                aria-controls='Apple-Jan-2020---Aug-2020'
+                                id='Trailblazer-Debate-Sep-2021---May-2022-tab'
+                                data-bs-target='#pills-Trailblazer-Debate-Sep-2021---May-2022' 
+                                aria-controls='Trailblazer-Debate-Sep-2021---May-2022'
                             >
-                                Apple
+                                Trailblazer Debate
                             </div>
                         </li>
                         
@@ -665,11 +650,11 @@ I am currently working on a project that will be used to help people find the be
                                 type="button"
                                 role="tab" 
                                 data-bs-toggle="pill"
-                                id='Netflix-June-2017---Nov-2019-tab'
-                                data-bs-target='#pills-Netflix-June-2017---Nov-2019' 
-                                aria-controls='Netflix-June-2017---Nov-2019'
+                                id='UMD-Jun-2020---Aug-2020-tab'
+                                data-bs-target='#pills-UMD-Jun-2020---Aug-2020' 
+                                aria-controls='UMD-Jun-2020---Aug-2020'
                             >
-                                Netflix
+                                UMD
                             </div>
                         </li>
                         
@@ -682,11 +667,11 @@ I am currently working on a project that will be used to help people find the be
                                 type="button"
                                 role="tab" 
                                 data-bs-toggle="pill"
-                                id='Google-Feb-2016---Mar-2017-tab'
-                                data-bs-target='#pills-Google-Feb-2016---Mar-2017' 
-                                aria-controls='Google-Feb-2016---Mar-2017'
+                                id='NIH-Aug-2019---Nov-2020-tab'
+                                data-bs-target='#pills-NIH-Aug-2019---Nov-2020' 
+                                aria-controls='NIH-Aug-2019---Nov-2020'
                             >
-                                Google
+                                NIH
                             </div>
                         </li>
                         
@@ -698,22 +683,22 @@ I am currently working on a project that will be used to help people find the be
                         <div 
                             class="tab-pane fade show active bg-transparent" 
                             role="tabpanel"
-                            id='pills-Facebook-Jan-2022---present'
-                            aria-labelledby='pills-Facebook-Jan-2022---present-tab'
+                            id='pills-Mailchimp-Jun-2022---Sep-2022'
+                            aria-labelledby='pills-Mailchimp-Jun-2022---Sep-2022-tab'
                         >
                             <div>
-                                <span class="h4">Senior Software Developer</span>
+                                <span class="h4">Machine Learning Engineer</span>
                                 <small>-</small>
-                                <a href="https://example.com" target="_blank">Facebook</a>
+                                <a href="https://mailchimp.com" target="_blank">Mailchimp</a>
                                 <div class="pb-1">
-                                    <small>Jan 2022 - present</small>
+                                    <small>Jun 2022 - Sep 2022</small>
                                     
                                     <span class="p-2">
                                         <span 
                                             style="cursor: pointer;" 
                                             data-bs-toggle="tooltip" 
                                             data-bs-placement="top" 
-                                            data-bs-original-title=Working&#32;as&#32;a&#32;Senior&#32;Software&#32;Developer&#32;at&#32;Facebook
+                                            data-bs-original-title=Working&#32;as&#32;a&#32;Machine&#32;Learning&#32;Engineer&#32;at&#32;Mailchimp
                                         >
                                             <i class="fas fa-info-circle fa-xs"></i>
                                         </span>
@@ -722,15 +707,20 @@ I am currently working on a project that will be used to help people find the be
                                 </div>
 
                                 
-                                <div class="py-2 featuredLink">
-                                    <a class="p-2 px-4 btn btn-outline-primary btn-sm" href=https://example.com target="_blank">
-                                        View the project 
-                                    </a>
-                                </div>
-                                
                             </div>
 
-                            I am currently working as a software developer at <a href="https://example.com">example org.</a> in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+                            <p>I worked within the Data Science Division - MLOps Team at Mailchimp/Intuit. I experimented with methods to optimize the deployment of data science models to production.</p>
+<p>I audited three of the datascience pipelines and proposed a myriad of problems and solutions relating to documentation, testing, versioning, notebook development, and production readiness.
+I was responsible for automating Python and SQL documentation generation and version control. I
+integrated the solutions into our new repository templates.</p>
+<p>Some of the cool technologies I&rsquo;m worked with and learned:</p>
+<ul>
+<li>Kubernetes and Docker</li>
+<li>Jenkins and Airflow</li>
+<li>Python Library Template Engines</li>
+<li>Google Cloud Platform</li>
+</ul>
+
                         </div>
                         
                         
@@ -738,156 +728,23 @@ I am currently working on a project that will be used to help people find the be
                         <div 
                             class="tab-pane fade bg-transparent" 
                             role="tabpanel"
-                            id='pills-Amazon-Sep-2020---Dec-2021'
-                            aria-labelledby='pills-Amazon-Sep-2020---Dec-2021-tab'
+                            id='pills-QUEST-Mar-2022---Present'
+                            aria-labelledby='pills-QUEST-Mar-2022---Present-tab'
                         >
                             <div>
-                                <span class="h4">Software Developer</span>
+                                <span class="h4">Cohort 40 Member</span>
                                 <small>-</small>
-                                <a href="https://example.com" target="_blank">Amazon</a>
+                                <a href="https://www.rhsmith.umd.edu/quest" target="_blank">QUEST</a>
                                 
                                 <div class="pb-1">
-                                    <small>Sep 2020 - Dec 2021</small>
+                                    <small>Mar 2022 - Present</small>
                                     
                                     <span class="p-2">
                                         <span 
                                             style="cursor: pointer;" 
                                             data-bs-toggle="tooltip" 
                                             data-bs-placement="top" 
-                                            data-bs-original-title=I&#32;worked&#32;as&#32;a&#32;software&#32;developer&#32;for&#32;more&#32;than&#32;one&#32;year&#32;in&#32;Amazon.
-                                        > 
-                                            <i class="fas fa-info-circle fa-xs"></i>
-                                        </span>
-                                    </span>
-                                    
-                                </div>
-                                
-                                
-                                <div class="py-2 featuredLink">
-                                    <a class="p-2 px-4 btn btn-outline-primary btn-sm" href=https://example.com target="_blank">
-                                        Featured Link 
-                                    </a>
-                                </div>
-                                
-                            </div>
-
-                            <div class="pt-2">
-                                <p>I am currently working as a software developer at <a href="https://example.com">example org.</a> in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.</p>
-<ul>
-<li>Lead backend developer for a product.</li>
-<li>Created a frontend design for a product.</li>
-</ul>
-
-                            </div>
-                        </div>
-                        
-                        
-                        
-                        <div 
-                            class="tab-pane fade bg-transparent" 
-                            role="tabpanel"
-                            id='pills-Apple-Jan-2020---Aug-2020'
-                            aria-labelledby='pills-Apple-Jan-2020---Aug-2020-tab'
-                        >
-                            <div>
-                                <span class="h4">Junior Software Developer</span>
-                                <small>-</small>
-                                <a href="https://example.com" target="_blank">Apple</a>
-                                
-                                <div class="pb-1">
-                                    <small>Jan 2020 - Aug 2020</small>
-                                    
-                                </div>
-                                
-                                
-                                <div class="py-2 featuredLink">
-                                    <a class="p-2 px-4 btn btn-outline-primary btn-sm" href=https://example.com target="_blank">
-                                        Featured Link 
-                                    </a>
-                                </div>
-                                
-                            </div>
-
-                            <div class="pt-2">
-                                <p>I am currently working as a software developer at <a href="https://example.com">example org.</a> in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.</p>
-<ul>
-<li>Lead backend developer for a product.</li>
-<li>Created a frontend design for a product.</li>
-</ul>
-
-                            </div>
-                        </div>
-                        
-                        
-                        
-                        <div 
-                            class="tab-pane fade bg-transparent" 
-                            role="tabpanel"
-                            id='pills-Netflix-June-2017---Nov-2019'
-                            aria-labelledby='pills-Netflix-June-2017---Nov-2019-tab'
-                        >
-                            <div>
-                                <span class="h4">UI/UX Designer</span>
-                                <small>-</small>
-                                <a href="https://example.com" target="_blank">Netflix</a>
-                                
-                                <div class="pb-1">
-                                    <small>June 2017 - Nov 2019</small>
-                                    
-                                    <span class="p-2">
-                                        <span 
-                                            style="cursor: pointer;" 
-                                            data-bs-toggle="tooltip" 
-                                            data-bs-placement="top" 
-                                            data-bs-original-title=Worked&#32;as&#32;a&#32;UI/UX&#32;Designer&#32;at&#32;Netflix
-                                        > 
-                                            <i class="fas fa-info-circle fa-xs"></i>
-                                        </span>
-                                    </span>
-                                    
-                                </div>
-                                
-                                
-                                <div class="py-2 featuredLink">
-                                    <a class="p-2 px-4 btn btn-outline-primary btn-sm" href=https://example.com target="_blank">
-                                        Featured Link 
-                                    </a>
-                                </div>
-                                
-                            </div>
-
-                            <div class="pt-2">
-                                <p>I am currently working as a software developer at <a href="https://example.com">example org.</a> in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.</p>
-<ul>
-<li>Lead backend developer for a product.</li>
-<li>Created a frontend design for a product.</li>
-</ul>
-
-                            </div>
-                        </div>
-                        
-                        
-                        
-                        <div 
-                            class="tab-pane fade bg-transparent" 
-                            role="tabpanel"
-                            id='pills-Google-Feb-2016---Mar-2017'
-                            aria-labelledby='pills-Google-Feb-2016---Mar-2017-tab'
-                        >
-                            <div>
-                                <span class="h4">Product Designer</span>
-                                <small>-</small>
-                                <a href="https://example.com" target="_blank">Google</a>
-                                
-                                <div class="pb-1">
-                                    <small>Feb 2016 - Mar 2017</small>
-                                    
-                                    <span class="p-2">
-                                        <span 
-                                            style="cursor: pointer;" 
-                                            data-bs-toggle="tooltip" 
-                                            data-bs-placement="top" 
-                                            data-bs-original-title=Worked&#32;as&#32;a&#32;Product&#32;Designer&#32;at&#32;Google
+                                            data-bs-original-title=Worked&#32;as&#32;a&#32;Cohort&#32;40&#32;Member&#32;at&#32;QUEST
                                         > 
                                             <i class="fas fa-info-circle fa-xs"></i>
                                         </span>
@@ -899,7 +756,150 @@ I am currently working on a project that will be used to help people find the be
                             </div>
 
                             <div class="pt-2">
-                                I am currently working as a software developer at <a href="https://example.com">example org.</a> in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+                                <p>I am a part of the QUEST (Quality Enhancement Systems &amp; Teams) Honors Program in Cohort 40. QUEST is a prestigious interdisciplinary program for
+business, engineering, and science students to gain hands-on experience within the industry by partnering with large corporations.
+We learn how to communicate with clients, create solutions to real problems, and work within intellectually diverse teams.</p>
+<p>Our curriculum consists of the following:</p>
+<ul>
+<li>BMGT 190H: Introduction to Quality and Design</li>
+<li>BMGT 438A: Applied Quantitative Analysis</li>
+<li>BMGT 390H: Designing Innovative Systems</li>
+<li>BMGT 490H: A Capstone project where students consult QUEST&rsquo;s coporate partners on an identified organizational challenge</li>
+</ul>
+
+                            </div>
+                        </div>
+                        
+                        
+                        
+                        <div 
+                            class="tab-pane fade bg-transparent" 
+                            role="tabpanel"
+                            id='pills-Trailblazer-Debate-Sep-2021---May-2022'
+                            aria-labelledby='pills-Trailblazer-Debate-Sep-2021---May-2022-tab'
+                        >
+                            <div>
+                                <span class="h4">Head Coach and Administrator</span>
+                                <small>-</small>
+                                <a href="https://linktr.ee/trailblazerdebate" target="_blank">Trailblazer Debate</a>
+                                
+                                <div class="pb-1">
+                                    <small>Sep 2021 - May 2022</small>
+                                    
+                                    <span class="p-2">
+                                        <span 
+                                            style="cursor: pointer;" 
+                                            data-bs-toggle="tooltip" 
+                                            data-bs-placement="top" 
+                                            data-bs-original-title=Organize&#32;classes&#32;seasonally.
+                                        > 
+                                            <i class="fas fa-info-circle fa-xs"></i>
+                                        </span>
+                                    </span>
+                                    
+                                </div>
+                                
+                                
+                            </div>
+
+                            <div class="pt-2">
+                                <p>We teach public forum debate to middle school students around the country.
+I have coached students on how to plan debate strategies, organize evidence, think critically, and speak with authority.
+I handled Trailblazer&rsquo;s sign-up, administrative organization, advertising, and financial system.
+Our team has successfully hosted 6 debate camp sessions so far!</p>
+<p>Our Curriculum:</p>
+<ul>
+<li>Public Forum Debate Fundamentals</li>
+<li>Basics of Argument</li>
+<li>Public Speaking, Rhetoric, and Clarity</li>
+<li>Research, Writing, and Analysis</li>
+<li>Notetaking, Responses, and Strategy</li>
+</ul>
+
+                            </div>
+                        </div>
+                        
+                        
+                        
+                        <div 
+                            class="tab-pane fade bg-transparent" 
+                            role="tabpanel"
+                            id='pills-UMD-Jun-2020---Aug-2020'
+                            aria-labelledby='pills-UMD-Jun-2020---Aug-2020-tab'
+                        >
+                            <div>
+                                <span class="h4">Machine Learning Research Intern</span>
+                                <small>-</small>
+                                <a href="https://complex.umd.edu/" target="_blank">UMD</a>
+                                
+                                <div class="pb-1">
+                                    <small>Jun 2020 - Aug 2020</small>
+                                    
+                                </div>
+                                
+                                
+                            </div>
+
+                            <div class="pt-2">
+                                <p>I conducted a research project at what would be my future alma mater in my junior year of high school. Having exprimented with Twitter&rsquo;s Developer API before my internship,
+I was inspired to do machine learning research on public sentiment on the social media platform. I worked under Dr. Daniel Lathrop and Dr. Heidi Komkov of the Nonlinear Dynamics Laboratory.</p>
+<ul>
+<li>Designed an Artificial Neural Network with Pandas, Scikit-Learn, and TensorFlow to predict the exposure of tweets using sentiment analysis.</li>
+<li>Created a custom data pipeline using Python and the Twitter Application Programming Interface.</li>
+<li>Collaborated with mentors to determine and optimize hyperparameters for making predictive estimations of exposure.</li>
+<li>Presented research to laboratory and peers.</li>
+</ul>
+
+                            </div>
+                        </div>
+                        
+                        
+                        
+                        <div 
+                            class="tab-pane fade bg-transparent" 
+                            role="tabpanel"
+                            id='pills-NIH-Aug-2019---Nov-2020'
+                            aria-labelledby='pills-NIH-Aug-2019---Nov-2020-tab'
+                        >
+                            <div>
+                                <span class="h4">Data Science Research Intern</span>
+                                <small>-</small>
+                                <a href="https://nih.gov" target="_blank">NIH</a>
+                                
+                                <div class="pb-1">
+                                    <small>Aug 2019 - Nov 2020</small>
+                                    
+                                    <span class="p-2">
+                                        <span 
+                                            style="cursor: pointer;" 
+                                            data-bs-toggle="tooltip" 
+                                            data-bs-placement="top" 
+                                            data-bs-original-title=Worked&#32;as&#32;a&#32;Data&#32;Science&#32;Research&#32;Intern&#32;at&#32;NIH
+                                        > 
+                                            <i class="fas fa-info-circle fa-xs"></i>
+                                        </span>
+                                    </span>
+                                    
+                                </div>
+                                
+                                
+                                <div class="py-2 featuredLink">
+                                    <a class="p-2 px-4 btn btn-outline-primary btn-sm" href=https://aacrjournals.org/cancerres/article/80/16_Supplement/2763/642171/Abstract-2763-Identification-of-mouse-embryo-genes target="_blank">
+                                        Abstract 
+                                    </a>
+                                </div>
+                                
+                            </div>
+
+                            <div class="pt-2">
+                                <p>I and four other collaborators studied the effects of gene expression during embryogenis on cancer metastasis. We queried the E14.5 mouse embryo database using CBioPortal, one of the
+leading online hosts of cancer research data.</p>
+<ul>
+<li>Queried and identified a dozen critical cancer-related genes in the central nervous system of the E14.5 mouse embryo</li>
+<li>Performed statistical analysis and analyzed Kaplan-Meier Curves for each gene using cBioPortal genomic datasets</li>
+</ul>
+<p>Our abstract was accepted by the AACR, and we were invited to present at their annual conference in 2020. Unfortunately, due to the COVID pandemic, we were not able to present.</p>
+
                             </div>
                         </div>
                         
@@ -920,19 +920,27 @@ I am currently working on a project that will be used to help people find the be
             <div class="col-12 p-0">
                 <div class="row row align-items-center justify-content-center m-1 mb-4">
                     
+                    <div class="col-md-1 text-center me-2 p-0 d-none d-md-block">
+                        <div class="py-2">
+                            <span class="index shadow-lg">
+                                1
+                            </span>
+                        </div>
+                    </div>
+                    
 
                     <div class="col-md-9">
                         <div class="card">
                             <div class="card-body">
                                 <div class="float-end">
-                                    <small>2013 - 2015</small>
+                                    <small>2021 - 2024</small>
                                 </div>
-                                <h5 class="card-title">Master of Business Administration</h5>
+                                <h5 class="card-title">B.S. in Computer Engineering</h5>
                                 
                                 
-                                <a href="https://example.org" target="_blank">
+                                <a href="https://umd.edu" target="_blank">
                                     <h6>
-                                    University of California, Berkeley
+                                    University of Maryland - College Park
                                     </h6>
                                 </a>
                                 
@@ -941,16 +949,33 @@ I am currently working on a project that will be used to help people find the be
                                 <div class="py-1">
                                     GPA:
                                     <i>
-                                        <small>3.8 out of 5.0</small>
+                                        <small>3.95</small>
                                     </i> 
                                 </div>
                                 
                                 <div class="py-1 education-content">
-                                    <p>Extracurricular Activities</p>
+                                    <p>Minor in Robotics and Autonomous Systems.</p>
+<p>Honors Programs:</p>
 <ul>
-<li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-<li>Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.</li>
+<li>University Honors</li>
+<li>QUEST - Collaborative Business and Engineering Teams Program</li>
 </ul>
+<p>Accolades:</p>
+<ul>
+<li>James W. Dally Endowed Scholarship 2022-2023</li>
+<li>Derek H. Blume Memorial Scholarship 2022-2023</li>
+<li>Northrop Grumman Environmental Sustainability Challenge Champion 2022</li>
+<li>Dean&rsquo;s List (2x)</li>
+</ul>
+<p>Extracurricular Activities:</p>
+<ul>
+<li>Terps Racing SAE Formula - Composites Team</li>
+<li>SEDS Liquid Rocket Team - Data Acquisition Team Lead</li>
+<li>Terps in Space Researcher</li>
+</ul>
+<p>Relevant Coursework: Computer Systems, Algorithms, Organization of Programming Languages, Harvesting Big Data,
+Electric Circuits, Discrete Signal Analysis,
+Engineering Design, Digital Logic Design, Differential Equations, Discrete Mathematics, Multivariable Calculus, Physics</p>
 
                                 </div>
 
@@ -964,97 +989,36 @@ I am currently working on a project that will be used to help people find the be
             <div class="col-12 p-0">
                 <div class="row row align-items-center justify-content-center m-1 mb-4">
                     
-
-                    <div class="col-md-9">
-                        <div class="card">
-                            <div class="card-body">
-                                <div class="float-end">
-                                    <small>2009 - 2013</small>
-                                </div>
-                                <h5 class="card-title">Bachelor of Science in Computer Science</h5>
-                                
-                                
-                                <a href="https://example.org" target="_blank">
-                                    <h6>
-                                    Massachusetts Institute of Technology
-                                    </h6>
-                                </a>
-                                
-
-                                
-                                <div class="py-1">
-                                    GPA:
-                                    <i>
-                                        <small>3.9 out of 5.0</small>
-                                    </i> 
-                                </div>
-                                
-                                <div class="py-1 education-content">
-                                    <p>I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.</p>
-<ul>
-<li><a href="https://example.com">Fast and Accurate Object Detection with a Single Convolutional Neural Network</a></li>
-<li>Face mask detection using a single convolutional neural network.
-Extracurricular Activities
-<ul>
-<li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-<li>Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.</li>
-</ul>
-</li>
-</ul>
-
-                                </div>
-
-                                
-                                <div class="py-1">
-                                    <a href="https://example.com" class="btn">
-                                        My academic record
-                                    </a>
-                                </div>
-                                
-                            </div>
+                    <div class="col-md-1 text-center me-2 p-0 d-none d-md-block">
+                        <div class="py-2">
+                            <span class="index shadow-lg">
+                                2
+                            </span>
                         </div>
                     </div>
-                </div>
-            </div>
-            
-            <div class="col-12 p-0">
-                <div class="row row align-items-center justify-content-center m-1 mb-4">
                     
 
                     <div class="col-md-9">
                         <div class="card">
                             <div class="card-body">
                                 <div class="float-end">
-                                    <small></small>
+                                    <small>2017 - 2021</small>
                                 </div>
-                                <h5 class="card-title">High School</h5>
+                                <h5 class="card-title">Science, Mathematics, and Computer Science Magnet Program</h5>
                                 
                                 
-                                <a href="https://example.org" target="_blank">
+                                <a href="https://mbhs.edu" target="_blank">
                                     <h6>
-                                    Thomas Jefferson High School for Science and Technology.
+                                    Montgomery Blair High School
                                     </h6>
                                 </a>
                                 
 
                                 
-                                <div class="py-1">
-                                    GPA:
-                                    <i>
-                                        <small>4.2 out of 5.0</small>
-                                    </i> 
-                                </div>
-                                
                                 <div class="py-1 education-content">
-                                    
+                                    Extracurricular Activities: Science Bowl Team (B Captain), Math Team, National Circuit Debate Team (Public Forum), Astronomy Team (Captain), Rubik&rsquo;s Cube Team (Regional Champion)
                                 </div>
 
-                                
-                                <div class="py-1">
-                                    <a href="https://example.com" class="btn">
-                                        Featured
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -1067,50 +1031,181 @@ Extracurricular Activities
 </section>
 
 
+<section id="extracurriculars" class="py-5">
+    <div class="container">
+        <h3 class="text-center">Extracurriculars</h3>
+        <div class="row justify-content-center px-3 px-md-5">
+            
+            
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="Northrop Grumman Environmental Sustainability">
+                    <a class="h-100" href="/extracurriculars/ng-challenge/">
+                    <div class="card-head">
+                        <img class="card-img-top" src="/images/extracurriculars/ng-challenge.png" alt="Northrop Grumman Environmental Sustainability">
+                    </div>
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                            <span class="badge badge-secondary">Electronics</span>
+                            
+                            <span class="badge badge-secondary">Engineering</span>
+                            
+                            <span class="badge badge-secondary">Product Design</span>
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent">Northrop Grumman Environmental Sustainability</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            An environmental challenge I competed in during Spring 2022. My team built an iOT smart water management system, placing first overall.
+                        </div>
+                    </div>
+                    </a>
+                    <div class="card-footer py-3">
+                        
+                        <span class="m-1 mx-2">
+                            <a href="http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-environmental-sustainability.html">
+                                <i class="fas fa-info-circle"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="m-1 mx-2">
+                            <a href="https://umd0-my.sharepoint.com/:p:/r/personal/sophierw_umd_edu/_layouts/15/Doc.aspx?sourcedoc=%7B4565F1B2-7311-4F57-A457-2BE8DDA0DFD1%7D&amp;file=SwaleFlow%20-%20Final%20Presentation.pptx&amp;action=edit&amp;mobileredirect=true">
+                                <i class="fa fa-file-powerpoint"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="float-end">
+                            <a class="" href="/extracurriculars/ng-challenge/">
+                                <i class="fas fa-book-open"></i>
+                            </a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="SEDS - Liquid Rocket Team">
+                    <a class="h-100" href="/extracurriculars/seds/">
+                    <div class="card-head">
+                        <img class="card-img-top" src="/images/extracurriculars/sedslogo.png" alt="SEDS - Liquid Rocket Team">
+                    </div>
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                            <span class="badge badge-secondary">LabVIEW</span>
+                            
+                            <span class="badge badge-secondary">Engineering</span>
+                            
+                            <span class="badge badge-secondary">Rockets</span>
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent">SEDS - Liquid Rocket Team</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            A new division of SEDS@UMD where we design and build 100-1500lbf caliber liquid rocket engines. I lead the data acquisition team, where we are in charge of all things testing.
+                        </div>
+                    </div>
+                    </a>
+                    <div class="card-footer py-3">
+                        
+                        <span class="m-1 mx-2">
+                            <a href="https://seds.umd.edu/">
+                                <i class="fas fa-info-circle"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="float-end">
+                            <a class="" href="/extracurriculars/seds/">
+                                <i class="fas fa-book-open"></i>
+                            </a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card my-3 h-100" title="Terps Racing">
+                    <a class="h-100" href="/extracurriculars/terps-racing/">
+                    <div class="card-head">
+                        <img class="card-img-top" src="/images/extracurriculars/trcar.jpeg" alt="Terps Racing">
+                    </div>
+                    <div class="card-body bg-transparent p-3">
+                        <div class="pb-2 bg-transparent">
+                            
+                            <span class="badge badge-secondary">Composites</span>
+                            
+                        </div>
+                        <h5 class="card-title bg-transparent">Terps Racing</h5>
+                        <div class="card-text bg-transparent secondary-font">
+                            As part of the composites subteam of our Formula IC division, I helped build the carbon fiber monocoque and major body components of our 2022 and 2023 formula cars.
+                        </div>
+                    </div>
+                    </a>
+                    <div class="card-footer py-3">
+                        
+                        <span class="m-1 mx-2">
+                            <a href="http://racing.umd.edu">
+                                <i class="fas fa-info-circle"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="float-end">
+                            <a class="" href="/extracurriculars/terps-racing/">
+                                <i class="fas fa-book-open"></i>
+                            </a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+</section>
+
 <section id="projects" class="py-5">
     <div class="container">
         <h3 class="text-center">Projects</h3>
         <div class="row justify-content-center px-3 px-md-5">
             
             <div class="col-lg-4 col-md-6 my-3">
-                <div class="card my-3 h-100" title="Hugo Profile">
+                <div class="card my-3 h-100" title="Echen&#39;s Blog">
                     <div class="card-head">
-                        <img class="card-img-top" src="/images/projects/profile.png" alt="Hugo Profile">
+                        <img class="card-img-top" src="/images/projects/echenblog.png" alt="Echen&#39;s Blog">
                     </div>
                     <div class="card-body bg-transparent p-3">
                         <div class="pb-2 bg-transparent">
                             
+                            <span class="badge badge-secondary">Jekyll</span>
+                            
+                            <span class="badge badge-secondary">HTML</span>
+                            
+                            <span class="badge badge-secondary">CSS</span>
+                            
+                            <span class="badge badge-secondary">JS</span>
+                            
                         </div>
-                        <h5 class="card-title bg-transparent mt-1">Hugo Profile</h5>
+                        <h5 class="card-title bg-transparent mt-1">Echen&#39;s Blog</h5>
                         <div class="card-text bg-transparent secondary-font">
-                            A highly customizable and mobile first Hugo template for personal portfolio and blog.
+                            Want to learn about personal development, booming tech, and the college experience? Take a look at my personal blog that I created with Hugo.
                         </div>
                     </div>
                     
                     <div class="card-footer py-3">
                         
                         <span class="m-1 mx-2">
-                            <a href="mailto:?subject=Hugo%20Profile%20Template&amp;body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f" target="_blank">
-                                <i class="fa fa-envelope"></i>
-                            </a>
-                        </span>
-                        
-                        <span class="m-1 mx-2">
-                            <a href="https://github.com/gurusabarish/hugo-profile" target="_blank">
+                            <a href="https://github.com/cloudui/echen" target="_blank">
                                 <i class="fab fa-github"></i>
-                            </a>
-                        </span>
-                        
-                        <span class="m-1 mx-2">
-                            <a href="https://twitter.com/intent/tweet?text=Check&#43;it&#43;out:&amp;url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile" target="_blank">
-                                <i class="fab fa-twitter"></i>
                             </a>
                         </span>
                         
                         
                         <span class="float-end">
-                            <a class="btn btn-sm" href="https://hugo-profile.netlify.app" target="_blank">
-                                Demo
+                            <a class="btn btn-sm" href="https://blog.echen.io" target="_blank">
+                                Site
                             </a>
                         </span>
                         
@@ -1119,73 +1214,97 @@ Extracurricular Activities
                 </div>
             </div>
             
+            
+            
             <div class="col-lg-4 col-md-6 my-3">
-                <div class="card my-3 h-100" title="Image Converter">
+                <div class="card my-3 h-100" title="ENES100: An Engineering Interlude">
+                    <a class="h-100" href="/projects/enes100/">
                     <div class="card-head">
-                        <img class="card-img-top" src="/images/projects/converter.jpg" alt="Image Converter">
+                        <img class="card-img-top" src="/images/projects/enes100.jpg" alt="ENES100: An Engineering Interlude">
                     </div>
                     <div class="card-body bg-transparent p-3">
                         <div class="pb-2 bg-transparent">
                             
+                            <span class="badge badge-secondary">Electronics</span>
+                            
+                            <span class="badge badge-secondary">Arduino</span>
+                            
+                            <span class="badge badge-secondary">Robotics</span>
+                            
                         </div>
-                        <h5 class="card-title bg-transparent mt-1">Image Converter</h5>
+                        <h5 class="card-title bg-transparent">ENES100: An Engineering Interlude</h5>
                         <div class="card-text bg-transparent secondary-font">
-                            A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+                            As part of an interdisciplinary engineering challenge, our team built an autonomous vehicle that traversed a obstacle-ridden arena and collected data from a simulated crash site.
                         </div>
                     </div>
-                    
+                    </a>
                     <div class="card-footer py-3">
                         
                         <span class="m-1 mx-2">
-                            <a href="https://github.com/gurusabarish/converter" target="_blank">
-                                <i class="fab fa-github"></i>
+                            <a href="http://enes100.umd.edu/">
+                                <i class="fa fa-info-circle"></i>
                             </a>
                         </span>
-                        
                         
                         <span class="float-end">
-                            <a class="btn btn-sm" href="https://django-converter.herokuapp.com" target="_blank">
-                                Demo
+                            <a class="btn btn-sm" href="/projects/enes100/">
+                                Learn More
                             </a>
                         </span>
-                        
                     </div>
-                    
                 </div>
             </div>
             
+            
+            
             <div class="col-lg-4 col-md-6 my-3">
-                <div class="card my-3 h-100" title="Hugo Profile V2">
+                <div class="card my-3 h-100" title="Pulsar Academy">
+                    <a class="h-100" href="/projects/pulsar-academy/">
                     <div class="card-head">
-                        <img class="card-img-top" src="/images/projects/profile2.jpg" alt="Hugo Profile V2">
+                        <img class="card-img-top" src="/images/projects/pulsar1.png" alt="Pulsar Academy">
                     </div>
                     <div class="card-body bg-transparent p-3">
                         <div class="pb-2 bg-transparent">
                             
+                            <span class="badge badge-secondary">Django</span>
+                            
+                            <span class="badge badge-secondary">Docker</span>
+                            
+                            <span class="badge badge-secondary">AWS</span>
+                            
                         </div>
-                        <h5 class="card-title bg-transparent mt-1">Hugo Profile V2</h5>
+                        <h5 class="card-title bg-transparent">Pulsar Academy</h5>
                         <div class="card-text bg-transparent secondary-font">
-                            A clean and simple Hugo template for personal portfolio and blog.
+                            My friend Maxwell and I started a business to teach the fundamentals of programming to beginners. We built an online platform using Django that served content to dozens of students.
                         </div>
                     </div>
-                    
+                    </a>
                     <div class="card-footer py-3">
                         
                         <span class="m-1 mx-2">
-                            <a href="https://github.com/gurusabarish/HugoProfileV2" target="_blank">
+                            <a href="https://github.com/cloudui/pulsaracademy">
                                 <i class="fab fa-github"></i>
                             </a>
                         </span>
                         
-                        
-                        <span class="float-end">
-                            <a class="btn btn-sm" href="https://hugo-profile-2.netlify.app" target="_blank">
-                                Demo V2
+                        <span class="m-1 mx-2">
+                            <a href="https://github.com/pulsaracademy">
+                                <i class="fa fa-file-edit"></i>
                             </a>
                         </span>
                         
+                        <span class="m-1 mx-2">
+                            <a href="https://pulsaracademy.com">
+                                <i class="fa fa-external-link-square"></i>
+                            </a>
+                        </span>
+                        
+                        <span class="float-end">
+                            <a class="btn btn-sm" href="/projects/pulsar-academy/">
+                                Learn More
+                            </a>
+                        </span>
                     </div>
-                    
                 </div>
             </div>
             
@@ -1202,11 +1321,11 @@ Extracurricular Activities
                 
                 
                 <div class="col-lg-4 col-md-6 my-3">
-                    <a class="card my-3 h-100 p-3" href="https://example.com" title="Google kickstart runner" target="_blank">
+                    <a class="card my-3 h-100 p-3" href="https://eng.umd.edu/james-w-dally-endowed-scholarship" title="James W. Dally Endowed Scholarship 2022-2023" target="_blank">
                         <div class="card-body bg-transparent">
-                            <h5 class="card-title bg-transparent">Google kickstart runner</h5>
+                            <h5 class="card-title bg-transparent">James W. Dally Endowed Scholarship 2022-2023</h5>
                             <div class="card-text secondary-font">
-                                I solved all problems with optimal solution.
+                                Awarded by the A. James Clark School of Engineering.
                             </div>
                         </div>
                     </a>
@@ -1215,24 +1334,11 @@ Extracurricular Activities
                 
                 
                 <div class="col-lg-4 col-md-6 my-3">
-                    <div class="card my-3 h-100 p-3" title="Facebook Hackathon Winner">
+                    <a class="card my-3 h-100 p-3" href="https://ece.umd.edu/news/story/memorial-scholarship-created-to-honor-derek-hans-blume-03" title="Derek H. Blume Memorial Scholarship 2022-2023" target="_blank">
                         <div class="card-body bg-transparent">
-                            <h5 class="card-title bg-transparent">Facebook Hackathon Winner</h5>
+                            <h5 class="card-title bg-transparent">Derek H. Blume Memorial Scholarship 2022-2023</h5>
                             <div class="card-text secondary-font">
-                                Developed a product using Artificial Intelligence.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                
-                
-                <div class="col-lg-4 col-md-6 my-3">
-                    <a class="card my-3 h-100 p-3" href="https://github.com/gurusabarish/hugo-profile" title="Hugo Profile" target="_blank">
-                        <div class="card-body bg-transparent">
-                            <h5 class="card-title bg-transparent">Hugo Profile</h5>
-                            <div class="card-text secondary-font">
-                                Developed a theme and getting 1K&#43; downloads per month.
+                                Awarded by the Electrical &amp; Computer Engineering Department within the A. James Clark School of Engineering.
                             </div>
                         </div>
                     </a>
@@ -1241,24 +1347,63 @@ Extracurricular Activities
                 
                 
                 <div class="col-lg-4 col-md-6 my-3">
-                    <div class="card my-3 h-100 p-3" title="Microsoft Imagine Runner">
+                    <a class="card my-3 h-100 p-3" href="http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-environmental-sustainability.html" title="1st Place - Northrop Grumman Environmental Sustainability Challenge 2022" target="_blank">
                         <div class="card-body bg-transparent">
-                            <h5 class="card-title bg-transparent">Microsoft Imagine Runner</h5>
+                            <h5 class="card-title bg-transparent">1st Place - Northrop Grumman Environmental Sustainability Challenge 2022</h5>
                             <div class="card-text secondary-font">
-                                We are developed a product which can help others.
+                                Designed and built an IoT storm water management system to prevent runoff and flooding on residential properties
                             </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 
                 
                 
                 <div class="col-lg-4 col-md-6 my-3">
-                    <a class="card my-3 h-100 p-3" href="https://example.com" title="Google Summer of Code" target="_blank">
+                    <a class="card my-3 h-100 p-3" href="https://science.osti.gov/wdts/nsb" title="Science Bowl Regional Champion, National 9th Place 2021" target="_blank">
                         <div class="card-body bg-transparent">
-                            <h5 class="card-title bg-transparent">Google Summer of Code</h5>
+                            <h5 class="card-title bg-transparent">Science Bowl Regional Champion, National 9th Place 2021</h5>
                             <div class="card-text secondary-font">
-                                Contributed to a open source project.
+                                Nationwide academic competition that tests students’ knowledge in all areas of science and mathematics.
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                
+                
+                <div class="col-lg-4 col-md-6 my-3">
+                    <a class="card my-3 h-100 p-3" href="https://www.maa.org/math-competitions/invitational-competitions#:~:text=USA%28J%29MO-,American%20Invitational%20Mathematics%20Exam,number%20between%200%20to%20999." title="4x American Invitational Math Examination Qualifier" target="_blank">
+                        <div class="card-body bg-transparent">
+                            <h5 class="card-title bg-transparent">4x American Invitational Math Examination Qualifier</h5>
+                            <div class="card-text secondary-font">
+                                Second level of AMC Series Math Competitions. Qualified 2017, 2018, 2020, 2021.
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                
+                
+                <div class="col-lg-4 col-md-6 my-3">
+                    <a class="card my-3 h-100 p-3" href="https://oceanleadership.org/national-ocean-sciences-bowl/" title="Chesapeake Ocean Sciences Bowl Champion 2020" target="_blank">
+                        <div class="card-body bg-transparent">
+                            <h5 class="card-title bg-transparent">Chesapeake Ocean Sciences Bowl Champion 2020</h5>
+                            <div class="card-text secondary-font">
+                                Buzzer-based academic competition with a focus on oceanography and earth science.
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                
+                
+                <div class="col-lg-4 col-md-6 my-3">
+                    <a class="card my-3 h-100 p-3" href="https://www.speechanddebate.org/nationals/" title="NSDA Chesapeake Debate Tournament Champion 2020" target="_blank">
+                        <div class="card-body bg-transparent">
+                            <h5 class="card-title bg-transparent">NSDA Chesapeake Debate Tournament Champion 2020</h5>
+                            <div class="card-text secondary-font">
+                                Won regional NSDA circuit debate tournament in the public forum division. Reached double elimination at national championship.
                             </div>
                         </div>
                     </a>
@@ -1269,7 +1414,8 @@ Extracurricular Activities
         </div>
     </div>
 </section>
-
+</div>
+</div>
 <section id="contact" class="py-5">
     <div class="container">
         <h3 class="text-center">Get In Touch</h3>
@@ -1277,12 +1423,13 @@ Extracurricular Activities
             <div class="row justify-content-center px-md-5">
                 <div class="col-md-8 py-3">
                     <div class="text-center">
-                        My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+                        Send me an email if you have any questions. My inbox is always open.
                     </div>
                     
                     <div class="text-center pt-3">
-                        <a href="mailto:gurusabarisha@gmail.com" class="btn">
-                            Mail me
+                        <a href="mailto:ericchen314@gmail.com" class="btn">
+                            
+                            <i class="fas fa-envelope"></i>
                         </a>
                     </div>
                     
@@ -1295,15 +1442,10 @@ Extracurricular Activities
   </div><footer>
     <div class="container py-3" id="recent-posts">
     
-    <div class="h3 text-center text-secondary py-3">Recent posts</div>
-    <div class="row justify-content-center">
-        
-    </div>
-    
 </div><div class="text-center pt-2">
     
     <span class="px-1">
-        <a href="https://github.com" aria-label="github">
+        <a href="https://github.com/cloudui" aria-label="github">
             <svg xmlns="http://www.w3.org/2000/svg" width="2.7em" height="2.7em" viewBox="0 0 1792 1792">
                 <path
                     d="M522 1352q-8 9-20-3-13-11-4-19 8-9 20 3 12 11 4 19zm-42-61q9 12 0 19-8 6-17-7t0-18q9-7 17 6zm-61-60q-5 7-13 2-10-5-7-12 3-5 13-2 10 5 7 12zm31 34q-6 7-16-3-9-11-2-16 6-6 16 3 9 11 2 16zm129 112q-4 12-19 6-17-4-13-15t19-7q16 5 13 16zm63 5q0 11-16 11-17 2-17-11 0-11 16-11 17-2 17 11zm58-10q2 10-14 14t-18-8 14-15q16-2 18 9zm964-956v960q0 119-84.5 203.5t-203.5 84.5h-224q-16 0-24.5-1t-19.5-5-16-14.5-5-27.5v-239q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-121-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-86-13.5q-44 113-7 204-79 85-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-40 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 103t.5 68q0 22-11 33.5t-22 13-33 1.5h-224q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" />
@@ -1330,7 +1472,7 @@ Extracurricular Activities
 
     
     <span class="px-1">
-        <a href="https://linkedin.com" aria-label="linkedin">
+        <a href="https://linkedin.com/in/ericchen03" aria-label="linkedin">
             <svg xmlns="http://www.w3.org/2000/svg" width='2.4em' height='2.4em' fill="#fff" aria-label="LinkedIn"
                 viewBox="0 0 512 512">
                 <rect width="512" height="512" fill="#0077b5" rx="15%" />
@@ -1343,7 +1485,7 @@ Extracurricular Activities
     
 
     
-    <a href="https://twitter.com" aria-label="twitter">
+    <a href="https://twitter.com/below_ocean" aria-label="twitter">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
             <path fill="#03a9f4"
                 d="M42,37c0,2.762-2.239,5-5,5H11c-2.762,0-5-2.238-5-5V11c0-2.762,2.238-5,5-5h26c2.761,0,5,2.238,5,5 V37z" />
@@ -1354,7 +1496,7 @@ Extracurricular Activities
     
 
     
-    <a href="https://instagram.com" aria-label="instagram">
+    <a href="https://instagram.com/violeric" aria-label="instagram">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
             <radialGradient id="yOrnnhliCrdS2gy~4tD8ma" cx="19.38" cy="42.035" r="44.899"
                 gradientUnits="userSpaceOnUse">
@@ -1385,21 +1527,12 @@ Extracurricular Activities
     
 
     
-    <a href="https://facebook.com" aria-label="facebook">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
-            <path fill="#3F51B5"
-                d="M42,37c0,2.762-2.238,5-5,5H11c-2.761,0-5-2.238-5-5V11c0-2.762,2.239-5,5-5h26c2.762,0,5,2.238,5,5V37z" />
-            <path fill="#FFF"
-                d="M34.368,25H31v13h-5V25h-3v-4h3v-2.41c0.002-3.508,1.459-5.59,5.592-5.59H35v4h-2.287C31.104,17,31,17.6,31,18.723V21h4L34.368,25z" />
-        </svg>
-    </a>
-    
 </div><div class="container py-4">
     <div class="row justify-content-center">
         <div class="col-md-4 text-center">
             <div class="pb-2">
-                <a href="https://hugo-profile.netlify.app" title="Hugo Profile">
-                    <img alt="Footer logo" src="/fav.png"
+                <a href="http://echen.io" title="echen.io">
+                    <img alt="Footer logo" src="/favicon.png"
                         height="40px" width="40px">
                 </a>
             </div>
