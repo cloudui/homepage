@@ -1,0 +1,213 @@
+img.md {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    /* margin-top: 0.5rem; */
+    /* margin-bottom: 1.5rem; */
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.collapsing {
+    /* transition: animate__animated animate__fadeOut !important; */
+    transition: none !important;
+}
+
+/* PORTFOLIO CONTROL */
+.icon-background-menu {
+    box-shadow: 1;
+    color: var(--primary-color);
+    border-color: var(--text-color);
+}
+
+
+body.formal .portfolio {
+    display: inline;
+}
+
+body:not(.formal) .portfolio {
+    display: none;
+}
+
+body.formal #lock {
+    display: none;
+}
+
+body:not(.formal) #unlock {
+    display: none;
+}
+
+.toggle:hover {
+    cursor: pointer;
+}
+
+
+/* Expand menu CSS */
+body.formal #expand {
+    display: none;
+}
+
+#expand {
+    display: inline-block;
+    transition: transform 0.3s ease-out;
+}
+
+#expand:hover {
+    transform: translate(0, 5px);
+}
+
+/* Collapse menu CSS */
+
+body:not(.formal) #collapse {
+    display: none;
+}
+
+#collapse {
+    display: inline-block;
+    transition: transform 0.3s ease-out;
+}
+
+#collapse:hover {
+    transform: translate(0, -5px);
+}
+
+
+/* FA ICON CUSTOMIZATION */
+/* #pfolio-expand {
+    color: var(--primary-color) !important;
+    line-height: 0%;
+    border-radius: 50%;
+    margin-top: 50px;
+    padding: 0.7rem;
+    border: 1px solid var(--primary-color);
+    transition: none;
+} */
+
+/* #pfolio-expand {
+
+    background: var(--background-color);
+    color: var(--primary-color);
+    padding: 0;
+    width: 5.7em;
+    height: 5.7em;
+    border-radius: 50%;
+    border: 1px solid var(--primary-color);
+}
+
+#pfolio-expand i {
+    line-height: 2.7em;
+    position: relative;
+    bottom: 2px
+} */
+
+/* EXTRACURRICULARS CSS */
+
+#extracurriculars h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#extracurriculars a {
+    text-decoration: none;
+    color: var(--text-color) !important;
+}
+
+#extracurriculars .badge {
+    background-color: var(--background-color) !important;
+    color: var(--text-color) !important;
+    margin: 0 1%;
+}
+
+#extracurriculars .card {
+    background-color: var(--secondary-color) !important;
+    box-shadow: 0px 8px 56px rgb(15 80 100 / 16%);
+    min-height: 400px;
+    overflow: hidden;
+    border-radius: 1rem;
+    border: none !important;
+}
+
+#extracurriculars .card:hover {
+    box-shadow: 0 0 11px rgb(15 80 100 / 20%);
+    transition: transform 0.3s;
+    transform: translateY(-7px);
+}
+
+#extracurriculars .card .card-head {
+    -o-object-fit: cover;
+    object-fit: cover;
+    overflow: hidden;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border: none !important;
+}
+
+#extracurriculars .card .card-footer {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+#extracurriculars .card:hover .card-img-top {
+    transform: scale(1.2);
+    transition: all 0.3s ease-out;
+}
+
+#extracurriculars .card-img-top {
+    transition: transform 0.3s;
+}
+
+#extracurriculars .float-end .btn {
+    transition: none;
+    border-radius: .5rem !important;
+    border-color: var(--primary-color) !important;
+}
+
+#extracurriculars .float-end .btn:focus {
+    box-shadow: none !important;
+}
+
+.nav>li>a {
+    font-size: 16px !important;
+}
+
+.nav .nav>li>a {
+    font-size: 14px !important;
+}
+
+.nav-link.active {
+    color: var(--primary-color) !important;
+    border-left-color: var(--primary-color) !important;
+}
+
+.nav-link:hover {
+    color: var(--primary-color) !important;
+    border-left-color: var(--primary-color) !important;
+}
+
+/* Captions */
+figcaption {
+    text-align: center;
+    color: var(--text-secondary-color);
+    font-size: small;
+    margin-bottom: 1.5em;
+
+}
+
+.page-content > ul {
+    list-style-position: outside !important;
+    margin-bottom: 1em !important;
+}
+
+.page-content > li {
+    display: list-item !important;
+
+}
+
+.page-content ul li li {
+    list-style: outside !important;
+}
+
+.page-content ol {
+    margin-bottom: 1em !important;
+}

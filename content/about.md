@@ -33,7 +33,7 @@ Some other things I'm want to investigate:
 - CPU + GPU architecture and design
 
 ## Peeking Over the Walled Garden[^1]
-You might have noticed the underlying presupposition of my career choices. I'm making a pretty big gamble that I will pursue careers related to my major. That only makes sense, right? There are a lot of great things brewing in the CE industry. But even today, there's a whole other world out there, and I shouldn't simply box myself into one domain of interest. 
+You might have noticed the underlying presupposition of my career choices. I'm making a pretty big gamble that I will pursue careers related to my major. That only makes sense, right? There are a lot of great things brewing in the CE industry. But, computer engineering is one star within a galaxy. I shouldn't simply box myself into one domain of interest. 
 
 I like a lot of other things too, perhaps even more than computer science or engineering. I'm making a devotion to at least consider over the next few years:
 - Psychology and Cognitive Science

@@ -153,10 +153,14 @@ params:
     content: |-
         A grand and warm welcome to you, my friend. Allow me to introduce myself. 
         I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a 
-        Rubik's cube in less than 10 seconds. If we had more time, I would share my love for basketball, weightlifting, reading, Frank Sinatra, writing & blogging, and the violin. If I could describe 
-        myself in one word, I would say I am a learner, one who desires to uniquely perceive the world. I strive to live a life with few regrets in the comforting embrace of interminable relationships.
+        Rubik's cube in less than 10 seconds. If we had more time, I would share my love for basketball, breakdancing, reading, Frank Sinatra, blogging, and the violin. If I could describe 
+        myself in one word, I would say that I am a learner, one who desires to uniquely perceive the world. 
 
-        Now, you look like an interesting lad as well-- one that is probably more interesting than me. I want to learn about you! Find me in my socials at the bottom of the page, and let's chat.
+        I was put on this planet with purpose and resolve, and I aim to exploit it. The allure to settle down is strong, but the allure to 
+        improve and achieve is even stronger. Most people will follow the main stream, but I will take the distributary (geology jokes). 
+        If life has a meaning, I want to find it. 
+
+        I want to learn about you, too! Find me in my socials below!
 
 
     # skills:
@@ -183,24 +187,38 @@ params:
         #   name: "View the project"
         #   url: "https://example.com"
         content: |-
-          I am working within the Data Science Division - MLOps Team at Mailchimp/Intuit. I am currenlty experimenting with methods to optimize the deployment of data science models to production. 
+          I worked within the Data Science Division - MLOps Team at Mailchimp/Intuit. I experimented with methods to optimize the deployment of data science models to production. 
           
           I audited three of the datascience pipelines and proposed a myriad of problems and solutions relating to documentation, testing, versioning, notebook development, and production readiness.
-          I primarily worked on automating Python and SQL documentation generation and version control. I 
-          integrated the solutions into our new repository templates.  
+          I was responsible for automating Python and SQL documentation generation and version control. I 
+          integrated the solutions into our new repository templates.
           
-          Some of the cool technologies I'm working with and learning:
+          Some of the cool technologies I'm worked with and learned:
           - Kubernetes and Docker
           - Jenkins and Airflow
           - Python Library Template Engines
           - Google Cloud Platform
+      - job: "Cohort 40 Member"
+        company: QUEST
+        companyUrl: https://www.rhsmith.umd.edu/quest
+        date: "Mar 2022 - Present"
+        content: |
+          I am a part of the QUEST (Quality Enhancement Systems & Teams) Honors Program in Cohort 40. QUEST is a prestigious interdisciplinary program for 
+          business, engineering, and science students to gain hands-on experience within the industry by partnering with large corporations. 
+          We learn how to communicate with clients, create solutions to real problems, and work within intellectually diverse teams.
+
+          Our curriculum consists of the following:
+          - BMGT 190H: Introduction to Quality and Design
+          - BMGT 438A: Applied Quantitative Analysis
+          - BMGT 390H: Designing Innovative Systems
+          - BMGT 490H: A Capstone project where students consult QUEST's coporate partners on an identified organizational challenge
         
       
       # Trailblazer
       - job: "Head Coach and Administrator"
         company: "Trailblazer Debate"
         companyUrl: "https://linktr.ee/trailblazerdebate"
-        date: "Sep 2021 - Present"
+        date: "Sep 2021 - May 2022"
         info:
           enable: true
           content: Organize classes seasonally.
@@ -279,8 +297,9 @@ params:
           - SEDS Liquid Rocket Team - Data Acquisition Team Lead
           - Terps in Space Researcher
 
-          Relevant Coursework: Computer Systems, Differential Equations, Electric Circuits, Algorithms, Discrete Signal Analysis, Discrete Mathematics, Engineering Design, Organization of Programming Languages, 
-          Digital Logic Design
+          Relevant Coursework: Computer Systems, Algorithms, Organization of Programming Languages, Harvesting Big Data, 
+          Electric Circuits, Discrete Signal Analysis, 
+          Engineering Design, Digital Logic Design, Differential Equations, Discrete Mathematics, Multivariable Calculus, Physics
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
@@ -292,7 +311,7 @@ params:
           url: "https://mbhs.edu"
         # GPA: "4.2 out of 5.0"
         content: |-
-          Activities: Science Bowl Team (B Captain), Math Team, National Circuit Debate Team (Public Forum), Astronomy Team (Captain), Rubik's Cube Team (Regional Champion)
+          Extracurricular Activities: Science Bowl Team (B Captain), Math Team, National Circuit Debate Team (Public Forum), Astronomy Team (Captain), Rubik's Cube Team (Regional Champion)
         # featuredLink:
         #   enable: true
         #   url: "https://example.com"
