@@ -145,7 +145,7 @@ params:
         # - icon: /fav.png
         #   url: "https://example.com"
 
-  # About
+  # About Me
   about:
     enable: true
     title: "About Me"
