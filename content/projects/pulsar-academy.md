@@ -20,8 +20,8 @@ badges:
 
 banner:
   include: true
-  type: "danger"
-  text: "The pulsar academy website has been temporarily shut down due to cost." 
+  type: "success"
+  text: "The Pulsar Academy website is up and running again, this time hosted on GCP!" 
 
 links:
   - icon: "fab fa-github"
