@@ -287,8 +287,9 @@ params:
           - QUEST - Collaborative Business and Engineering Teams Program
 
           Accolades: 
-          - James W. Dally Endowed Scholarship 2022-2023
-          - Derek H. Blume Memorial Scholarship 2022-2023
+          - L3Harris Corporate Partners Scholarship
+          - James W. Dally Endowed Scholarship 2022
+          - Derek H. Blume Memorial Scholarship 2022
           - Northrop Grumman Environmental Sustainability Challenge Champion 2022
           - Dean's List (2x)
 
@@ -320,6 +321,9 @@ params:
   achievements:
     enable: true
     items:
+      - title: L3Harris Corporate Partners Scholarship 2022-2023
+        content: Awarded by the A. James Clark School of Engineering.
+        url: https://eng.umd.edu/industry/corporate-partners
       - title: James W. Dally Endowed Scholarship 2022-2023
         content: Awarded by the A. James Clark School of Engineering.
         url: https://eng.umd.edu/james-w-dally-endowed-scholarship
