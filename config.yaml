@@ -368,6 +368,21 @@ params:
 # extracurriculars
   extracurriculars:
     enable: true
+    items:
+      - title: Bitcamp
+        content: Bitcamp is the University of Maryland's premier hackathon, bringing together over 1,400 students, making it the largest collegiate hackathon on the East Coast. 
+                I will be a software developer on the tech team. 
+        image: /images/extracurriculars/hack.jpg
+        featured:
+          name: Site
+          link: https://bit.camp
+        badges:
+          - "Hackathon"
+          - "AWS"
+          - "Vue.js"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/bitcamp
     
 
   #Contact

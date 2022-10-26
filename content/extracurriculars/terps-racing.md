@@ -13,7 +13,8 @@ image: /images/extracurriculars/trcar.jpeg
 toc: true
 
 badges: 
-  - "Composites"
+  - Formula IC
+  - Composites
 
 links:
   - icon: "fas fa-info-circle"
