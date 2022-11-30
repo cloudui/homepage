@@ -21,7 +21,7 @@ links:
   - icon: "fas fa-info-circle"
     url: http://mtech.umd.edu/ng/challenges/northrop-grumman-mission-systems-innovation-challenge-environmental-sustainability.html
   - icon: "fa fa-file-powerpoint"
-    url: https://umd0-my.sharepoint.com/:p:/r/personal/sophierw_umd_edu/_layouts/15/Doc.aspx?sourcedoc=%7B4565F1B2-7311-4F57-A457-2BE8DDA0DFD1%7D&file=SwaleFlow%20-%20Final%20Presentation.pptx&action=edit&mobileredirect=true
+    url: https://storage.googleapis.com/ecstaticfiles/SwaleFlow%20-%20Final%20Presentation.pdf
 ---
 
 Northrop Grumman and UMD host a collaborative annual competition in areas of high importance, ranging anywhere from Machine Learning to Cybersecurity. In 2022, the topic of interest was **environmental sustainability**. Per Northrop Grumman's own description, the point of the game was to "develop  an original concept for a product, service, software, or a combination of the three, in areas such as clean energy, water scarcity, food security..." 
