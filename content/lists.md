@@ -1,6 +1,6 @@
 ---
 title: "Lists"
-date: 2022-08-15
+date: 2023-01-04
 draft: false
 author: Eric Chen
 toc: true
@@ -17,6 +17,12 @@ links:
 
 I like to keep track of things that I do. Whether it be books I've read, habits I'm forming, or monthly budgets, it's important for me to keep book of my progress. 
 
+## Goals for 2023 <i class="fa fa-calendar fa-sm"></i>
+- Read 20 books
+- Learn 3 powermoves 
+- Buy my first stock and learn to invest
+- Become friendly with a professor
+
 ## Books <i class="fa fa-book-open fa-sm"></i>
 
 - *Can't Hurt Me* - David Goggins // 8-15-2022
@@ -28,6 +34,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 
 ### Currently Reading 
+- *Principles* - Ray Dalio
 - *The Neuroscience of Intelligence* - Richard Haier
 - Vol. 1 of *Sherlock Holmes* - Sir Arthur Conan Doyle
 - *The 4-Hour Work Week* - Timothy Ferriss // paused
@@ -38,11 +45,9 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 ## Learning Items <i class="fa fa-graduation-cap fa-sm"></i>
 
-- Breakdancing 😳 (with [The Lab D.C.](https://www.breakinlab.com/))
-- GCP ACE Exam Preparation Course // 8-13-2022
-  - Kubernetes Deep Dive // 8-7-2022
-- *Hands-on Machine Learning with Scikit-Learn and Tensorflow* - Aurélien Géron
-- Japanese, a continuation
+- Breakdancing -- Windmills
+- Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning))
+- Art: Blender, Unreal, Photoshop, Video Editing
 
 <hr>
 

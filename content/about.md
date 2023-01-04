@@ -14,6 +14,8 @@ draft: false
 - Cognitive Science and Pyschology
 - Areas of Science: Physics, Astronomy, and Geology
 - Culture and Politics
+- Cloud Computing
+- Popular media
 
 If you want to learn about what kind of person I am, those are the best places to look!
 
@@ -24,7 +26,7 @@ As a computer engineering student, my entire professional career has revolved ar
 
 Most of my coding experience is from web development and a bit of machine learning. My first big project was [Pulsar Academy](/projects/pulsar-academy), where I made a website to host coding classes I was going to teach. I was able to experience the full-stack development experience, pulling late night grinds to create user registration, payment integration, and content hosting. Every time I work on a website, I have an undying motivation to fulfill my creative desires, hoping to present something concrete that I can share to the world. 
 
-I'm taking steps to enter the machine learning world, but I still primarily remain a beginner. I've been gobsmacked by creations such as DALL·E 2, AlphaZero, and Google Image Search. It's unbelievable how creative and limitless the machine learning researchers are, and I hope to join the mix eventually, assuming it is the right choice for me. I'm also very much interested in the electrical and computer engineering world, but I am less aware of what's going on out there. That's what I'll be exploring in my university years.
+I'm taking steps to enter the machine learning world, but I still primarily remain a beginner. I've been very impressed by creations such as DALL·E 2, AlphaZero, and Google Image Search. It's unbelievable how creative and limitless the machine learning researchers are, and I hope to join the mix eventually, assuming it is the right choice for me. I'm also very much interested in the electrical and computer engineering world, but I am less aware of what's going on out there. That's what I'll be exploring in my university years.
 
 Some other things I'm want to investigate:
 - Blockchain and Web3
