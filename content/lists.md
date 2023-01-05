@@ -2,8 +2,8 @@
 title: "Lists"
 date: 2023-01-04
 draft: false
-author: Eric Chen
 toc: true
+layout: about
 
 links:
   - icon: fab fa-goodreads
