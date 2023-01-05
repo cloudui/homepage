@@ -32,11 +32,11 @@ Menus:
       title: Blog posts
       url: https://blog.echen.io
       weight: 3
-    # - identifier: about
-    #   name: About
-    #   title: About
-    #   url: /about
-    #   weight: 1
+    - identifier: writing
+      name: Writing
+      title: Writing
+      url: /shorts
+      weight: 1
 
     #Dropdown menu
     # - identifier: dropdown
