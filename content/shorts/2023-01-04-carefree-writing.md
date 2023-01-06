@@ -1,6 +1,7 @@
 ---
 title: "Carefree Writing"
 date: 2023-01-04
+slug: carefree-writing
 image: calligraphy.jpg
 caption: "Image courtesy of asiasociety.org"
 ---
