@@ -1,7 +1,7 @@
 ---
 title: "Humans are Silly"
 date: 2023-01-06
-slug: dating-apps
+slug: humans-are-silly
 image: thinking-man.jpg
 caption: "Image courtesy of fineartamerica.com"
 ---
