@@ -6,7 +6,7 @@ theme: hugo-profile-v2
 urls:
   blog: https://blog.echen.io
 
-Paginate: 3
+Paginate: 30
 # disqusShortname: gurusabarish
 # googleAnalytics: G-DWJJVE27WD
 
