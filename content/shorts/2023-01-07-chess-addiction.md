@@ -4,6 +4,8 @@ date: 2023-01-07
 slug: chess-addiction
 image: chess.jpg
 caption: "Image courtesy of unsplash.com"
+images:
+    - images/chess.jpg
 ---
 
 Over the last two years, I have become addicted to chess. I've spent hours upon hours watching analyses of famous games between the strongest grandmasters that have ever lived. Each game is a story. Some are long, others are short. Some are super complicated, others are relatively simple. Some are wild, others are calm. The variety keeps the game interesting, just as different books and genres keep reading interesting. The style of a game depends on the player, the time format, the mood, the environment, and more.

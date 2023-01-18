@@ -4,6 +4,8 @@ date: 2023-01-16
 slug: hero-or-villain
 caption: Image courtesy of Axios
 image: mlk.webp
+images: 
+    - images/mlk.webp
 ---
 
 Today is Martin Luther King Jr. Day. It's a day to celebrate one of the most important leaders of the Civil Rights movement. A day to honor the man who delivered one of the most memorable and impactful speeches in American history. A day to honor the man who dreamt of a world where people would be evaluated by the content of their character rather than the color of their skin. There is no doubt that MLK was one of the most important figures in American history.

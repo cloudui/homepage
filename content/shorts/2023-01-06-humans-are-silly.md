@@ -4,6 +4,8 @@ date: 2023-01-06
 slug: humans-are-silly
 image: thinking-man.jpg
 caption: "Image courtesy of fineartamerica.com"
+images:
+    - images/thinking-man.jpg
 ---
 
 Humans are silly. We do a lot of really silly things. We look at squiggles on a piece of paper to learn. We bop our heads to random assembleges of acoustic waves. We go to office buildings and trade our time for pieces of paper with fancy images on them. The list goes on and on. We've all heard that nagging voice from a parent or friend: "why are you wasting your time?" Maybe we were playing video games, chatting with our friends, or doodling on a piece of paper. After all, they're "useless activities." But, if we extrapolate out any human activity, we can make it sound ridiculous, even though we do them on a daily basis. 

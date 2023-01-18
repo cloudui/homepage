@@ -3,6 +3,8 @@ title: "Shared Identity"
 date: 2023-01-13
 slug: shared-identity
 image: life.jpg
+images: 
+    - images/life.jpg
 ---
 
 I went on a boat tour in Everglades National Park this afternoon. Our tour guide, Mitchell, took guided us through the 3-mile-long Buttonwood Canal, where we arrived at the mouth of Florida Bay. He was very knowledgeable of the different plants, birds, and animal life in the area– after all, it’s his job. Along the water, we passed by a few speedboats driven by middle-aged men with short hair, sun hats, sunglasses, fishing rods, and tanned skin. These boatmen and Mitchell have lived here for all of their lives. They are masters of their domain, and I am just a tourist.
