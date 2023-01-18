@@ -1,10 +1,5 @@
 {{ define "head" }}
 <meta name="description" content="{{ .Params.description }}">
-{{ $image := resources.Get ( printf "images/%s" .Params.image ) }}
-{{ $imagelink := absURL $image.RelPermalink }}
-<meta name="image" content="{{ $imagelink }}">
-<meta name="twitter:image" content="{{ absURL $imagelink }}">
-<meta name="og:image" content="{{ absURL $imagelink }}">
 <link rel="stylesheet" href="{{.Site.Params.staticPath}}/css/single.css">
 
 <!-- fontawesome -->
