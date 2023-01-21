@@ -28,7 +28,7 @@
                         <img class="crop" src="{{ ( $image.Resize "600x" ).RelPermalink }}" alt="{{ .Title }}">
                     </div>
                     <div class="col short-text">
-                        <h6>{{ .Title }}</h6>
+                        <h5>{{ .Title }}</h5>
                         <span class="text-secondary small">{{ .Date.Format "Jan 2, 2006" }}</span>
                     </div>
                 </div>
@@ -67,8 +67,8 @@
         )
     }
     .crop {
-        width: 150px;
-        height: 112px;
+        width: 180px;
+        height: 135px;
         object-fit: cover;
     }
     @media all and (max-width: 750px) {
