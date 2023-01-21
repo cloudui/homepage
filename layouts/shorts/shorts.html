@@ -52,7 +52,14 @@
         /* margin-bottom: 2px; */
         position: relative;
     }
-    .short:hover {
+    body.dark .short:hover {
+        /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); */
+        background: linear-gradient(
+          rgba(255, 255, 255, 0.05), 
+          rgba(255, 255, 255, 0.05)
+        )
+    }
+    body:not(.dark) .short:hover {
         /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); */
         background: linear-gradient(
           rgba(0, 0, 0, 0.05), 
