@@ -1,0 +1,27 @@
+---
+title: You Might've Been a Nazi
+date: 2023-01-25
+slug: you-mightve-been-a-nazi
+caption: Image courtesy of Karsten Winegeart
+image: nazi.jpg
+images:
+  - images/nazi.jpg
+---
+
+We live in the fairest time in human history. The people today are the most wealthy and free compared to almost everyone even a few hundred years ago. I never said we live in a perfect society. Poverty, racism, and inequality still plague our planet today. But, we can be thankful for all of the incredible developments we have made in recent history.
+
+Let's travel back in time for a second. There's no doubt the Nazi party was extremely effective, in the worst way imaginable (not pulling a Kanye here). They had a mission, a strategy, and aggressive rhetoric that convinced a huge plurality of the country to support a party of genocide. It would be very naive to assume that those millions of people in support of Nazism were purely evil. It would also be very naive for you to assume that you wouldn't have done what they did if you were in the same position. 
+
+In an era of tolerance and freedom, it's easy for us to think we have strong moral virtue. We can't possibly imagine that we could be evil. If we were in Germany in the 1930s, we would've fought back against Hitler. We would've stood against tyranny in Maoist China.  We would've risked jail to protest against Jim Crow. However, courage is very difficult. It takes very special people to defy expectations-- there will always be people who suffer for it. During the Civil Rights Movement, it took the suffering of those at the start to set the groundwork for mass protests to occur. It takes time for people to manifest the courage to fight back. It's the reason we have heroes like Corrie Ten Boom and Rosa Parks. If we could all be heroes, then the term "hero" wouldn't mean anything. That's not to say that *you* wouldn't have been a hero. But most of us wouldn't have had the courage.
+
+The Nazi Party had the majority vote in 1933 by 26 points (10 million people)[^1]. They appealed to the middle class. They promised the people they would restore Germany to its former glory during a time of economic stagnation and turmoil. They said they wouldn't leave people behind as the Communists and Capitalists did. And lastly, they convinced the people that the Jews (and gypsies, etc.) were responsible for the economic problems and the loss of the World War[^2]. People bought that idea. They were inspired by Hitler's words. They found an easy scapegoat for all of their problems: the Jews. And as the party became more popular, more and more people bought in. It was an easy decision. Get rid of the Jews, and all the problems would cease to exist. Civilians turned against their neighbors as the Nazi Party took over. Ordinary people committed the most heinous acts you could imagine. Would you be willing to risk execution to speak out against the party in power? If you were a member of the "supreme race", would you risk your privilege to fight against your family and friends? The answer today is easily a strong "yes". But if you were there in the moment, would you have the resolve to do the same? 
+
+This is a very difficult problem to think about. If you are born in a country where women are oppressed and you learn to oppress women, who is at fault? You can say with pretty high certainty that most people would abide by the rules of the country. The same goes for slavery. Were most people in the South evil? Did humans become less evil over time? Probably not. We're all born of circumstance, and we choose to follow the crowd. It's almost impossible to fathom a reality that we do not know. And it takes courageous people to fight for that reality. Most of us will end up following the crowd. Most of us would probably have been a Nazi. But, some people choose to fight for the ideal. And thank God for them. 
+
+This begs the question: how many steps are we from being evil? We don't control our heritage, our environment, or our upbringing. Which small things could we have tweaked in our own timeline that would've sent us off the deep end? How many mistakes away were we from making the worst mistake of our life? Everyone has the capacity for evil. We all have fleeting thoughts that we don't act on because we've been taught better. But, it takes one small slip up, one moment of misjudgment to become what others would consider "evil". So, what's the takeaway? To be honest, I'm not so sure. The easy bit of advice would be to stand for your principles. But when you're told the opposite by millions of people, your resolve will crumble. It's not a reasonable expectation, but it's an ideal for you to strive for. Maybe the takeaway is to appreciate what you have. If you're reading this, you should be thankful for all those who had to suffer to give you the life that you have today, where you can focus on your personal life instead of avoiding the genocidal tendencies of your government. How about a piece of advice instead: speak the truth. The truth is an absolute defense. You might suffer for it. But, it's all you really have in the end.
+
+> This post was inspired by this talk https://www.youtube.com/watch?v=tVCAhGL0ohw
+> {{< youtube XY7a1RXMbHI >}}
+
+[^1]: "Election Results in Germany", marxists.org, https://www.marxists.org/archive/trotsky/germany/elect.htm
+[^2]: "How did the Nazis become So popular?", University of Illinois Urbana-Champaign, https://las.illinois.edu/news/2014-10-01/how-did-nazis-become-so-popular 
