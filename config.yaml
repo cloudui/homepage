@@ -14,7 +14,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-  
+
   tableOfContents:
     endLevel: 2
     startLevel: 1
@@ -92,19 +92,19 @@ params:
 
   # color preference
   color:
-  #   textColor:
-  #   secondaryTextColor:
-  #   backgroundColor:
-  #   secondaryBackgroundColor:
-    primaryColor: '#5e8ac7'
-  #   secondaryColor:
+    #   textColor:
+    #   secondaryTextColor:
+    #   backgroundColor:
+    #   secondaryBackgroundColor:
+    primaryColor: "#5e8ac7"
+    #   secondaryColor:
 
     darkmode:
-  #     textColor:
-  #     secondaryTextColor:
-  #     backgroundColor:
-  #     secondaryBackgroundColor:
-      primaryColor: '#5e8ac7'
+      #     textColor:
+      #     secondaryTextColor:
+      #     backgroundColor:
+      #     secondaryBackgroundColor:
+      primaryColor: "#5e8ac7"
   #     secondaryColor:
 
   # If you want to customize the menu, you can change it here
@@ -151,37 +151,37 @@ params:
     title: "About Me"
     image: "/images/bdance.jpeg"
     content: |-
-        **Welcome!** I'm Eric, and I'm a sophomore studying Computer Engineering at the University of Maryland. I have a small presence online via [my Twitter](https://twitter.com/below_ocean) and [my blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
-        - Technology and the Internet
-        - Cognitive Science and Pyschology
-        - Areas of Science
-        - Culture and Politics
-        - Cloud Computing
-        - Popular media
+      **Welcome!** I'm Eric, and I'm a sophomore studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts) and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
+      - Technology and the Internet
+      - Cognitive Science and Pyschology
+      - Areas of Science
+      - Culture and Politics
+      - Cloud Computing
+      - Popular media
 
-        If you want to learn about what kind of person I am, those are the best places to look. I also want to learn more about you, too!
-        Find me in my socials below.
+      If you want to learn about what kind of person I am, those are the best places to look. I also want to learn more about you, too!
+      Find me in my socials below.
 
-# A grand and warm welcome to you. Allow me to introduce myself. 
-# I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a 
-# Rubik's cube in less than 10 seconds. If we had more time, I would share my love for basketball, breakdancing, reading, Frank Sinatra, blogging, and the violin. If I could describe 
-# myself in one word, I would say that I am a learner, one who desires to understand the world. 
+  # A grand and warm welcome to you. Allow me to introduce myself.
+  # I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a
+  # Rubik's cube in less than 10 seconds. If we had more time, I would share my love for basketball, breakdancing, reading, Frank Sinatra, blogging, and the violin. If I could describe
+  # myself in one word, I would say that I am a learner, one who desires to understand the world.
 
-# I was put on this planet with purpose and resolve, and I aim to exploit it. The allure to settle down is strong, but the allure to 
-# improve and achieve is even stronger. Most people will follow the main stream, but I will take the distributary (geology jokes). 
-# If life has a meaning, I want to find it. 
+  # I was put on this planet with purpose and resolve, and I aim to exploit it. The allure to settle down is strong, but the allure to
+  # improve and achieve is even stronger. Most people will follow the main stream, but I will take the distributary (geology jokes).
+  # If life has a meaning, I want to find it.
 
-# I want to learn about you, too! Find me in my socials below!
-    # skills:
-    #   enable: true
-    #   title: "Here are some technologies I have been working with recently:"
-    #   items:
-    #     - "K8s & Docker"
-    #     - "GCP"
-    #     - "Python"
-    #     - "Hugo"
-    #     - "Arduino"
-    #     - "Jupyter & Vertex.ai"
+  # I want to learn about you, too! Find me in my socials below!
+  # skills:
+  #   enable: true
+  #   title: "Here are some technologies I have been working with recently:"
+  #   items:
+  #     - "K8s & Docker"
+  #     - "GCP"
+  #     - "Python"
+  #     - "Hugo"
+  #     - "Arduino"
+  #     - "Jupyter & Vertex.ai"
 
   # Experience
   experience:
@@ -197,11 +197,11 @@ params:
         #   url: "https://example.com"
         content: |-
           I worked within the Data Science Division - MLOps Team at Mailchimp/Intuit. I experimented with methods to optimize the deployment of data science models to production. 
-          
+
           I audited three of the datascience pipelines and proposed a myriad of problems and solutions relating to documentation, testing, versioning, notebook development, and production readiness.
           I was responsible for automating Python and SQL documentation generation and version control. I 
           integrated the solutions into our new repository templates.
-          
+
           Some of the cool technologies I'm worked with and learned:
           - Kubernetes and Docker
           - Jenkins and Airflow
@@ -221,8 +221,7 @@ params:
           - BMGT 438A: Applied Quantitative Analysis
           - BMGT 390H: Designing Innovative Systems
           - BMGT 490H: A Capstone project where students consult QUEST's coporate partners on an identified organizational challenge
-        
-      
+
       # Trailblazer
       - job: "Head Coach and Administrator"
         company: "Trailblazer Debate"
@@ -236,7 +235,7 @@ params:
           I have coached students on how to plan debate strategies, organize evidence, think critically, and speak with authority. 
           I handled Trailblazer's sign-up, administrative organization, advertising, and financial system. 
           Our team has successfully hosted 6 debate camp sessions so far!
-          
+
           Our Curriculum:
           - Public Forum Debate Fundamentals
           - Basics of Argument
@@ -244,8 +243,7 @@ params:
           - Research, Writing, and Analysis
           - Notetaking, Responses, and Strategy
 
-
-      # UMD ML 
+      # UMD ML
       - job: "Machine Learning Research Intern"
         company: "UMD"
         companyUrl: "https://complex.umd.edu/"
@@ -260,7 +258,7 @@ params:
           - Collaborated with mentors to determine and optimize hyperparameters for making predictive estimations of exposure.
           - Presented research to laboratory and peers.
 
-      # NIH 
+      # NIH
       - job: "Data Science Research Intern"
         company: "NIH"
         companyUrl: "https://nih.gov"
@@ -274,7 +272,7 @@ params:
           leading online hosts of cancer research data.
           - Queried and identified a dozen critical cancer-related genes in the central nervous system of the E14.5 mouse embryo
           - Performed statistical analysis and analyzed Kaplan-Meier Curves for each gene using cBioPortal genomic datasets
-          
+
           Our abstract was accepted by the AACR, and we were invited to present at their annual conference in 2020. Unfortunately, due to the COVID pandemic, we were not able to present.
 
   # Education
@@ -314,7 +312,7 @@ params:
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
-          # url: "https://example.com"
+        # url: "https://example.com"
       - title: "Science, Mathematics, and Computer Science Magnet Program"
         date: 2017 - 2021
         school:
@@ -369,19 +367,20 @@ params:
         badges:
           - "Jekyll"
           - "HTML"
-          - "CSS" 
+          - "CSS"
           - "JS"
         links:
           - icon: fab fa-github
             url: https://github.com/cloudui/echen
 
-# extracurriculars
+  # extracurriculars
   extracurriculars:
     enable: true
     items:
       - title: Bitcamp
-        content: Bitcamp is the University of Maryland's premier hackathon, bringing together over 1,400 students, making it the largest collegiate hackathon on the East Coast. 
-                I will be a software developer on the tech team. 
+        content:
+          Bitcamp is the University of Maryland's premier hackathon, bringing together over 1,400 students, making it the largest collegiate hackathon on the East Coast.
+          I will be a software developer on the tech team.
         image: /images/extracurriculars/hack.jpg
         featured:
           name: Site
@@ -393,12 +392,11 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/bitcamp
-    
 
   #Contact
   contact:
     enable: true
-    content: Send me an email if you have any questions. My inbox is always open. 
+    content: Send me an email if you have any questions. My inbox is always open.
     email: ericchen314@gmail.com
     btnName: Email me
 
