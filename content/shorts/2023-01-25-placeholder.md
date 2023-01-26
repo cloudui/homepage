@@ -20,7 +20,7 @@ This is a very difficult problem to think about. If you are born in a country wh
 
 This begs the question: how many steps are we from being evil? We don't control our heritage, our environment, or our upbringing. Which small things could we have tweaked in our own timeline that would've sent us off the deep end? How many mistakes away were we from making the worst mistake of our life? Everyone has the capacity for evil. We all have fleeting thoughts that we don't act on because we've been taught better. But, it takes one small slip up, one moment of misjudgment to become what others would consider "evil". So, what's the takeaway? To be honest, I'm not so sure. The easy bit of advice would be to stand for your principles. But when you're told the opposite by millions of people, your resolve will crumble. It's not a reasonable expectation, but it's an ideal for you to strive for. Maybe the takeaway is to appreciate what you have. If you're reading this, you should be thankful for all those who had to suffer to give you the life that you have today, where you can focus on your personal life instead of avoiding the genocidal tendencies of your government. How about a piece of advice instead: speak the truth. The truth is an absolute defense. You might suffer for it. But, it's all you really have in the end.
 
-> This post was inspired by this talk https://www.youtube.com/watch?v=tVCAhGL0ohw
+> This post was inspired by this talk
 > {{< youtube XY7a1RXMbHI >}}
 
 [^1]: "Election Results in Germany", marxists.org, https://www.marxists.org/archive/trotsky/germany/elect.htm
