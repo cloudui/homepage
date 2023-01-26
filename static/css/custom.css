@@ -211,3 +211,7 @@ figcaption {
 .page-content ol {
     margin-bottom: 1em !important;
 }
+
+.footnotes {
+    word-break: break-all;
+}
