@@ -213,5 +213,5 @@ figcaption {
 }
 
 .footnotes {
-    word-break: break-all;
+    overflow: hidden;
 }
