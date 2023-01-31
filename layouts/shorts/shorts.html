@@ -16,7 +16,7 @@
         <div class="title">
             <h1 class="text-center mb-5" style="opacity:0.8">{{ .Title }}</h1>
         </div>
-        <div class="col-lg-5 col-md-6 my-3">
+        <div class="col-lg-6 col-md-9 my-3">
 
         {{ range .Paginator.Pages }}
             {{ $image := resources.Get ( printf "images/%s" .Params.image ) }}
