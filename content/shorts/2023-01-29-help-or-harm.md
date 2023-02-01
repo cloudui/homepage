@@ -2,7 +2,6 @@
 title: Help or Harm?
 date: 2023-01-29
 slug: help-or-harm
-caption: Image courtesy of PCMag
 image: aiart.png
 images:
   - images/aiart.png
