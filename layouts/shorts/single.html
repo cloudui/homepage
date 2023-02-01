@@ -34,6 +34,8 @@
           <article class="page-content  p-2">
           {{ .Content | emojify }}
           </article>
+          <br>
+          <span class="small text-secondary" style="float:right">word count: {{ lang.FormatNumberCustom 0 .WordCount "- . ,"}}</span>
         </div>
       </div>
     </div>
