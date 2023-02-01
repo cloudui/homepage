@@ -2,9 +2,9 @@
 title: Routine and Adventure
 date: 2023-01-31
 slug: routine-and-adventure
-image: routineadventure.png
+image: journey.png
 images:
-  - images/routineadventure.png
+  - images/journey.png
 ---
 
 Life is a balance bewteen routine and adventure. Routine gives us the stability we need. It tells us what to expect and what to do. It's your own crystal ball. If you lose routine, you lose predictability, which would quickly turn your life into chaos. Imagine trying to balance a day full of surprises every day. It would drive you mad. On the other hand, routine brings boredom. It's a cycle of expectation and action. Without things to spice up your life, you would drown in endless predictability. It's the feeling you get when you're on break for too long, waking up every day past noon and playing video games until the sun rises the next day. Adventure offers some variation. It messes with your crystal ball's predictions. It adds the excitement you need to push forward. It's the trip to France after months of hard work. It's the surprise birthday party after a dreadful day. It offers you a chance to go on an expedition-- to explore the unknown. 
