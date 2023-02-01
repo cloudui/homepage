@@ -2,9 +2,9 @@
 title: "In Defense of Difficult Exams"
 date: 2023-01-14
 slug: difficult-exams
-image: exams.jpg
+image: exams.png
 images: 
-    - images/exams.jpg
+    - images/exams.png
 ---
 
 Nobody likes difficult exams. After all, the professor might ask us questions we haven't seen before. He might ask about ideas we haven't considered before. Difficult exams can tank my grade. That wouldn't be fair, right? Unfortunately, I would argue that those are actually "good" things. 
