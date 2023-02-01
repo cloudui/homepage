@@ -2,10 +2,10 @@
 title: "Dealt an Unfortunate Hand"
 date: 2023-01-10
 slug: unfortunate-hand
-image: poker-hand.webp
+image: poker.jpg
 caption: "Image courtesy of Business Insider"
 images:
-    - images/poker-hand.webp
+    - images/poker.jpg
 ---
 
 Life is unfair. Some people start with everything and some people start with nothing. We're born of circumstances that we cannot control. We do not decide our parents, our birthplace, our birthday, or our name. We're given a hand, and we're forced to play it. It's an undeniable fact that people have different privileges. Some people are beautiful, some people are geniuses, some people are tall, and some people have it all. It's like they were given pocket aces while you were given a two and a three. It's easy to look at them with disdain and envy. After all, much of their life is due to luck and not hard work. 
