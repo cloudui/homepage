@@ -3,7 +3,7 @@ title: "Dealt an Unfortunate Hand"
 date: 2023-01-10
 slug: unfortunate-hand
 image: poker.jpg
-caption: "Image courtesy of Business Insider"
+caption: "Image courtesy of Amol Tyagi"
 images:
     - images/poker.jpg
 ---
