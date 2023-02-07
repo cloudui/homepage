@@ -31,8 +31,11 @@
                         {{ end }}
                         {{ if .featured }}
                         <span class="float-end">
-                            <a class="btn btn-sm" href="{{ .featured.link }}" target="_blank">
+                            <!-- <a class="btn btn-sm" href="{{ .featured.link }}" target="_blank">
                                 {{ .featured.name }}
+                            </a> -->
+                            <a class="" href="{{ .RelPermalink }}">
+                                <i class="fas fa-book-open"></i>
                             </a>
                         </span>
                         {{ end }}
