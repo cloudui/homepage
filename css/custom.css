@@ -215,3 +215,8 @@ figcaption {
 .footnotes {
     overflow: hidden;
 }
+
+.twitter-tweet {
+    margin: auto;
+    width: 10px;
+}
