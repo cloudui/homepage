@@ -37,7 +37,7 @@ Writing about more topics gave me more conversation fodder. I've had some in-dep
 
 5. Writing in an IDE is easy?!
 
-If you didn't already know, this website was made with Hugo, a static site generator that compiles markdown files into HTML. It's essentially a coding project that has a lot of the work done behind the scenes, but you still need a code editor to work on it. I did most of my writing within VSCode (a popular code editing interface). I realized that writing in such a weird environment removed all the distractions in a typical word editor. I would find spelling and grammar mistakes well after completing my first draft. The weird font and inverted colors eased the writing process. Even though I have great text editors like Obsidian, Notion, and Google Docs, I found myself preferring to write in VSCode. I know, what a nerd. 
+If you didn't already know, this website was made with Hugo, a static site generator that compiles markdown files into HTML. It's essentially a coding project that has a lot of the work done behind the scenes, but you still need a code editor to work on it. I did most of my writing within VSCode (a popular code editing interface). I realized that writing in such a weird environment removed all the distractions in a typical word editor. I would find spelling and grammar mistakes well after completing my first draft. The weird font and inverted colors eased the writing process. Even though I had great text editors like Obsidian, Notion, and Google Docs, I found myself preferring to write in VSCode. I know, what a nerd. 
 
 6. My shorts were not even that short
 
@@ -47,7 +47,7 @@ There was no exact pattern in length. Pieces range from 200-1,000 words. Wheneve
 
 ## What You Should Do
 
-Do I recommend doing this? Hell yes, I do. It's been an incredibly gratifying and interesting journey for me, and it's only been a month. There is a lot of value in writing. It allows you to explore yourself, your ideas, and your environment. It's an immortal copy of your identity at a given point in time. It allows you to be creative with your imagination. It doesn't have to be short-form writing. It can be as long as you want. These shorts were just a strategy that worked for me. You can write stories, chapter books, recipes, or fanfictions. Whatever floats your boat. Just make sure to orient your writing in a way that maximizes your effort and interest. If you end up embarking on this new journey, please reach out. I would love to read any of your future (or current!) creations. 
+Do I recommend doing this? Hell yes, I do. It's been an incredibly gratifying and interesting journey for me, and it's only been a month. There is a lot of value in writing. It allows you to explore yourself, your ideas, and your environment. It's an immortal snapshot of your identity at a given point in time. It allows you to be creative with your imagination. It doesn't have to be short-form writing. It can be as long as you want. These shorts were just a strategy that worked for me. You can write stories, chapter books, recipes, or fanfictions. Whatever floats your boat. Just make sure to orient your writing in a way that maximizes your effort and interest. If you end up embarking on this new journey, please reach out. I would love to read any of your future (or current!) creations. 
 
 
 [^1]: All the thumbnails without attribution were generated with Midjourney. The short ["In Defense of Difficult Exams"](/shorts/difficult-exams/) was the only thumbnail generated with DALLE2. 
