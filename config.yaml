@@ -1,7 +1,7 @@
 baseURL: "http://echen.io"
 languageCode: "en-us"
 title: "echen.io"
-theme: hugo-profile-v2
+theme: hugo-profile-v4
 
 urls:
   blog: https://blog.echen.io
@@ -390,7 +390,8 @@ params:
     btnName: Email me
 
   footer:
-    recentPosts: false
+    recentPosts: 
+      enable: false
     socialNetworks:
       github: https://github.com/cloudui
       linkedin: https://linkedin.com/in/ericchen03
