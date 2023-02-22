@@ -9,15 +9,17 @@ draft: false
 <br>
 
 **Welcome!** I'm Eric, and I'm a sophomore studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
-
 - Technology and the Internet
 - Cognitive Science and Pyschology
-- Areas of Science: Physics, Astronomy, and Geology
+- Areas of Science
 - Culture and Politics
 - Cloud Computing
 - Popular media
 
-If you want to learn about what kind of person I am, those are the best places to look!
+Career-wise, I specialize in machine learning (particularly deep learning), full-stack development, and cloud computing with AWS + GCP. I am looking
+to become an expert in robotics and chip + FPGA design in the future.
+
+I am interested in you, too! Find me in my socials below.
 
 # Career Interests
 

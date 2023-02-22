@@ -158,9 +158,11 @@ params:
       - Culture and Politics
       - Cloud Computing
       - Popular media
+      
+      Career-wise, I specialize in machine learning (particularly deep learning), full-stack development, and cloud computing with AWS + GCP. I am looking
+      to become an expert in robotics and chip + FPGA design in the future.
 
-      If you want to learn about what kind of person I am, those are the best places to look. I also want to learn more about you, too!
-      Find me in my socials below.
+      I am interested in you, too! Find me in my socials below.
 
   # A grand and warm welcome to you. Allow me to introduce myself.
   # I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a
@@ -376,22 +378,6 @@ params:
   # extracurriculars
   extracurriculars:
     enable: true
-    items:
-      - title: Bitcamp
-        content:
-          Bitcamp is the University of Maryland's premier hackathon, bringing together over 1,400 students, making it the largest collegiate hackathon on the East Coast.
-          I will be a software developer on the tech team.
-        image: /images/extracurriculars/hack.jpg
-        featured:
-          name: Site
-          link: https://bit.camp
-        badges:
-          - "Hackathon"
-          - "AWS"
-          - "Vue.js"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/bitcamp
 
   #Contact
   contact:
