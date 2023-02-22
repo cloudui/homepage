@@ -26,10 +26,10 @@ Bitcamp is the University of Maryland's premier hackathon, bringing together ove
   - Form logic + design
 - Built website with Vue.js
 
-## Going to Do
+## Working On...
 - Build Expo app that matches judges with competitors when presenting projects
 - Organize the Hackathon! April 7-9!!!
 
 Tell me this isn't a hot design: 
 
-<img src="/images/extracurriculars/bitcamp-site-2023.png" class="md" width="700" alt="Our Team!"/>
+![Image](/images/extracurriculars/bitcamp-site-2023.png)
