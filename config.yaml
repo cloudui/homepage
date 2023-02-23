@@ -370,7 +370,7 @@ params:
           name: Site
           link: https://blog.echen.io
         badges:
-          - "Jekyll"
+          - "Hugo"
           - "HTML"
           - "CSS"
           - "JS"
