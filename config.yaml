@@ -390,8 +390,8 @@ params:
     btnName: Email me
 
   footer:
-    recentPosts: 
-      enable: false
+    recentPosts: false
+      
     socialNetworks:
       github: https://github.com/cloudui
       linkedin: https://linkedin.com/in/ericchen03
