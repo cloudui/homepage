@@ -1,7 +1,7 @@
 baseURL: "http://echen.io"
 languageCode: "en-us"
 title: "echen.io"
-theme: hugo-profile-v4
+theme: hugo-profile-v2
 
 urls:
   blog: https://blog.echen.io
