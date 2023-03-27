@@ -3,7 +3,7 @@ title: Verbalinkd
 date: 2023-03-27
 draft: false
 
-description: "Verbalinkd: an application made to tackle the language barrier experienced by immigrant restaurant business owners in the United States."
+description: "An application designed to address the language barrier faced by immigrant restaurant owners in the United States by connecting them with service providers and resources."
 
 author: "Eric Chen"
 tags:
