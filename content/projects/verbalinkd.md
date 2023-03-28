@@ -40,7 +40,7 @@ We utilized various tools and techniques such as Kanban boards, Gantt charts, it
 
 ## The Solution
 ![Verbalinkd Design photo 1](/images/projects/vb1.png)
-<figcaption>Registration and Navigation pages of Ver</figcaption>
+<figcaption>Verbalinkd: Registration and Navigation pages</figcaption>
 
 ![Verbalinkd Design photo 2](/images/projects/vb2.png)
 <figcaption>Verbalinkd: service provider matching, profile and previous connections, and service request.</figcaption>
