@@ -315,13 +315,16 @@ params:
           - Terps in Space Researcher
           - Bitcamp Organizer
 
-          Relevant Coursework: Computer Systems, Algorithms, Organization of Programming Languages, Harvesting Big Data, 
-          Electric Circuits, Discrete Signal Analysis, Engineering Design, Digital Logic Design, 
-          Differential Equations, Discrete Mathematics, Multivariable Calculus, Physics
+          Relevant Coursework: 
+          - **Computer Science**: Computer Systems, Organization of Programming Languages, Algorithms, Big Data with R
+          - **Engineering**: Discrete Signal Analysis, Engineering Design, Electric Circuits, Digital Logic Design, Digital Systems and Circuits, 
+            Signals and System Theory
+          - **General Math + Science**: Probability, Differential Equations, Discrete Mathematics, Multivariable Calculus
+          - **Other**: Intro to Design and Quality
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
-        # url: "https://example.com"
+        #   url: "https://example.com"
       - title: "Science, Mathematics, and Computer Science Magnet Program"
         date: 2017 - 2021
         school:
