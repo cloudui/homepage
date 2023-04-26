@@ -1,7 +1,7 @@
 ---
 title: Bitcamp
 date: 2023-02-22
-description: Bitcamp is the University of Maryland's premier hackathon, bringing together over 1,400 students, making it the largest collegiate hackathon on the East Coast. I am a software developer on the tech team.
+description: Bitcamp is the University of Maryland's premier hackathon, the largest collegiate hackathon on the East Coast. I help build Bitcamp's tech, from our landing page to our registration portal to our expo app. 
 image: /images/extracurriculars/hack.jpg
 badges:
     - "Hackathon"
@@ -13,13 +13,19 @@ links:
     - icon: fa fa-external-link-square
       url: https://bit.camp
 
+tags: 
+    - hackathon
+    - UMD
+    - softwrae
+    - coding
+
 banner:
   include: true
   type: "warning"
   text: "This page is still incomplete. A thorough description is in the works." 
 ---
 
-Bitcamp is the University of Maryland's premier hackathon, bringing together over 1,400 students, making it the largest collegiate hackathon on the East Coast. I will be a software developer on the tech team.
+Bitcamp is the University of Maryland's premier hackathon, bringing together over 1,400 students, making it the largest collegiate hackathon on the East Coast. I am a software developer on the tech team.
 
 ## Accomplishments So Far
 - Built Registration App with Vue.js, AWS Lambda, API Gateway, and DynamoDB
