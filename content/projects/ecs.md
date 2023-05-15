@@ -24,6 +24,8 @@ badges:
 
 
 links:
+  - icon: fa fa-info-circle
+    url: https://eng.umd.edu/careers
   - icon: "fa fa-external-link-square"
     url: https://docs.google.com/presentation/d/1sWGCnew3EHwkNZeqt0-YzlJsQ0Cd1WmUD7JMjjbMnEs/edit?usp=sharing
 ---
