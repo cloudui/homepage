@@ -46,7 +46,7 @@ We utilized various tools and techniques such as Kanban boards, Gantt charts, it
 <figcaption>Verbalinkd: service provider matching, profile and previous connections, and service request.</figcaption>
 
 ## Meet the Team
-![Verbalinkd Design photo 2](/images/projects/taq.jpeg)
+![Verbalinkd Team Photo](/images/projects/taq.jpeg)
 <figcaption>The team from left to right: Vincent, Nikita, Shruthi, Allison, Eric (me!). In the middle is our mentor, Zafir.</figcaption>
 
 I couldn't have imagined creating this product with any other team. A great big thank you to all of my team members and our mentor.
