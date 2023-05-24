@@ -4,7 +4,7 @@ date: 2023-05-14
 draft: false
 slug: engineering-career-services
 
-description: University of Maryland Engineering Career Services was dealing with 
+description: University of Maryland Engineering Career Services was dealing with a manual and error-prone method of managing career fairs. With my QUEST team, we optimized their processes by implementing automated solutions and leveraging Google services. 
 
 author: "Eric Chen"
 tags:

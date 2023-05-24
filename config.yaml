@@ -189,6 +189,27 @@ params:
   experience:
     enable: true
     items:
+      - job: "Model Development Intern"
+        company: "Mobius"
+        companyUrl: "https://mobiuslabs.xyz"
+        date: "May 2023 - Aug 2023"
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+        content: |-
+          This summer, I will be working at Mobius Labs, a very early-stage startup based in Menlo Park, California. Mobius is leveraging generative AI in a way that 
+          allows the average person to reap all of its benefits. I will be working with and fine-tuning generative AI models such as 
+          text to image models and open source LLMs. 
+
+          I am also responsible for staying up to date on the latest technologies in the AI space that could be valuable to the company's products. 
+
+          Why did I choose a startup? 
+          - I feel like I will be able to contribute to more crucial aspects of a company and hence, make more of a difference.
+          - I'm looking for the excitement of working for a Silicon Valley startup with driven and motivated founders. 
+          - I am particularly interested in exploring generative AI, which I likely wouldn't be able to at an established company.
+          - I will likely be able to contribute to multiple aspects of the company instead of one strict regimen.
+          - I can see what goes into a business model, how a startup adapts, and how how a small company is run. 
       - job: "Machine Learning Engineer"
         company: "Mailchimp"
         companyUrl: "https://mailchimp.com"
