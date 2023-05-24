@@ -198,9 +198,9 @@ params:
         #   name: "View the project"
         #   url: "https://example.com"
         content: |-
-          This summer, I will be working at Mobius Labs, a very early-stage startup based in Menlo Park, California. Mobius is leveraging generative AI in a way that 
-          allows the average person to reap all of its benefits. I will be working with and fine-tuning generative AI models such as 
-          text to image models and open source LLMs. 
+          This summer, I will be working at Mobius Labs, a very early-stage startup based in Menlo Park, California. Mobius is leveraging tools that 
+          allow corporations to integrate generative AI into their business processes. I will be working with and fine-tuning generative AI models such as 
+          text-to-image models and open source LLMs. 
 
           I am also responsible for staying up to date on the latest technologies in the AI space that could be valuable to the company's products. 
 
