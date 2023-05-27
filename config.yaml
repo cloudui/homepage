@@ -159,31 +159,13 @@ params:
       - Cloud Computing
       - Popular media
       
-      Career-wise, I specialize in machine learning (particularly deep learning), full-stack development, and cloud computing with AWS + GCP. I am looking
-      to become an expert in robotics and chip + FPGA design in the future.
+      Career-wise, I specialize in deep learning, full-stack development, DevOps, cloud computing (AWS, GCP), product design, and consulting. I will be working extensively 
+      with robotics, microprocessor design, and FPGA design in the future.
+
+      My hobbies include playing basketball, writing, breakdancing, chess, watching K-dramas and anime, learning, and solving twisty puzzles. 
 
       I am interested in you, too! Find me in my socials below.
 
-  # A grand and warm welcome to you. Allow me to introduce myself.
-  # I am a Computer Engineering and Robotics student at the University of Maryland. If I could only tell you one interesting fact about me, I would tell you that I can solve a
-  # Rubik's cube in less than 10 seconds. If we had more time, I would share my love for basketball, breakdancing, reading, Frank Sinatra, blogging, and the violin. If I could describe
-  # myself in one word, I would say that I am a learner, one who desires to understand the world.
-
-  # I was put on this planet with purpose and resolve, and I aim to exploit it. The allure to settle down is strong, but the allure to
-  # improve and achieve is even stronger. Most people will follow the main stream, but I will take the distributary (geology jokes).
-  # If life has a meaning, I want to find it.
-
-  # I want to learn about you, too! Find me in my socials below!
-  # skills:
-  #   enable: true
-  #   title: "Here are some technologies I have been working with recently:"
-  #   items:
-  #     - "K8s & Docker"
-  #     - "GCP"
-  #     - "Python"
-  #     - "Hugo"
-  #     - "Arduino"
-  #     - "Jupyter & Vertex.ai"
 
   # Experience
   experience:
@@ -202,7 +184,8 @@ params:
           allow corporations to integrate generative AI into their business processes. I will be working with and fine-tuning generative AI models such as 
           text-to-image models and open source LLMs. 
 
-          I am also responsible for staying up to date on the latest technologies in the AI space that could be valuable to the company's products. 
+          I am also responsible for staying up to date on the latest technologies in the AI space that could be valuable to the company's products. I will experiment with
+          emerging AI technologies such as LLM plugins and tools. 
 
           Why did I choose a startup? 
           - I feel like I will be able to contribute to more crucial aspects of a company and hence, make more of a difference.
@@ -243,8 +226,9 @@ params:
           they can communicate with. A large portion of immigrant entrepreneurs struggle with language barriers on a daily basis, and we aimed to alleviate
           them. Read more about that [here!](/projects/verbalinkd/)
           
-          My group is currently consulting for the University of Maryland's Engineering Career Services, where we are designing potential solutions
-          to help alleviate issues relating to registration and check-in for employers at our career fairs. More to come soon!
+          My group consulted for the University of Maryland's Engineering Career Services, where we designed potential solutions
+          to help alleviate issues relating to registration and check-in for employers at our school's career fairs. Read a detailed report about our 
+          story [here!](/projects/engineering-career-services)
 
            Our curriculum consists of the following:
           - BMGT 190H: Introduction to Quality and Design
@@ -324,17 +308,17 @@ params:
           - QUEST - Collaborative Business and Engineering Teams Program
 
           Accolades: 
-          - L3Harris Corporate Partners Scholarship
+          - L3Harris Corporate Partners Scholarship 2022
           - James W. Dally Endowed Scholarship 2022
           - Derek H. Blume Memorial Scholarship 2022
           - Northrop Grumman Environmental Sustainability Challenge Champion 2022
-          - Dean's List (3x)
+          - Dean's List (4x)
 
           Extracurricular Activities:
+          - Bitcamp Organizer
           - Terps Racing SAE Formula - Composites Team
           - SEDS Liquid Rocket Team - Data Acquisition Team Lead
           - Terps in Space Researcher
-          - Bitcamp Organizer
 
           Relevant Coursework: 
           - **Computer Science**: Computer Systems, Organization of Programming Languages, Algorithms, Big Data with R, Object-Oriented Programming
@@ -342,6 +326,13 @@ params:
             Signals and System Theory
           - **General Math + Science**: Probability, Differential Equations, Discrete Mathematics, Multivariable Calculus
           - **Other**: Intro to Design and Quality
+
+          Current Coursework:
+          - Computer Organization: Assembly, Memory, Addressing, and I/O
+          - Machine Learning: Supervised, Unsupervised, Deep Learning
+          - Design and Analysis of Algorithms
+          - Introduction to Robotics 
+          - Engineering Ethics
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
