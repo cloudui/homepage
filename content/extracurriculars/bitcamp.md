@@ -7,6 +7,7 @@ badges:
     - "Hackathon"
     - "AWS"
     - "Vue.js"
+    - Python
 links:
     - icon: fab fa-github
       url: https://github.com/bitcamp
@@ -16,7 +17,7 @@ links:
 tags: 
     - hackathon
     - UMD
-    - softwrae
+    - software
     - coding
 
 banner:
