@@ -189,15 +189,16 @@ params:
 
           Stuff I'm working on right now:
           - Building data analytics tools with LLMs
-          - Creating AWS templates to run open source LLMs (Oobabooga web interface)
+          - Testing viability of LLM tools to become potential products
+          - Deploying models on AWS to run open source LLMs (text-web-ui, Sagemaker, custom AMIs on EC2)
           - LangChain, Q&A chatbots, and agents
 
-          Why did I choose a startup? 
-          - I feel like I will be able to contribute to more crucial aspects of a company and hence, make more of a difference.
-          - I'm looking for the excitement of working for a Silicon Valley startup with driven and motivated founders. 
-          - I am particularly interested in exploring generative AI, which I likely wouldn't be able to at an established company.
-          - I will likely be able to contribute to multiple aspects of the company instead of one strict regimen.
-          - I can see what goes into a business model, how a startup adapts, and how how a small company is run. 
+        # Why did I choose a startup? 
+        # - I feel like I will be able to contribute to more crucial aspects of a company and hence, make more of a difference.
+        # - I'm looking for the excitement of working for a Silicon Valley startup with driven and motivated founders. 
+        # - I am particularly interested in exploring generative AI, which I likely wouldn't be able to at an established company.
+        # - I will likely be able to contribute to multiple aspects of the company instead of one strict regimen.
+        # - I can see what goes into a business model, how a startup adapts, and how how a small company is run. 
       - job: "Machine Learning Engineer"
         company: "Mailchimp"
         companyUrl: "https://mailchimp.com"
