@@ -22,6 +22,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - Learn 3 powermoves 
 - Buy my first stock and learn to invest
 - Become friendly with a professor
+- Love something (or someone) new...
 
 ## Books <i class="fa fa-book-open fa-sm"></i>
 
@@ -32,14 +33,30 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - *Atomic Habits* - James Clear // 6-14-2022
 - *The Millionaire Next Door* - Thomas Stanley & William Danko // 6-7-2022
 
-
-### Currently Reading 
+<!-- ### Currently Reading 
 - *Principles* - Ray Dalio
 - *The Neuroscience of Intelligence* - Richard Haier
 - Vol. 1 of *Sherlock Holmes* - Sir Arthur Conan Doyle
 - *The 4-Hour Work Week* - Timothy Ferriss // paused
 - *Subliminal* - Leonard Molodinow // paused
 
+<hr> -->
+
+## Films and Shows <i class="fa fa-film fa-sm"></i>
+### Films
+- *Fantastic Beasts*: The Secrets of Dumbledore
+- *Oh! My Ghost (2022)* 
+- *Glass Onion*: A Knives Out Mystery
+
+### Shows
+- *Demon Slayer*: Swordsmith Village Arc // watching
+- *Our Beloved Summer* // 6-9-2023
+- *Forecasting Love and Weather* // dropped
+- *Hometown Cha-Cha-Cha* // 6-3-2023
+- *It's Okay Not to be Okay* // 5-29-2023
+- *Business Proposal* // 5-15-2023
+- *Twenty-Five Twenty-One* // paused
+- *Weightlifting Fairy Kim Bok Joo* // 3-11-2023
 
 <hr>
 
@@ -49,12 +66,12 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning))
 - Art: Blender, Unreal, Photoshop, Video Editing
 
-<hr>
+<!-- <hr> -->
 
-## Favorite Quotes <i class="fa fa-quote-left fa-xs"></i>
+<!-- ## Favorite Quotes <i class="fa fa-quote-left fa-xs"></i>
 
 - *"A person's success in life can be measured by the number of uncomfortable conversations he or she is willing to have."* - Tim Ferriss
 - *"You know, it's funny; when you look at someone through rose-colored glasses, all the red flags just look like flags."* - Wanda, from BoJack Horseman
 - *Do what you can, with what you have, where you are."* - Teddy Roosevelt
 - *"Every action you take is a vote for the type of person you want to be."* - James Clear
-- *"All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory."* - Dale Carnegie
+- *"All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory."* - Dale Carnegie -->
