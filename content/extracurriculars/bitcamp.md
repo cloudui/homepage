@@ -47,4 +47,12 @@ With my unique understanding of the frameworks, the coding environment became my
 ## Main Website
 Tell me this isn't a hot design: 
 
-![Image](/images/extracurriculars/bitcamp-site-2023.png)
+![Bitcamp Site 2023](/images/extracurriculars/bitcamp-site-2023.png)
+
+## Tech Team Photos
+
+![Tech Team Photo 1](/images/extracurriculars/tech1.jpg)
+<figcaption>Tech Team "Formal Photo"</figcaption>
+
+![Tech Team Photo 2](/images/extracurriculars/tech2.jpg)
+<figcaption>Tech Team Bitcamp 2023 Weekend Photo after an all-nighter for expo</figcaption>
