@@ -190,7 +190,7 @@ params:
           Stuff I'm working on right now:
           - Building data analytics tools with LLMs
           - Testing viability of LLM tools to become potential products
-          - Deploying models on AWS to run open source LLMs (text-web-ui, Sagemaker, custom AMIs on EC2)
+          - Deploying models on AWS to run open source LLMs (text-generation-webui, Sagemaker, custom AMIs on EC2)
           - LangChain, Q&A chatbots, and agents
 
         # Why did I choose a startup? 
