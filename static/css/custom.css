@@ -1,3 +1,12 @@
+:root {
+    --background-color-rgb: 234,237,240;
+    --background-color-dark-rgb: 24,25,26;
+}
+
+.dark {
+    --background-color-rgb: var(--background-color-dark-rgb) !important;
+}
+
 img.md {
     max-width: 100%;
     height: auto;
@@ -73,7 +82,9 @@ body:not(.formal) #collapse {
     transform: translate(0, -5px);
 }
 
-
+#portfolio {
+    margin-bottom: 50px;
+}
 /* FA ICON CUSTOMIZATION */
 /* #pfolio-expand {
     color: var(--primary-color) !important;
