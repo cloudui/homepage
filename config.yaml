@@ -167,7 +167,19 @@ params:
       I am interested in you, too! Find me in my socials below.
 
 
-  # Experience
+  # Gallery
+  gallery:
+    enable: true
+    items: 
+      - image: /images/gallery/japstore.jpg
+        description: |-
+          Editing myself into a digital drawing of a nighttime Japan. Original art by <a href="https://www.artstation.com/artwork/q93beR">Jaume Rovira Llorca</a>. 
+          This was my third ever Photoshop project.
+      - image: /images/gallery/kirby.jpg
+        description: Kirby looming in the background of Philadelphia. This was my second ever Photoshop project.
+      - image: /images/gallery/eric.jpg
+        description: My first ever Photoshop project. It's clear that I didn't really understand perspective and compositing that well yet. Something in this image looks off. 
+  
   experience:
     enable: true
     items:
