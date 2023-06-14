@@ -1,0 +1,22 @@
+{{ if .Site.Params.gallery.enable | default false }}
+<section id="gallery" class="py-5">
+  <div class="container">
+      <h3 class="text-center">Gallery</h3>
+      <div class="row justify-content-center px-3 px-md-5">
+          <section class="galeria">
+              <div class="container">
+                <div class="contenedorImgs">
+                  {{ range .Site.Params.gallery.items }}
+                    <div class="imagen" style="background-image:url('{{ .image }}')"
+                      data-image="{{ .image }}" data-description="{{ .description }}">
+                      <p class="nombre">{{ .title }}</p>
+                    </div>
+                  {{ end }}
+                </div>
+              </div>
+            </section>
+          </body>
+      </div>
+  </div>
+</section>
+{{ end }}
