@@ -126,7 +126,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Eric Chen."
-    subtitle: "I'm a computer engineering student."
+    subtitle: "I like to create things."
     content: "I'm interested in people, philosophy, and technology. In my free time, I write for the web."
     image: /images/keneric.jpg
     button:
@@ -174,11 +174,10 @@ params:
       - image: /images/gallery/japstore.jpg
         description: |-
           Editing myself into a digital drawing of a nighttime Japan. Original art by <a href="https://www.artstation.com/artwork/q93beR">Jaume Rovira Llorca</a>. 
-          This was my third ever Photoshop project.
       - image: /images/gallery/kirby.jpg
         description: Kirby looming in the background of Philadelphia. This was my second ever Photoshop project.
       - image: /images/gallery/eric.jpg
-        description: My first ever Photoshop project. It's clear that I didn't really understand perspective and compositing that well yet. Something in this image looks off. 
+        description: My first ever Photoshop project. It's clear that I didn't really understand perspective and compositing that well yet.
   
   experience:
     enable: true
