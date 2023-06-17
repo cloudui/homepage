@@ -176,8 +176,52 @@ params:
           Editing myself into a digital drawing of a nighttime Japan. Original art by <a href="https://www.artstation.com/artwork/q93beR">Jaume Rovira Llorca</a>. 
       - image: /images/gallery/kirby.jpg
         description: Kirby looming in the background of Philadelphia. This was my second ever Photoshop project.
+      - image: /images/gallery/graffiti2.jpg
+        description: |-
+          Graffiti Pier in Philadelphia. I biked here to see the sunrise and also contribute (allegedly) to the cultural
+          landmark. Borrowing the e-bike ended up costing me and my friend almost $60 for only 2 hours of use.
+      - image: /images/gallery/graffiti.jpg
+        description: Graffiti Pier doused by the orange glow of the sunrise.
+      - image: /images/gallery/floridasunset.jpg
+        description: The sunset of my last day of a trip to the national parks of Florida.
+      - image: /images/gallery/butterfly.jpg
+        description: A vibrant blue butterfly at the Butterfly Garden in Key West, Florida.
+      - image: /images/gallery/gtown.jpg
+        description: After sunset looking over the Washington Harbor in Georgetown. 
+      - image: /images/gallery/paintedladies.jpg
+        description: A view of the painted ladies on my weekend trip to San Francisco.
+      - image: /images/gallery/pyonchen.jpg
+        description: A picture of my freshman dormitory taken from the 4th floor. 
+      - image: /images/gallery/redcar.jpg
+        description: A picture of a vintage red car during a car show in Howard County. 
+      - image: /images/gallery/terpsracing.jpg
+        description: A baby formula car that I built with Terps Racing at the University of Maryland. I helped build the body and aerodynamic components, which were made primarily from carbon fiber.
+      - image: /images/gallery/tjefferson.jpg
+        description: A view of the Jefferson Memorial in Washington D.C. near sunset.  
+      - image: /images/gallery/vsafam.jpg
+        description: My family in the Vietnamese Student Association. My big is Kelly, and my sibs are Alex, Jonathan, and Ari.
+      - image: /images/gallery/fn45.jpg
+        description: Modern couple's dance performance at UMD Vietnamese Student Association's 45th cultural show
+      - image: /images/gallery/gummybears.jpg
+        description: An iconic picture I took at Black Hill Regional Park symbolizing a friend group I had in high school.
+      - image: /images/gallery/hcat.jpg
+        description: One of almost 60 of the 6-toed cats at the Hemingway House in Key West, Florida.
       - image: /images/gallery/eric.jpg
         description: My first ever Photoshop project. It's clear that I didn't really understand perspective and compositing that well yet.
+      - image: /images/gallery/janesisland.jpg
+        description: A stylized photo of Janes Island, Maryland near sunset on a camping trip.
+      - image: /images/gallery/montara.jpg
+        description: Montara Lighthouse in California. I stayed here for a night, my first time at a hostel. 
+      - image: /images/gallery/nsunset1.jpg
+        description: A beautiful pink and purple sunset in my neighborhood in Potomac, MD.
+      - image: /images/gallery/nsunset2.jpg
+        description: A very unusual collection of pink-tinted clouds in my neighborhood in Potomac, MD. 
+      - image: /images/gallery/seahorse.jpg
+        description: A unique angle looking up at the Antelope Canyons in Arizona, forming the shape of seahorse.
+      - image: /images/gallery/umdfootball.jpg
+        description: One of the football games I watched at SECU stadium at the University of Maryland.
+      - image: /images/gallery/fire.jpg
+        description: Manning the campfire on my annual camping trip at Janes Island (2019).
   
   experience:
     enable: true
