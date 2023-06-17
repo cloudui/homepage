@@ -17,6 +17,9 @@ body * a {
   text-decoration: none;
 } */
 
+#gallery h3 {
+  color: var(--text-secondary-color);
+}
 .galeria {
   width: 100%;
   margin: 0 auto;
@@ -311,6 +314,27 @@ body * a {
 }
 
 /*# sourceMappingURL=gallery.css.map */
+
+#gallery a {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--primary-color) !important;
+}
+
+#gallery a::after {
+  content: "";
+  display: block;
+  width: 0px;
+  height: 2px;
+  bottom: 0.37em;
+  background-color: var(--primary-color);
+  transition: all 0.25s cubic-bezier(0.645,0.045,0.355,1);
+  opacity: 0.5;
+}
+
+#gallery a:hover::after, #about a:focus::after, #about a:active::after {
+  width: 100%;
+}
 
 .fullPreview a {
   display: inline-block;
