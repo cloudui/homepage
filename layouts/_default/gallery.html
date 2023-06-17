@@ -1,0 +1,75 @@
+{{ define "head" }}
+<meta name="description" content="{{ .Params.description }}">
+<link rel="stylesheet" href="{{.Site.Params.staticPath}}/css/single.css">
+
+<!-- fontawesome -->
+<script src="https://kit.fontawesome.com/5bf9a901de.js" crossorigin="anonymous"></script>
+{{ end }}
+
+{{ define "title" }}
+{{.Title }} | {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<section id="single">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-sm-20 col-md-12 col-lg-20">
+        <div class="pr-lg-4">
+          <div class="title">
+            <h1 data-toc-skip class="text-center mb-4">{{ .Title }}</h1>
+            <div class="text-center">
+              <!-- {{ .Params.author }} 
+              <small>|</small> -->
+              {{ .Date.Format "Jan 2, 2006" }}
+            </div>
+          </div>
+          {{ if .Params.banner.include | default false }}
+          <div class="alert alert-{{ .Params.banner.type }} m-4" role="alert">
+            <small>
+              {{ .Params.banner.text }}
+            </small>
+          </div>
+          
+          {{ end }}
+          
+          <article class="page-content  p-2">
+          {{ .Content | emojify }}
+          </article>
+
+          {{- partial "sections/gallery.html" . -}}
+        </div>
+      </div>
+
+     
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-12 col-lg-9 p-4">
+        {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+  <button class="p-2 px-3" onclick="topFunction()" id="topScroll">
+    <i class="fas fa-angle-up"></i>
+  </button>
+</section>
+
+<script>
+  var topScroll = document.getElementById("topScroll");
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      topScroll.style.display = "block";
+    } else {
+      topScroll.style.display = "none";
+    }
+  }
+
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+</script>
+
+{{ end }}
