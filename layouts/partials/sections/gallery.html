@@ -1,18 +1,35 @@
 {{ if .Site.Params.gallery.enable | default false }}
-<section id="gallery" class="py-5">
+<section id="gallery" class="py-1">
   <div class="container">
-      <h3 class="text-center">Gallery</h3>
+    {{ if .IsHome}}
+      <h3 class="text-center mb-4">Gallery</h3>
+    {{ end }}
       <div class="row justify-content-center px-3 px-md-5">
           <section class="galeria">
               <div class="container">
                 <div class="contenedorImgs">
+                  {{ if .IsHome }}
+                    {{ range first 3 .Site.Params.gallery.items }}
+                      <div class="imagen" style="background-image:url('{{ .image }}')"
+                        data-image="{{ .image }}" data-description="{{ .description }}">
+                        <p class="nombre">{{ .title }}</p>
+                      </div>
+                    {{ end }}
+                  {{ else }}
+
                   {{ range .Site.Params.gallery.items }}
                     <div class="imagen" style="background-image:url('{{ .image }}')"
                       data-image="{{ .image }}" data-description="{{ .description }}">
                       <p class="nombre">{{ .title }}</p>
                     </div>
                   {{ end }}
+                  {{ end }}
                 </div>
+                {{ if .IsHome }}
+                  <div class="text-center pt-3">
+                    <a class="btn btn-lg" href="/gallery">View Full Gallery</a>
+                  </div>
+                {{ end }}
               </div>
             </section>
           </body>
