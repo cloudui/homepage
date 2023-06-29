@@ -3,9 +3,9 @@ title: One-Month Reflection
 date: 2023-02-07
 slug: one-month-reflection
 caption: Image courtesy of Omar Prestwich (Unsplash)
-image: self.jpg
+image: conquer.jpg
 images:
-    - images/self.jpg
+    - images/conquer.jpg
 ---
 
 February 4th marked the one-month anniversary of the creation of my shorts page, a collection of my short-form writing. Seeing my friend [Eli](https://eliqian.xyz) embark on his one-month writing journey inspired me to try it for myself. I was at a point where I was desperate to share my ideas, but I could not find the right medium to do so. Over the course of 2022, I wrote one single ten-thousand-word monstrosity detailing my self-reflection over the second semester of my freshman year. This put me in the mindset that all my writing needed to be long and arduous, hindering my motivation to crank out more. I made numerous amount of attempts over the following months to write new blog posts, but I failed in every regard. I forced myself to write things I wasn't completely interested in. I started many pieces, only to give up on them halfway through. I experimented with book reviews and personal stories, but none of my ideas felt right. I never published any of these posts. I couldn't meet the expectations that I demanded from myself. 
