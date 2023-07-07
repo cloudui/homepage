@@ -49,6 +49,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - *Glass Onion*: A Knives Out Mystery
 
 ### Shows
+- *Abyss* // 6-30-2023
 - *Start-Up* // 6-21-2023
 - *Demon Slayer*: Swordsmith Village Arc // 6-17-2023
 - *Our Beloved Summer* // 6-9-2023
