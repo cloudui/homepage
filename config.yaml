@@ -8,7 +8,7 @@ urls:
 
 Paginate: 30
 # disqusShortname: gurusabarish
-# googleAnalytics: G-DWJJVE27WD
+googleAnalytics: G-8HBZE4Q212
 
 markup:
   goldmark:
