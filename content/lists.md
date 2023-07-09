@@ -49,7 +49,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - *Glass Onion*: A Knives Out Mystery
 
 ### Shows
-- *Hotel Del Luna* // 7-8-2023
+- *Hotel del Luna* // 7-8-2023
 - *Abyss* // 6-30-2023
 - *Start-Up* // 6-21-2023
 - *Demon Slayer*: Swordsmith Village Arc // 6-17-2023
