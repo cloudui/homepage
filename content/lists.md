@@ -49,6 +49,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - *Glass Onion*: A Knives Out Mystery
 
 ### Shows
+- *The Good Bad Mother* // 7-16-2023
 - *Hotel del Luna* // 7-8-2023
 - *Abyss* // 6-30-2023
 - *Start-Up* // 6-21-2023
