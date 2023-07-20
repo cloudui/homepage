@@ -44,6 +44,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 ## Films and Shows <i class="fa fa-film fa-sm"></i>
 ### Films
+- *Spider-Man*: Across the Spider-Verse
 - *Fantastic Beasts*: The Secrets of Dumbledore
 - *Oh! My Ghost (2022)* 
 - *Glass Onion*: A Knives Out Mystery
