@@ -69,6 +69,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 - Breakdancing -- Windmills
 - Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning))
+- Svelte + SvelteKit
 - Art: Blender, Unreal, Photoshop, Video Editing
 
 <!-- <hr> -->
