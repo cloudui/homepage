@@ -50,6 +50,9 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - *Glass Onion*: A Knives Out Mystery
 
 ### Shows
+- *King the Land*
+- *See You in My 19th Life*
+- *Jujutsu Kaisen s2*
 - *The Good Bad Mother* // 7-16-2023
 - *Hotel del Luna* // 7-8-2023
 - *Abyss* // 6-30-2023
@@ -68,8 +71,8 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 ## Learning Items <i class="fa fa-graduation-cap fa-sm"></i>
 
 - Breakdancing -- Windmills
-- Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning))
-- Svelte + SvelteKit
+- Deep Learning Specialization ([Coursera](https://www.coursera.org/specializations/deep-learning)) // 8-4-2023
+- Svelte + SvelteKit // 7-25-2023
 - Art: Blender, Unreal, Photoshop, Video Editing
 
 <!-- <hr> -->
