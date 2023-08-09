@@ -151,7 +151,7 @@ params:
     title: "About Me"
     image: "/images/boat.jpg"
     content: |-
-      **Welcome!** I'm Eric, and I'm a sophomore studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
+      **Welcome!** I'm Eric, and I'm a junior studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
       - Technology and the Internet
       - Cognitive Science and Pyschology
       - Areas of Science
@@ -226,7 +226,7 @@ params:
   experience:
     enable: true
     items:
-      - job: "Model Development Intern"
+      - job: "Generative AI Intern"
         company: "Mobius"
         companyUrl: "https://mobiuslabs.xyz"
         date: "May 2023 - Aug 2023"
@@ -247,6 +247,8 @@ params:
           - Testing viability of LLM tools to become potential products
           - Deploying models on AWS to run open source LLMs (text-generation-webui, Sagemaker, custom AMIs on EC2)
           - LangChain, Q&A chatbots, and agents
+          - Building chat interfaces with Docker, React, and FastAPI
+          - Constructing demos for potential enterprise customers using Streamlit
 
         # Why did I choose a startup? 
         # - I feel like I will be able to contribute to more crucial aspects of a company and hence, make more of a difference.
@@ -377,7 +379,7 @@ params:
           - Dean's List (4x)
 
           Extracurricular Activities:
-          - Bitcamp Organizer
+          - Bitcamp Organizer | Tech Director
           - Terps Racing SAE Formula - Composites Team
           - SEDS Liquid Rocket Team - Data Acquisition Team Lead
           - Terps in Space Researcher
