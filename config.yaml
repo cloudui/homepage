@@ -182,6 +182,28 @@ params:
           landmark. Borrowing the e-bike ended up costing me and my friend almost $60 for only 2 hours of use.
       - image: /images/gallery/graffiti.jpg
         description: Graffiti Pier doused by the orange glow of the sunrise.
+      # Summer 2023
+      - image: /images/gallery/commons.jpg
+        description: The Commons in downtown San Francisco. This is where I went for my first ever writing club.
+      - image: /images/gallery/flower.jpg
+        description: Some beautiful red and yellow flowers I saw in downtown Menlo Park.
+      - image: /images/gallery/hoover_tower.jpg
+        description: Stanford's famous Hoover Tower glowing from the sunset. 
+      - image: /images/gallery/lands_end.jpg
+        description: The first view from Lands End in San Francisco.
+      - image: /images/gallery/lands_end2.jpg
+        description: Foggy overlook on the hiking trail at Lands End. I was with Jason and Brianna. 
+      - image: /images/gallery/menalto_tree.jpg
+        description: A very tall tree near the hacker house on Menalto Avenue. The branches have a really intricate pattern.
+      - image: /images/gallery/oregon_pkway.jpg
+        description: Saw a crazy cloud formation on Oregon Parkway in Palo Alto on my way to the YMCA gym.
+      - image: /images/gallery/palo_alto.jpg
+        description: A beautiful nighttime picture of downtown Palo Alto. This was my first night after getting to the bay. The vibes here are fantastic.
+      - image: /images/gallery/stanford_rainbow.jpg
+        description: A surprising rain-free rainbow spotted on Stanford campus with Maxwell. It was a real sigh to behold.
+      - image: /images/gallery/stanfordflower.jpg
+        description: Some cool orb-shaped red and yellow flowers in the courtyard of Stanford.
+      # First Iteration
       - image: /images/gallery/floridasunset.jpg
         description: The sunset of my last day of a trip to the national parks of Florida.
       - image: /images/gallery/butterfly.jpg
@@ -206,8 +228,8 @@ params:
         description: An iconic picture I took at Black Hill Regional Park symbolizing a friend group I had in high school.
       - image: /images/gallery/hcat.jpg
         description: One of almost 60 of the 6-toed cats at the Hemingway House in Key West, Florida.
-      - image: /images/gallery/eric.jpg
-        description: My first ever Photoshop project. It's clear that I didn't really understand perspective and compositing that well yet.
+      # - image: /images/gallery/eric.jpg
+      #   description: My first ever Photoshop project. It's clear that I didn't really understand perspective and compositing that well yet.
       - image: /images/gallery/janesisland.jpg
         description: A stylized photo of Janes Island, Maryland near sunset on a camping trip.
       - image: /images/gallery/montara.jpg
@@ -361,7 +383,7 @@ params:
         school:
           name: "University of Maryland - College Park"
           url: "https://umd.edu"
-        date: "2021 - 2024"
+        date: "2021 - 2025"
         GPA: "3.95"
         content: |-
           Minor in Robotics and Autonomous Systems.
