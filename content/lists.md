@@ -22,7 +22,6 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 - Learn 3 powermoves 
 - Buy my first stock and learn to invest
 - Become friendly with a professor
-- Love something (or someone) new...
 
 ## Books <i class="fa fa-book-open fa-sm"></i>
 
@@ -44,14 +43,19 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 ## Films and Shows <i class="fa fa-film fa-sm"></i>
 ### Films
+- *Dream*
+- *The Super Mario Bros. Movie*
 - *Spider-Man*: Across the Spider-Verse
 - *Fantastic Beasts*: The Secrets of Dumbledore
 - *Oh! My Ghost (2022)* 
 - *Glass Onion*: A Knives Out Mystery
 
 ### Shows
-- *King the Land*
-- *See You in My 19th Life*
+- *Strong Girl Bong-soon*
+- *My Demon*
+- *A Good Day to be a Dog*
+- *King the Land // paused*
+- *See You in My 19th Life //paused*
 - *Jujutsu Kaisen s2*
 - *The Good Bad Mother* // 7-16-2023
 - *Hotel del Luna* // 7-8-2023
