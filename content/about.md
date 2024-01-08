@@ -5,8 +5,8 @@ layout: "about"
 draft: false
 ---
 
-<img src="/images/eric.jpeg" class="md" width="400" alt="Me"/>
-<br>
+<!-- <img src="/images/eric.jpeg" class="md" width="400" alt="Me"/> -->
+<!-- <br> -->
 
 **Welcome!** I'm Eric, and I'm a junior studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
 - Technology and the Internet
@@ -21,7 +21,7 @@ to become an expert in robotics and chip + FPGA design in the future.
 
 I am interested in you, too! Find me in my socials below.
 
-# Career Interests
+<!-- # Career Interests
 
 As a computer engineering student, my entire professional career has revolved around computer science and engineering. My entire CS path so far has been cloud centric. It all started when I wanted to share Twitter Bot I made that would respond to my friends' tweets. I had to figure out how to deploy it. After consulation with some experts (my dad), I was advised to put my code on a Lambda function on some <i class="fa fa-cloud"></i>. Ever since, I have gone down rabbit holes about the latest and greatest cloud offerings, obtaining a certification in AWS and studying up on technologies such as Kubernetes and Docker. I'm also hoping to become GCP ACE certified by the end of this summer.
 
@@ -34,11 +34,11 @@ Some other things I'm want to investigate:
 - Blockchain and Web3
 - Quantative Finance
 - Robotics and Perception
-- CPU + GPU architecture and design
+- CPU + GPU architecture and design -->
 
 ## Peeking Over the Walled Garden[^1]
 
-You might have noticed the underlying presupposition of my career choices. I'm making a pretty big gamble that I will pursue careers related to my major. That only makes sense, right? There are a lot of great things brewing in the CE industry. But, computer engineering is one star within a galaxy. I shouldn't simply box myself into one domain of interest.
+<!-- You might have noticed the underlying presupposition of my career choices. I'm making a pretty big gamble that I will pursue careers related to my major. That only makes sense, right? There are a lot of great things brewing in the CE industry. But, computer engineering is one star within a galaxy. I shouldn't simply box myself into one domain of interest. -->
 
 I like a lot of other things too, perhaps even more than computer science or engineering. I'm making a devotion to at least consider over the next few years:
 
