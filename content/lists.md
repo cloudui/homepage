@@ -52,6 +52,7 @@ I like to keep track of things that I do. Whether it be books I've read, habits 
 
 ### Shows
 - *Strong Girl Bong-soon*
+- *A Time Called You*
 - *My Demon*
 - *A Good Day to be a Dog*
 - *King the Land // paused*
