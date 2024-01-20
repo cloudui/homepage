@@ -17,11 +17,13 @@ links:
 
 I like to keep track of things that I do. Whether it be books I've read, habits I'm forming, or monthly budgets, it's important for me to keep book of my progress. 
 
-## Goals for 2023 <i class="fa fa-calendar fa-sm"></i>
-- Read 20 books
-- Learn 3 powermoves 
-- Buy my first stock and learn to invest
+## Goals for 2024 <i class="fa fa-calendar fa-sm"></i>
+- Read 10 books
+- Learn 1 powermove 
+- Create a stock / retirement portfolio
 - Become friendly with a professor
+- Find new intellectual interests
+- Have meaningful things to do in my free time
 
 ## Books <i class="fa fa-book-open fa-sm"></i>
 
