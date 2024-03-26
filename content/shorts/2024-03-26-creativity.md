@@ -9,7 +9,7 @@ images:
     - images/human-creativity.jpg
 ---
 
-With the rise of AI-generated content, will AI completely replace human creativity? Even if human-created content far outpaces what AIs can do today, how much longer will this be true? For those who scoff about how AI still makes major mistakes, remember that we're in year 2-3 of a developmental journey that will last the rest of time while humans are alive. In ten or even a hundred years, do you really think that AI will still be lagging behind?
+With the rise of AI-generated content, will AI completely replace human creativity? Even if human-created content far outpaces what AIs can do today, how much longer will this be true? For those who scoff about how AI still makes major mistakes, remember that we're in year 2-3 of a developmental journey that will last the rest of time. In ten or even a hundred years, do you really think that AI will still be lagging behind?
 
 AIs can generate art faster than the fastest artists and can write stories faster than any writer. Even if lesser quality, we can only imagine what happens once AI catches up. Moreover, most people are not artists or writers. AIs now are better than the vast majority of ordinary people. Even if Midjourney generates a 6th finger sometimes, can you even draw five normal ones?
 
