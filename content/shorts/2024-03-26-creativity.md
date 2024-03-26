@@ -1,0 +1,24 @@
+---
+title: Human Creativity
+date: 2024-03-26
+slug: human-creativity
+caption: Squint at the picture carefully
+
+image: human-creativity.jpg
+images:
+    - images/human-creativity.jpg
+---
+
+With the rise of AI-generated content, will AI completely replace human creativity? Even if human-created content far outpaces what AIs can do today, how much longer will this be true? For those who scoff about how AI still makes major mistakes, remember that we're in year 2-3 of a developmental journey that will last the rest of time while humans are alive. In ten or even a hundred years, do you really think that AI will still be lagging behind?
+
+AIs can generate art faster than the fastest artists and can write stories faster than any writer. Even if the lesser quality, we can only imagine what happens once AI catches up. Moreover, most people are not artists or writers. AIs now are better than the vast majority of ordinary people. Even if Midjourney generates a 6th finger sometimes, can you even draw five normal ones?
+
+What does this mean for us? If AIs can someday generate superb movies based on a script (that it could generate itself) in a fraction of the time and budget of an actual film studio, what happens then? What if AIs can generate triple-A quality games in a few days rather than the years it takes a normal game studio to create one? What if AI art becomes so good and realistic that there is no longer a differentiation between human and AI-generated art?
+
+This thought first struck me when I was walking around in an anime marketplace in San Francisco, where I saw a sign in front of some artwork that said "NOT AI-generated." Why would this matter? If the art was AI-generated, does that change whether you buy it? Surprisingly, the answer is probably yes. Even if we couldn't visually tell the difference, there's value in the fact that the degenerate anime waifu was drawn by a real person and not just an algorithm. Logically, this shouldn't make much sense. The art is still the same art, regardless of the creator. But, we like it when we know there was a real human that toiled night and day to produce something meaningful.
+
+The same principle applies to the most famous art pieces. A lot of art today is on par or superior to the paintings by Da Vinci or Picasso but are worth tens of dollars instead of millions. We assign value simply because the paintings were painted by someone famous, often combined with some sort of unique historical context behind the piece. None of this changes the final artwork, but the story behind it clearly matters to how we value it. Likewise, each art piece by a human carries a story that an AI-generated piece cannot possibly have. For this reason, I think most people would be much more comfortable and accepting of watching a movie created by humans rather than an AI-generated one. 
+
+In most domains, we simply value human effort more than any other kind of effort. We typically value handcrafted artisanal pieces, hand-stitched designs, and hand-baked goods more than factory-made ones. We typically value musicians, singers, and performers more than their robotic or electronic counterparts. If a robot could play piano better than all living pianists, who would go see it? Nobody! The concertgoers appreciate the story behind the pianist--their upbringing, talent, preparation, and skill--things that a robot cannot have. We watch chess grandmasters play chess at a way lower level than the best engines. We spend more money on the hand-spun silk cloth rather than the factory-produced one. We do all of these things despite probably not thinking much about why. And maybe the why is illogical or even wrong, but it doesn't matter. That's just the way humans today are. 
+
+This might not be the case forever. I really believe we are at a turning point in history because, for the first time, artificial creations are starting to be able to do the most "human" things better than humans. In 100 years, the kids growing up will have grown up with all of this AI-generated content-- it won't be a surprise to them anymore. Maybe, they won't care at all about whether something was human- or AI-generated. Maybe watching a purely AI-generated Spiderman 1000 with crazy explosions will be all the hype. I can only imagine the consequences this might have. What happens in a world where human creativity is outpaced and outmatched by AI? What happens when the floor for creativity is so high that almost no one reaches it? Will humanity be diluted into oblivion? Would this mean the AIs practically have control over our lives, even if indirectly? Or, will our current values survive the test of time? We can only speculate. 
