@@ -1,7 +1,7 @@
 ---
 title: Bitcamp
 date: 2023-06-02
-description: Bitcamp is the University of Maryland's premier hackathon, the largest collegiate hackathon on the East Coast. I help build Bitcamp's tech, from our landing page to our registration portal to our expo app. 
+description: Bitcamp is the University of Maryland's premier hackathon, the largest collegiate hackathon on the East Coast. As the tech director, I help build Bitcamp's tech, from our landing page to our registration portal to our mobile app. 
 image: /images/extracurriculars/hack.jpg
 badges:
     - "Hackathon"
