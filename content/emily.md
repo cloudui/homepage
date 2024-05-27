@@ -6,3 +6,5 @@ draft: false
 ---
 
 <img src="/images/emily.jpeg" class="md" width=400 alt="Emily" />
+
+She's so cute :) 

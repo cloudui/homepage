@@ -151,7 +151,7 @@ params:
     title: "About Me"
     image: "/images/boat.jpg"
     content: |-
-      **Welcome!** I'm Eric, and I'm a junior studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
+      **Welcome!** I'm Eric, and I'm a rising senior studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
       - Technology and the Internet
       - Cognitive Science and Pyschology
       - Areas of Science
@@ -251,7 +251,9 @@ params:
         companyUrl: "https://viam.com"
         date: "May 2024 - Aug 2024"
         content: |-
-          Incoming SWE at Viam, a robotics startup in NYC founded by ex-Mongo founder Eliot Horowitz
+          Incoming SWE at Viam, a robotics startup in NYC founded by Mongo founder and former-CTO 44Eliot Horowitz. I will be working on 
+          the Robotic Development Kit (RDK), which is "responsible for drivers and robot controls, as well as video and 
+          audio streaming from end to end." It'll be a good mix of software and hardware-- perfect for my major.
       - job: "Generative AI Intern"
         company: "Mobius"
         companyUrl: "https://mobiuslabs.xyz"
@@ -389,7 +391,7 @@ params:
           name: "University of Maryland - College Park"
           url: "https://umd.edu"
         date: "2021 - 2025"
-        GPA: "3.96"
+        GPA: "3.97"
         content: |-
           Minor in Robotics and Autonomous Systems |
           Academy of Machine Learning
@@ -404,7 +406,7 @@ params:
           - James W. Dally Endowed Scholarship 2022
           - Derek H. Blume Memorial Scholarship 2022
           - Northrop Grumman Environmental Sustainability Challenge Champion 2022
-          - Dean's List (5x)
+          - Dean's List (6x)
 
           Extracurricular Activities:
           - Bitcamp Organizer | Tech Director
@@ -414,17 +416,16 @@ params:
 
           Relevant Coursework: 
           - **Computer Science**: Computer Systems, Organization of Programming Languages, Algorithms, Big Data with R, Object-Oriented Programming,
-            Advanced Algorithms
+            Advanced Algorithms, Quantitative Analysis (Python)
           - **Engineering**: Discrete Signal Analysis, Engineering Design, Electric Circuits, Digital Logic Design, Digital Systems and Circuits, 
-            Signals and System Theory, Computer Organization, Machine Learning, Intro to Robotics
+            Signals and System Theory, Computer Organization, Machine Learning, Intro to Robotics, Advanced Computer Architecture, Microprocessors
           - **General Math + Science**: Probability, Differential Equations, Discrete Mathematics, Multivariable Calculus
-          - **Other**: Intro to Design and Quality
+          - **Other**: Intro to Design and Quality, Entrepreneurship, Systems, and Design
 
-          Current Coursework:
-          - Digital Computer Design
-          - Microprocessors
-          - Quantitative Analysis (Python)
-          - Entrepreneurship and Design
+          Upcoming Coursework:
+          - Autonomous Robots Capstone
+          - Consulting Capstone
+          
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
