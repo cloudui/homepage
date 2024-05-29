@@ -251,7 +251,7 @@ params:
         companyUrl: "https://viam.com"
         date: "May 2024 - Aug 2024"
         content: |-
-          Incoming SWE at Viam, a robotics startup in NYC founded by Mongo founder and former-CTO 44Eliot Horowitz. I will be working on 
+          Incoming SWE at Viam, a robotics startup in NYC founded by Mongo founder and former-CTO Eliot Horowitz. I will be working on 
           the Robot Development Kit (RDK), which is "responsible for drivers and robot controls, as well as video and 
           audio streaming from end to end." It'll be a good mix of software and hardware-- perfect for my major.
       - job: "Generative AI Intern"
