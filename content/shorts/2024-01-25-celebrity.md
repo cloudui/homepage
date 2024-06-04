@@ -2,7 +2,6 @@
 title: Celebrity Obsession
 date: 2024-01-25
 slug: celebrity-obsession
-caption: Image courtesy of Michael Alfonso (unsplash)
 image: kpop.jpg
 images:
     - images/kpop.jpg
