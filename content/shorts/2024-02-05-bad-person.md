@@ -15,7 +15,7 @@ The claim is slightly overexaggerated-- clearly, you'll find a small fraction pe
 
 If we define a good person to be a person who is "good" most of the time, I think we would be over-counting the amount of truly good people. As Alex said, even bad people are "good" a majority of the time. A better way is to observe how people behave in testy edge-case scenarios, where bad behavior is more likely to occur. Here are some examples:
 - How someone behaves while drunk
-- How someone behaves around members of the preferred sex
+- How someone behaves around members of their preferred sex
 - How someone behaves in a relationship
 - How someone behaves in a leadership position
 - How someone behaves when they're in the spotlight
