@@ -1,4 +1,4 @@
-baseURL: "http://echen.io"
+baseURL: "https://echen.io"
 languageCode: "en-us"
 title: "echen.io"
 theme: hugo-profile-v2
@@ -6,7 +6,7 @@ theme: hugo-profile-v2
 urls:
   blog: https://blog.echen.io
 
-Paginate: 30
+Paginate: 50
 # disqusShortname: gurusabarish
 googleAnalytics: G-8HBZE4Q212
 
