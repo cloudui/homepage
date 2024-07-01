@@ -3,9 +3,11 @@ title: '"Do What Makes You Happy"'
 date: 2024-07-01
 slug: do-what-makes-you-happy
 
-image: emily-gf.jpeg
+caption: Image courtesy of <a href="https://vbchange.com/false-happiness/">vbchange.com</a>.
+
+image: false-happiness.jpg
 images:
-    - images/emily-gf.jpeg
+    - images/false-happiness.jpg
 ---
 
 I was scrolling on Twitter, and I ran into this tweet:
