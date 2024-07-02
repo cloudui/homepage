@@ -34,6 +34,6 @@ In many cases, happiness is a rather selfish desire where we prioritize our pers
 
 > You might agree with everything I've said, so I want to challenge you to the following situation: let's say you get married and have a child with your signficiant other (SO). But at some point, you realize you and your SO are not meant for one another. You don't love each other anymore and want nothing to do with one another. You may choose to divorce. What's the collateral? The collateral is your child, who will suffer from the lack of a stable household with both parents, which is stasticially shown to do undue harm to them[^1]. Despite this, most people I've asked would choose to divorce in order to be happy. How is this more acceptable than stealing a $100 item from Walmart? You're doing a lot more damage than that, but divorce is not as frowned upon as theft. What would you choose?
 
-> I talk about issues in this piece that are pretty uncontroversial in nature. This was intentional. I want you to think about some more serious situations where this thought process may be more controversial, because that's where it truly matters. 
+> I talk about issues in this piece that are pretty uncontroversial in nature. This was intentional. I want you to think about some more serious situations where this thought process might be relevant. 
 
 [^1]: https://www.medicinenet.com/how_does_single_parenting_affect_a_child/article.htm
