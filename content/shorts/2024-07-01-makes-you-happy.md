@@ -12,7 +12,7 @@ images:
 
 I was scrolling on Twitter, and I ran into this tweet:
 
-<!-- {{< twitter user="MediaPyre" id="1807498252796744043" >}} -->
+{{< twitter user="MediaPyre" id="1807498252796744043" >}}
 <figcaption>Not saying I have an opinion on this matter in particular, it was just the inspiration to write this.</figcaption>
 
 I've seen a lot of people on social media echo this sentiment: let people do what makes them happy. This seems to make sense to a lot of people, and why shouldn't it? We all want to be happy. If someone does something that makes them happy, who are we to judge?
