@@ -1,5 +1,5 @@
 ---
-title: Shifting Concept of Ethnicity
+title: The Shifting Concept of Ethnicity
 date: 2024-07-09T18:08:00-04:00
 slug: shifting-concept-ethnicity
 
