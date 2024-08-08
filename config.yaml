@@ -446,6 +446,9 @@ params:
   achievements:
     enable: true
     items:
+      - title: Moose Family Endowed Scholarship 2024-2025
+        content: Leadership scholarship awarded by the A. James Clark School of Engineering.
+        url: https://studentaffairs.umd.edu/scholarships/moose-family-scholarship
       - title: Ted & Janice Smith Endowed Scholarship 2023-2024
         content: Awarded by the Electrical & Computer Engineering Department within the A. James Clark School of Engineering.
         url: https://eng.umd.edu/ted-and-janice-smith-scholarship-computer-engineering
