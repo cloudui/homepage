@@ -1,0 +1,37 @@
+---
+title: Good Enough
+date: 2024-08-09
+slug: good-enough
+
+caption: Photo by <a href="https://unsplash.com/@megacaesaria?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mega Caesaria</a> on <a href="https://unsplash.com/photos/man-in-black-jacket-riding-honda-motorcycle-BN4dyxGk_uI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+image: imperfect.jpg
+images:
+    - images/imperfect.jpg
+---
+
+
+Exactness is rarely achievable in daily life. In most situations, we expect things to be "good enough," where we're okay with a result despite knowing it could be better. There is always some tolerance and wiggle room. Spending an extra 5 hours editing your essay after a two-day grind will barely make a difference. Toyota is fine with some parts being off by a few micrometers. Google Maps uses an algorithm that is *likely* to be the fastest route. In these scenarios, we don't expect 100% perfect optimization. We understand that what we have is good enough, where squeezing out improvements is never worth the tradeoff. 
+
+What is the tradeoff? Usually, it's time, money, effort, or a combination of all three. Editing for 5 hours will barely make your essay 1% better. Making a more precise part will increase manufacturing expenses twofold. Having a perfect navigation algorithm will run a hell of a lot slower. In life, we are almost always okay with "good enough." Most of the time, perfection isn't even feasible. 
+
+# Application in schools
+We have a lot of indicators in life that people can use to estimate things. A lot of the time, these indicators are bogus. But sometimes, they can be quite helpful. For example, your GPA is a relatively good indicator of your academic capability. There are many cases where this isn't true. Some schools have insane grade inflation. Some majors are way easier than others. Some people learn perpendicular to the grain of the way the average person learns. But, within specific domains, GPA is often a "good enough" estimator. 
+
+No set of metrics can holistically represent a person, their personality, or their capabilities. If you really wanted someone to understand who you are via paper, would you even be able to do so? The transfer of information is always an imperfect medium, which is why it could take years for us to really get to know someone. When colleges are assessing your abilities, they'll look at your GPA, student activities, SAT score, and essays to get a glimpse of your character. They deem these sets of metrics to be "good enough" estimators. Why are these metrics good enough? Across a population, Harvard will get a good chunk of the most capable students in the United States. They may miss a few good apples here and there and pick up a few rotten apples as well, but overall, their selection process is "good enough." Any one individual they miss out on is not a dealbreaker. 
+
+# Application in hiring
+When you apply for a job, most companies will use your resume, a series of interviews, and a background check as "good enough" estimators of your fit for a given role. It's not always an exact science, since many companies will hire bad employees that will cost them a lot of time and money. However, they are generally "good enough" because most of their candidate picks will have a positive expected value (obviously, some companies do much better than others).
+
+When they pass resumes in bulk through some computer algorithm that filters for GPA > 3.0, they may be removing many super-qualified candidates that would do a great job. However, this risk is worth it, because they can narrow their pool down to "probably good candidates." They understand that looking into candidates with low GPAs will waste a lot of time, and it's not worth it to search for a gem within the rubble (harsh but good metaphor)—the same for those pesky trading firms that almost exclusively hire from MIT or Ivy League schools. There are great students without degrees or at different schools, but these companies expect the concentration of good candidates among them to be much lower. Instead of looking through 10k applicants, they can narrow it down to a few hundred. 
+
+One area of controversy often revolves around the use of coding assessments within the tech industry. Most companies will have a few rounds of behavioral interviews (background, experience, personality) as well as a few rounds of technical interviews (sometimes offered after an initial coding screen). These technical interviews often revolve around solving difficult coding problems outside the typical realm of what you might do at most jobs. People often complain that these coding assessments are not representative of the skills needed to excel at the company and are a waste of time. While I understand the sentiment, critics should understand that these coding assessments are simply "good enough" estimators of job aptitude. 
+
+People may have good projects on their resume, but it's hard for hiring managers to see how truly good they are, whether they are legit or embellished, or whether any given applicant is being deceitful. Therefore, they need some sort of aptitude test to ensure candidates are as good as they say. Most tech companies do not have the time to create individually tailored assessments for each role they hire for. They want tests that are broad enough to cover many roles while assessing the capability of their candidates. Coding assessments were the ultimate solution: they test the ability to program with a language, critical thinking, data structures, and general reasoning skills. Every applicant has different skills they could test for, but everyone who applies must know how to program. 
+
+Being good at these assessments doesn't mean you are good at using whatever technology the job calls for, but the companies think the correlation must be "good enough." Together with a resume showing off job-specific skills, a coding assessment can show that the candidate at minimum has good technical chops as well. Remember, these tests are also filters to show who is definitely not qualified. There is no chance you are a skilled candidate if you can barely code during the interview. You may struggle with solving a problem, but at least, you have to know how to do things. 
+
+Are there extremely gifted developers who can do amazing work but suck at coding tests? Yeah, for sure. It's simply just more unlikely. These tech giants don't need to solely hire god-tier applicants. They just need to be sure most of their candidates are good. They're fine missing a gem every now and then. They don't need to put in 10x the effort to achieve a 10% better employee pool. These companies are driven by their desire to make as much profit as possible. If they knew these coding assessments were not worthwhile, you know they'd be the first to jump ship for a method that better brings in the bag. 
+
+# Takeaway, for us
+I'm not saying any of this is fair. But, for practical purposes, these estimators are "good enough" for a reason. In any individual circumstance, it's okay to feel cheated. It's normal to think "They just don't understand me." You may be right, but to an uncompromising school or corporation, you're just a fish in the water. If you are good and cast your net wide enough, you'll get a bite. It's a matter of time, patience, and effort. Many things aren't fair. They're simply just "good enough."
