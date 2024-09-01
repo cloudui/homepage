@@ -1,0 +1,33 @@
+---
+title: Left and Right
+date: 2024-08-31    
+slug: left-and-right
+
+caption: Photo by <a href="https://unsplash.com/@cbarbalis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chris Barbalis</a> on <a href="https://unsplash.com/photos/black-tree-under-rainbow-and-blue-sky-Cjz4Gvvivek?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+image: leftright.jpg
+images:
+    - images/leftright.jpg
+---
+
+I recently had an argument with my sister about workers' rights in the United States. We bickered about the issue back and forth, ultimately determining that our disagreements boiled down to our different worldviews. Although I won't necessarily concede that she is as right as I am, I will say that it did teach me about the importance of opposing ideologies. 
+
+In the political sphere, we can typically place people on the left-to-right wing ideological spectrum. I've taken this particular snippet from [Wikipedia](https://en.wikipedia.org/wiki/Left%E2%80%93right_political_spectrum):
+> Generally, the left wing is characterized by an emphasis on  ideas such as freedom, equality, fraternity, rights, progress, reform, and internationalism" while the right wing is characterized by an emphasis on "notions such as authority, hierarchy, order, duty, tradition, reaction, and nationalism"
+
+In common politics, you'll see the extremists at both ends of the spectrum battling it out on social media, headline news, and popular media. It's an entertaining yet aggravating battle to watch, as most dialogues are extremely hostile and counterproductive. The heaviest proponents of either side will find it almost impossible to agree on any solution, as the way they see the issue is basically defined by completely different perspectives.
+
+Both perspectives are necessary as they bring a sort of balance into the societal dynamic. The progressive left often concerns itself with "victims" of the system. It is characterized by historical movements of equality, pivotal moments of change, and a generally more "compassionate"[^1] attitude towards the dispossessed. On the other hand, the conservative right often concerns itself with adhering to tradition, personal initiative, stability, and hierarchies. It is inherently more reactionary, where the goal is to prevent the progressives from going too far. 
+
+Without the left, we'd still be in an anarchist fascist world adhering to old bigoted ideas, enveloped in a system resistant to any kind of change. Without the right, we'd either be in a communist dystopia, a structureless, primal world without any societal backbone. Each side balances the other side, bringing a societal slider somewhere closer to the middle. There's always an ongoing battle where that slider may shift too far to the left or to the right, which is going to be a battle to eternity or one that ends in imminent disaster. 
+
+In the argument with my sister, we considered the general problem of most people being unable to financially support themselves in a world that is becoming unsustainably expensive. Loosely speaking, she was concerned with people being unable to afford to live anymore due to a system that is broken, while I was concerned with many people not taking financial responsibility for their own lives. Both ideas are very fair and not mutually exclusive--our system has broken in a way that has caused housing prices and inflation to skyrocket. Some solutions target a population or group level that can make things better for a lot of people. However, there's no doubt that many people are neglecting their financial responsibilities, and a series of inaccurate or irresponsible decisions can cause a system-wide financial epidemic. We can have a better system with more educated and responsible citizens. It's not so simple, either. The way you see the issue can overly influence what you think the root cause of the problem might be. At a political scale, this ideological disconnect can muddle or polarize an issue that might have a somewhat optimal solution. With a good enough system, the extremists will be knocked down a peg and you'll end up finding this more centrist and reasonable solution. In some cases, one side is a lot more right about an issue than the other. 
+
+# Progressive vs. Traditional Ideas
+
+Another dynamic I wanted to discuss is the nature of ideas brought up by the progressives and conservatives. Progressive ideas are progressive in the sense that they are new and challenge existing traditions. They are commonly overly unrealistic, idealistic, too surface-level, or flat-out harmful. This is because progressive ideas are *new*. It's easy to come up with ideas and not so easy to come up with *good* ideas. Progressives will offer solutions that are not thought out because it is incredibly hard to fully think things through in our extremely complex systems. When good progressive ideas are accepted as the new norm, they are usually tuned to a more reasonable degree--after the conservatives have had their way with them. Conservatives stick to tradition because the only reason why traditional ideas exist is because they have worked (to some extent) in the past. They have a proven track record and have predictable outcomes. Progressives often challenge traditional ideas without fully understanding why they exist, bringing in novel ideas that break things in ways they haven't considered. On the other hand, conservatives may be too rigid with tradition, holding onto rigid and potentially harmful ideas of the past. They are resistant to change when change is needed, which may cause bad ideas to go unpunished for long periods of time. It's not hard to see why progressives and conservatives need each other. They are each there to keep the other in check. 
+
+It's often hard to find the boundary between the two sides, as any individual's moral and value system is strongly shaped by their ideological preference[^2]. People will find solace in their in-group, relating to those more similar to them. Even in gray areas, it's possible to find some middle ground. Regardless of what side you are on, you can't automatically dismiss the other side. They exist for a reason--a reason that isn't always clear at the moment. 
+
+[^1]: Too much compassion for one party can often lead to vitriol for another party. That's why most left-wing extremists are as toxic and arrogant as right-wing extremists. 
+[^2]: Your political leaning is very influenced by your personality. Women tend to be more compassionate and emotional (by a small margin), which partially explains why women are on average more left than men. 
