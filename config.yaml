@@ -246,14 +246,22 @@ params:
   experience:
     enable: true
     items:
-      - job: "Software Engineering Intern"
+      - job: "Software Engineer Intern"
         company: "Viam"
         companyUrl: "https://viam.com"
         date: "May 2024 - Aug 2024"
         content: |-
-          Incoming SWE at Viam, a robotics startup in NYC founded by Mongo founder and former-CTO Eliot Horowitz. I will be working on 
-          the Robot Development Kit (RDK), which is "responsible for drivers and robot controls, as well as video and 
-          audio streaming from end to end." It'll be a good mix of software and hardware-- perfect for my major.
+          This most recent summer, I interned at a Series B "robotics" startup in NYC founded by Mongo founder and former-CTO Eliot Horowitz. Viam has the vision to 
+          build a centralized platform for hardware and robotic components, allowing developers to easily create smart, internet-connected machines. We have a lot of 
+          cloud platforms nowadays that helps manage servers for us. Viam helps us manage connections between hardware, providing an easy interface to control things like
+          cameras, motors, sensors, and robotic arms.
+
+          I worked on the Robot Development Kit, responsible for creating the drivers for all of our supported hardware components. I helped fix a critical
+          memory management bug plaguing our most popular component: the Raspberry Pi 4 (with over 22k users). Using my knowledge of microprocessors, hardware, and software interfaces,
+          I wrote a new module that overhauled the previous Pi 4 component, fixing one of the most critical bugs on Viam's platform. 
+
+          I also did some work with high-precision GPS drivers and testing, which may be important for Viam's future customers. 
+
       - job: "Generative AI Intern"
         company: "Mobius"
         companyUrl: "https://mobiuslabs.xyz"
@@ -263,21 +271,21 @@ params:
         #   name: "View the project"
         #   url: "https://example.com"
         content: |-
-          This summer, I worked at Mobius Labs, a very early-stage startup based in Menlo Park, California. Mobius is leveraging tools that 
+          In the summer of 2023, I worked at Mobius Labs, a very early-stage 6-person startup based in Menlo Park, California. Mobius is leveraging tools that 
           allow corporations to integrate generative AI into their business processes. I worked on fine-tuning generative AI models such as 
           text-to-image models and open source LLMs. 
 
           I was also responsible for staying up to date on the latest technologies in the AI space that could be valuable to the company's products. I experimented with
           emerging AI technologies such as LLM plugins and tools. 
 
-          Stuff I'm worked on:
-          - Building data analytics tools with LLMs
-          - Testing viability of LLM tools to become potential products
-          - Deploying models on AWS to run open source LLMs (text-generation-webui, Sagemaker, custom AMIs on EC2)
-          - LangChain, Q&A chatbots, and agents
-          - Building chat interfaces with Docker, React, and FastAPI
-          - Constructing demos for potential enterprise customers using Streamlit
-          - Getting product demos ready for enterprise contracts and VC funding
+          Stuff I worked on:
+          - Built data analytics tools with LLMs
+          - Tested viability of LLM tools to become potential products
+          - Deployed models on AWS to run open source LLMs (text-generation-webui, Sagemaker, custom AMIs on EC2)
+          - Worked with LangChain, Q&A chatbots, and agents
+          - Built chat interfaces with Docker, React, and FastAPI
+          - Constructed demos for potential enterprise customers using Streamlit
+          - Created product demos to help secure enterprise contracts and VC funding
 
         # Why did I choose a startup? 
         # - I feel like I will be able to contribute to more crucial aspects of a company and hence, make more of a difference.
@@ -300,7 +308,7 @@ params:
           I was responsible for automating Python and SQL documentation generation and version control. I 
           integrated the solutions into our new repository templates.
 
-          Some of the cool technologies I'm worked with and learned:
+          Some of the cool technologies I worked with and learned:
           - Kubernetes and Docker
           - Jenkins and Airflow
           - Python Library Template Engines
