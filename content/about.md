@@ -8,7 +8,7 @@ draft: false
 <!-- <img src="/images/eric.jpeg" class="md" width="400" alt="Me"/> -->
 <!-- <br> -->
 
-**Welcome!** I'm Eric, and I'm a rising senior studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
+**Welcome!** I'm Eric, and I'm Eric, and I'm...unemployed until August. I graduated as a computer engineering student from the University of Maryland this year. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
 - Technology and the Internet
 - Cognitive Science and Pyschology
 - Areas of Science

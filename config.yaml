@@ -152,7 +152,7 @@ params:
     title: "About Me"
     image: "/images/boat.jpg"
     content: |-
-      **Welcome!** I'm Eric, and I'm a rising senior studying Computer Engineering at the University of Maryland. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
+      **Welcome!** I'm Eric, and I'm...unemployed until August. I graduated as a computer engineering student from the University of Maryland this year. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
       - Technology and the Internet
       - Cognitive Science and Pyschology
       - Areas of Science
@@ -247,6 +247,13 @@ params:
   experience:
     enable: true
     items:
+      - job: "Computer Stuff"
+        company: "Meta"
+        companyUrl: "https://meta.com"
+        date: "Starting August 2025"
+        content: |-
+          Video recommendations modeling team.
+
       - job: "Software Engineer Intern"
         company: "Viam"
         companyUrl: "https://viam.com"
@@ -402,8 +409,7 @@ params:
         date: "2021 - 2025"
         GPA: "3.97"
         content: |-
-          Minor in Robotics and Autonomous Systems |
-          Academy of Machine Learning
+          Magnum Cum Laude
 
           Honors Programs:
           - University Honors
@@ -417,7 +423,7 @@ params:
           - James W. Dally Endowed Scholarship 2022
           - Derek H. Blume Memorial Scholarship 2022
           - Northrop Grumman Environmental Sustainability Challenge Champion 2022
-          - Dean's List (6x)
+          - Dean's List (8x)
 
           Extracurricular Activities:
           - Bitcamp Organizer | Tech Director
