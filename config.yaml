@@ -80,6 +80,7 @@ params:
   description: Eric Chen's personal homepage
   # staticPath: ""  # The path to serve the static files from
   favicon: "/favicon.png"
+  rssFullContent: true
 
   theme:
     disableThemeToggle: false
