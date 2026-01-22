@@ -153,7 +153,7 @@ params:
     title: "About Me"
     image: "/images/boat.jpg"
     content: |-
-      **Welcome!** I'm Eric, and I'm...unemployed until August. I graduated as a computer engineering student from the University of Maryland this year. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
+      **Welcome!** I'm Eric, a employed person based in San Francisco. I graduated as a computer engineering student from the University of Maryland in 2025. I have a small presence online via my [Twitter](https://twitter.com/below_ocean), my [short-form writing](/shorts), and my [blog](https://blog.echen.io), where I share advice and my inner musings. The topics I write about include:
       - Technology and the Internet
       - Cognitive Science and Pyschology
       - Areas of Science
@@ -161,7 +161,7 @@ params:
       - Cloud Computing
       - Popular media
 
-      My hobbies include playing basketball, writing, breakdancing, chess, watching K-dramas and anime, learning, and solving twisty puzzles. 
+      My hobbies include playing basketball, writing, breakdancing, chess, watching anime, learning, and solving twisty puzzles. 
 
       I am interested in you, too! Find me in my socials below.
 
@@ -248,12 +248,12 @@ params:
   experience:
     enable: true
     items:
-      - job: "Computer Stuff"
+      - job: "Machine Learning Engineer"
         company: "Meta"
         companyUrl: "https://meta.com"
-        date: "Starting August 2025"
+        date: "Aug 2025 - Present"
         content: |-
-          Video recommendations modeling team.
+          Late stage ranking for Facebook Reels. Work is mostly training infrastructure, modeling, and experimentation.
 
       - job: "Software Engineer Intern"
         company: "Viam"
@@ -424,25 +424,23 @@ params:
           - James W. Dally Endowed Scholarship 2022
           - Derek H. Blume Memorial Scholarship 2022
           - Northrop Grumman Environmental Sustainability Challenge Champion 2022
-          - Dean's List (8x)
 
           Extracurricular Activities:
-          - Bitcamp Organizer | Tech Director
+          - Bitcamp Organizer | Tech Director | Senior Advisor
           - Terps Racing SAE Formula - Composites Team
           - SEDS Liquid Rocket Team - Data Acquisition Team Lead
           - Terps in Space Researcher
 
-          Relevant Coursework: 
-          - **Computer Science**: Computer Systems, Organization of Programming Languages, Algorithms, Big Data with R, Object-Oriented Programming,
-            Advanced Algorithms, Quantitative Analysis (Python)
-          - **Engineering**: Discrete Signal Analysis, Engineering Design, Electric Circuits, Digital Logic Design, Digital Systems and Circuits, 
-            Signals and System Theory, Computer Organization, Machine Learning, Intro to Robotics, Advanced Computer Architecture, Microprocessors
-          - **General Math + Science**: Probability, Differential Equations, Discrete Mathematics, Multivariable Calculus
-          - **Other**: Intro to Design and Quality, Entrepreneurship, Systems, and Design
+          Favorite Courses:
+          - Digital Logic Design, Computer Architecture, Complex Analysis, Advanced Algorithms
 
-          Upcoming Coursework:
-          - Autonomous Robots Capstone
-          - Consulting Capstone
+        # Relevant Coursework: 
+        # - **Computer Science**: Computer Systems, Organization of Programming Languages, Algorithms, Big Data with R, Object-Oriented Programming,
+        #   Advanced Algorithms, Quantitative Analysis (Python)
+        # - **Engineering**: Discrete Signal Analysis, Engineering Design, Electric Circuits, Digital Logic Design, Digital Systems and Circuits, 
+        #   Signals and System Theory, Computer Organization, Machine Learning, Intro to Robotics, Advanced Computer Architecture, Microprocessors
+        # - **General Math + Science**: Probability, Differential Equations, Discrete Mathematics, Multivariable Calculus
+        # - **Other**: Intro to Design and Quality, Entrepreneurship, Systems, and Design
           
         # featuredLink:
         #   enable: true
